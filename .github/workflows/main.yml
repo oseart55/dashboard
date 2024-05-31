@@ -30,7 +30,7 @@ jobs:
       with:
         feed_url: 'https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en'
         file_path: './data/GoogleNews.json'
-        parser_options: "{\"useISODateFormat\": false, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
         fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
    
 
