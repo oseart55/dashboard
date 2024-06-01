@@ -1,6 +1,11 @@
-[{
-  "Source": "GoogleNews.json"
-},
 {
-  "Source": "defence_blog.json"
-}]
+  "title": "Data Sources",
+  "entries": [
+    {
+      "source": "GoogleNews.json"
+    },
+    {
+      "source": "defense-blog.json"
+    }
+  ]
+}
