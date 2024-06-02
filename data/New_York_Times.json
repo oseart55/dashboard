@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-02T08:13:25.000Z",
+  "published": "2024-06-02T09:10:19.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/02/world/africa/south-africa-election-anc-voters.html",
@@ -117,6 +117,45 @@
         {
           "#text": "internal-truncator",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/02/world/americas/mexico-election.html",
+      "title": "Mexicans Go to Polls in Historic Election, as 2 Women Vie to Rule the Country",
+      "link": "https://www.nytimes.com/2024/06/02/world/americas/mexico-election.html",
+      "published": "2024-06-02T09:04:25.000Z",
+      "description": "The voting is very likely to put a woman in the country’s presidency for the first time ever, showcasing the immense strides that females have made in Mexico’s political scene.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Lopez Obrador, Andres Manuel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Sheinbaum, Claudia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Galvez, Xochitl (1963- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Mexico",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Latin America",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Mexico City (Mexico)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     },
@@ -516,45 +555,6 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/01/world/asia/india-election-deepfakes.html",
-      "title": "A Small Army Combating a Flood of Deepfakes in India’s Election",
-      "link": "https://www.nytimes.com/2024/06/01/world/asia/india-election-deepfakes.html",
-      "published": "2024-06-01T15:52:22.000Z",
-      "description": "Social media is awash with A.I.-altered audio, clipped video and manipulated images. Fact-checkers want to save the public from deception.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Artificial Intelligence",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Social Media",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Rumors and Misinformation",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Computers and the Internet",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Elections",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "India",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "vis-video",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
       "id": "https://www.nytimes.com/2024/06/01/world/europe/ukraine-donetsk-civilians.html",
       "title": "She’s 98, and Walked Past Corpses to Escape Russian Attacks",
       "link": "https://www.nytimes.com/2024/06/01/world/europe/ukraine-donetsk-civilians.html",
@@ -641,6 +641,68 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/02/world/asia/china-moon-landing.html",
+      "title": "China Lands Spacecraft on Far Side of the Moon",
+      "link": "https://www.nytimes.com/2024/06/02/world/asia/china-moon-landing.html",
+      "published": "2024-06-02T09:01:18.000Z",
+      "description": "The landing brings the Chang’e-6 mission a step closer to being the first to return a sample from the part of the moon that’s never seen from Earth.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "China",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Space and Astronomy",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Moon",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/02/world/europe/ukraine-children-russia-war.html",
+      "title": "46 Children Were Taken From Ukraine. Many Are Up for Adoption in Russia.",
+      "link": "https://www.nytimes.com/2024/06/02/world/europe/ukraine-children-russia-war.html",
+      "published": "2024-06-02T09:01:01.000Z",
+      "description": "The New York Times traced how a web of officials and politicians aligned with President Vladimir V. Putin’s party carried out a campaign to permanently transfer Ukrainian children from Kherson.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Russian Invasion of Ukraine (2022)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "War Crimes, Genocide and Crimes Against Humanity",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Children and Childhood",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Propaganda",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Human Rights and Human Rights Violations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "vis-video",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "internal-paywall-exempt",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/01/world/asia/u-tin-oo-dead.html",
       "title": "U Tin Oo, Embattled Pro-Democracy Leader in Myanmar, Dies at 97",
       "link": "https://www.nytimes.com/2024/06/01/world/asia/u-tin-oo-dead.html",
@@ -722,6 +784,49 @@
         },
         {
           "#text": "Canada",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/01/world/middleeast/protests-tel-aviv-rome-paris-netanyahu.html",
+      "title": "Protesters in Tel Aviv, Rome and Paris Urge Netanyahu to Accept Cease-Fire Proposal",
+      "link": "https://www.nytimes.com/2024/06/01/world/middleeast/protests-tel-aviv-rome-paris-netanyahu.html",
+      "published": "2024-06-02T08:43:22.000Z",
+      "description": "Thousands of demonstrators rallied in Israel on Saturday evening in support of the proposal. Protesters also gathered in Rome, Paris and Jakarta.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Demonstrations, Protests and Riots",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Gaza Strip",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Haifa (Israel)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Israel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Rome (Italy)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Tel Aviv (Israel)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Jakarta (Indonesia)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -1092,6 +1197,45 @@
         {
           "#text": "Weidel, Alice",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/01/world/asia/india-election-deepfakes.html",
+      "title": "A Small Army Combating a Flood of Deepfakes in India’s Election",
+      "link": "https://www.nytimes.com/2024/06/01/world/asia/india-election-deepfakes.html",
+      "published": "2024-06-01T15:52:22.000Z",
+      "description": "Social media is awash with A.I.-altered audio, clipped video and manipulated images. Fact-checkers want to save the public from deception.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Artificial Intelligence",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Social Media",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Rumors and Misinformation",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Computers and the Internet",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "India",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "vis-video",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     },
@@ -2660,200 +2804,6 @@
         {
           "#text": "Layoffs and Job Reductions",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/30/world/asia/korea-marine-yoon-impeachment.html",
-      "title": "South Korean Marine’s Death Becomes Impeachment Threat for President",
-      "link": "https://www.nytimes.com/2024/05/30/world/asia/korea-marine-yoon-impeachment.html",
-      "published": "2024-05-30T18:02:04.000Z",
-      "description": "President Yoon Suk Yeol has been accused of intervening in an inquiry into an accidental death during a peacetime search and rescue operation.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "South Korea",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Yoon Suk-yeol",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Legislatures and Parliaments",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Impeachment",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Defense and Military Forces",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/30/briefing/ukraine-russia-new-delhi-heat-gaza.html",
-      "title": "Thursday Briefing",
-      "link": "https://www.nytimes.com/2024/05/30/briefing/ukraine-russia-new-delhi-heat-gaza.html",
-      "published": "2024-05-30T04:02:05.000Z",
-      "description": "Good morning. We’re covering a push to allow U.S. weapons in strikes within Russia as well as New Delhi’s record heat.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/30/world/asia/singapore-airlines-flight-turbulence.html",
-      "title": "Singapore Airlines Flight Fell 178 Feet in Under 5 Seconds",
-      "link": "https://www.nytimes.com/2024/05/30/world/asia/singapore-airlines-flight-turbulence.html",
-      "published": "2024-05-30T04:39:37.000Z",
-      "description": "A man died and more than 70 other people were injured last week when a flight to Singapore from London hit sudden turbulence.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Aviation Accidents, Safety and Disasters",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Airlines and Airplanes",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Singapore Airlines",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Singapore",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Thailand",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "London (England)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/30/world/europe/icj-israel-rafah-offensive-explained.html",
-      "title": "What Does the ICJ Ruling on Israel’s Military Offensive in Rafah Mean?",
-      "link": "https://www.nytimes.com/2024/05/30/world/europe/icj-israel-rafah-offensive-explained.html",
-      "published": "2024-05-30T14:22:28.000Z",
-      "description": "There is a substantial consensus among legal experts that Israel cannot continue its current Rafah offensive without violating the court’s order.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Israel-Gaza War (2023- )",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Palestinians",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Decisions and Verdicts",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "War Crimes, Genocide and Crimes Against Humanity",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Courts and the Judiciary",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Civilian Casualties",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Hamas",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "International Court of Justice (UN)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Hathaway, Oona",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Gaza Strip",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Israel",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Rafah (Gaza Strip)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/29/world/asia/hong-kong-national-security.html",
-      "title": "Hong Kong Convicts 14 Democracy Activists in Largest National Security Trial",
-      "link": "https://www.nytimes.com/2024/05/29/world/asia/hong-kong-national-security.html",
-      "published": "2024-05-30T08:44:50.000Z",
-      "description": "As part of China’s crackdown on even peaceful opposition, a court in Hong Kong convicted 14 people, who now face prison time along with dozens of others.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Hong Kong",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "China",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Hong Kong Protests (2019)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Political Prisoners",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Decisions and Verdicts",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Ho, Gwyneth (1990- )",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Lai, Jimmy",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Lam Cheuk-ting",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Leung Kwok-hung",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Wong, Joshua (1996- )",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         }
       ]
     }
