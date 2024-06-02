@@ -4,24 +4,24 @@
   "description": "BBC News - World",
   "language": "en-gb",
   "generator": "RSS for Node",
-  "published": "2024-06-02T14:11:45.000Z",
+  "published": "2024-06-02T15:13:27.000Z",
   "entries": [
+    {
+      "id": "https://www.bbc.com/news/articles/cd11l590qqwo#0",
+      "title": "US expects Israel will accept Gaza ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/cd11l590qqwo",
+      "published": "2024-06-02T15:03:31.000Z",
+      "description": "The White House believes Hamas has been weakened to a point that it cannot repeat the 7 October attack.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
     {
       "id": "https://www.bbc.com/news/articles/cp4475gwny1o#0",
       "title": "Mexicans vote in election likely to see first woman president",
       "link": "https://www.bbc.com/news/articles/cp4475gwny1o",
       "published": "2024-06-02T14:09:18.000Z",
       "description": "After a campaign overshadowed by violence which saw dozens of local candidates killed, voters have their say.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cz55y6k0p5go#0",
-      "title": "Israeli ministers threaten to quit over ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/cz55y6k0p5go",
-      "published": "2024-06-02T09:59:56.000Z",
-      "description": "Bezalel Smotrich and Itamar Ben-Gvir say they are opposed to striking any deal before Hamas is destroyed.",
       "summary": "",
       "author": "",
       "category": ""
@@ -57,21 +57,31 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/crggwzl6vq1o#0",
-      "title": "Trump's White House bid goes on, lawyer tells BBC",
-      "link": "https://www.bbc.com/news/articles/crggwzl6vq1o",
-      "published": "2024-06-02T06:50:44.000Z",
-      "description": "Donald Trump's lawyer Alina Habba tells the BBC he would run for president even if he was in jail.",
+      "id": "https://www.bbc.com/sport/football/articles/czqqg40xv80o#0",
+      "title": "Mbappe signs Real Madrid deal",
+      "link": "https://www.bbc.com/sport/football/articles/czqqg40xv80o",
+      "published": "2024-06-02T13:49:22.000Z",
+      "description": "Kylian Mbappe will join Real Madrid on a free transfer from Paris St-Germain when the La Liga transfer window opens on 1 July.",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/sport/tennis/articles/czddkkglz11o#0",
-      "title": "Djokovic beats Musetti in 3:07am finish in Paris",
-      "link": "https://www.bbc.com/sport/tennis/articles/czddkkglz11o",
-      "published": "2024-06-02T05:50:32.000Z",
-      "description": "Novak Djokovic reaches the French Open fourth round with a five-set win over Lorenzo Musetti that ends at 03:07 local time in Paris.",
+      "id": "https://www.bbc.com/news/articles/c9ee487k1eyo#0",
+      "title": "Media tycoon Rupert Murdoch marries for fifth time",
+      "link": "https://www.bbc.com/news/articles/c9ee487k1eyo",
+      "published": "2024-06-02T14:19:53.000Z",
+      "description": "The 93-year-old tied the knot with his new wife Elena Zhukova in a ceremony at his Californian vineyard.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cjll10pz1d2o#1",
+      "title": "One dead, dozens injured in Ohio mass shooting",
+      "link": "https://www.bbc.com/news/articles/cjll10pz1d2o",
+      "published": "2024-06-02T13:54:46.000Z",
+      "description": "At least 26 people have been injured after a shooting in the US city of Akron, police say.",
       "summary": "",
       "author": "",
       "category": ""
@@ -97,21 +107,11 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/cjll10pz1d2o#1",
-      "title": "One dead, dozens injured in Ohio mass shooting",
-      "link": "https://www.bbc.com/news/articles/cjll10pz1d2o",
-      "published": "2024-06-02T13:54:46.000Z",
-      "description": "At least 26 people have been injured after a shooting in the US city of Akron, police say.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cz99vl36n0ro#1",
-      "title": "North Korea floats more rubbish-filled balloons over South Korean border",
-      "link": "https://www.bbc.com/news/articles/cz99vl36n0ro",
-      "published": "2024-06-01T13:04:16.000Z",
-      "description": "South Korea's military has warned people to avoid touching the balloons and report them to authorities.",
+      "id": "https://www.bbc.com/news/articles/crggwzl6vq1o#1",
+      "title": "Trump's White House bid goes on, lawyer tells BBC",
+      "link": "https://www.bbc.com/news/articles/crggwzl6vq1o",
+      "published": "2024-06-02T06:50:44.000Z",
+      "description": "Donald Trump's lawyer Alina Habba tells the BBC he would run for president even if he was in jail.",
       "summary": "",
       "author": "",
       "category": ""
@@ -127,31 +127,21 @@
       "category": ""
     },
     {
+      "id": "https://www.bbc.com/news/articles/cz99vl36n0ro#1",
+      "title": "North Korea floats more rubbish-filled balloons over South Korean border",
+      "link": "https://www.bbc.com/news/articles/cz99vl36n0ro",
+      "published": "2024-06-01T13:04:16.000Z",
+      "description": "South Korea's military has warned people to avoid touching the balloons and report them to authorities.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cxxx4nwdwnxo#1",
       "title": "'Heartsick' Jennifer Lopez cancels US tour dates",
       "link": "https://www.bbc.com/news/articles/cxxx4nwdwnxo",
       "published": "2024-06-01T09:49:06.000Z",
       "description": "Ticket firm Live Nation says the singer is \" taking time off to be with her children, family and close friends\".",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c722zxj0kyro#1",
-      "title": "We have no Plan B if Ukraine falls, says Estonia",
-      "link": "https://www.bbc.com/news/articles/c722zxj0kyro",
-      "published": "2024-05-31T23:52:44.000Z",
-      "description": "Estonia is pouring money and weapons into Ukraine’s war effort to try to push back the Russians.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cj772xzl3xdo#1",
-      "title": "Hadid sisters donate $1m to Palestinian aid effort",
-      "link": "https://www.bbc.com/news/articles/cj772xzl3xdo",
-      "published": "2024-06-01T17:13:55.000Z",
-      "description": "Supermodel sisters Bella and Gigi Hadid donate 1m dollars to Palestinian aid agencies",
       "summary": "",
       "author": "",
       "category": ""
