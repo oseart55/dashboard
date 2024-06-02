@@ -17,7 +17,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Fetch RSS Feed - Defence-blog
+    - name: Defence-blog
       uses: Promptly-Technologies-LLC/rss-fetch-action@v2
       with:
         feed_url: 'https://defence-blog.com/feed/atom/'
@@ -25,14 +25,141 @@ jobs:
         parser_options: "{\"useISODateFormat\": false, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
         fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
    
-    - name: Fetch RSS Feed - Google News
+    - name: Google News
       uses: Promptly-Technologies-LLC/rss-fetch-action@v2
       with:
         feed_url: 'https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en'
         file_path: './data/GoogleNews.json'
         parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
         fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
-   
+
+    - name: BBC
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://feeds.bbci.co.uk/news/world/rss.xml'
+        file_path: './data/BBC.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+    
+    - name: CNN
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://rss.cnn.com/rss/edition_world.rss'
+        file_path: './data/CNN.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+  
+    - name: NDTV
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://feeds.feedburner.com/ndtvnews-world-news'
+        file_path: './data/NDTV.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+    
+    - name: timesofindia
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://timesofindia.indiatimes.com/rssfeeds/296589292.cms'
+        file_path: './data/Times_Of_India.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+  
+    - name: NYT
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml'
+        file_path: './data/New_York_Times.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Washington Post
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://feeds.washingtonpost.com/rss/world'
+        file_path: './data/Washington_Post.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Reddit
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://www.reddit.com/r/worldnews/.rss'
+        file_path: './data/Reddit.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: The Guardian
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://www.theguardian.com/world/rss'
+        file_path: './data/The_Guardian.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Yahoo
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://www.yahoo.com/news/rss'
+        file_path: './data/Yahoo.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+    
+    - name: Slate
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://www.slate.com/articles/news_and_politics/politics.teaser.all.10.rss/'
+        file_path: './data/Slate.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+        
+    - name: World Affair
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://www.worldaffairsjournal.org/essay-feed.xml'
+        file_path: './data/World_Affair_Journal.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+    
+    - name: Politico Congress
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://rss.politico.com/congress.xml'
+        file_path: './data/Politico_Congress.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Politico Defense
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://rss.politico.com/defense.xml'
+        file_path: './data/Politico_Defense.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Politico Politics
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://rss.politico.com/politics-news.xml'
+        file_path: './data/Politico_Politics.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Politico Morning Defense
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'http://rss.politico.com/morningdefense.xml'
+        file_path: './data/Politico_Morning_Defense.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: WSJ World News
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml'
+        file_path: './data/WSJ_World_News.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
 
     - name: Commit and push changes to repository
       uses: stefanzweifel/git-auto-commit-action@v4
