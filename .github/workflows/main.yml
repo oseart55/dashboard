@@ -129,14 +129,6 @@ jobs:
         parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
         fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
 
-    - name: Politico Politics
-      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
-      with:
-        feed_url: 'https://rss.politico.com/politics-news.xml'
-        file_path: './data/Politico_Politics.json'
-        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
-        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
-
     - name: Politico Morning Defense
       uses: Promptly-Technologies-LLC/rss-fetch-action@v2
       with:
