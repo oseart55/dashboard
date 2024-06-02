@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-02T16:14:34.000Z",
+  "published": "2024-06-02T17:10:01.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/02/world/europe/ukraine-children-russia-war.html",
@@ -100,6 +100,49 @@
         },
         {
           "#text": "South Africa",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/02/world/middleeast/netanyahu-biden-truce-proposal.html",
+      "title": "Netanyahu May Face a Choice Between a Truce and His Government’s Survival",
+      "link": "https://www.nytimes.com/2024/06/02/world/middleeast/netanyahu-biden-truce-proposal.html",
+      "published": "2024-06-02T17:04:52.000Z",
+      "description": "The Israeli prime minister has been put on the spot by President Biden’s announcement outlining a proposal for a truce.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Netanyahu, Benjamin",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Peace Process",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Biden, Joseph R Jr",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Hamas",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Gaza Strip",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Israel",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -469,37 +512,6 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/01/world/europe/real-madrid-uefa-champions-league.html",
-      "title": "Real Madrid vs. UEFA Is the Champions League’s Most Bitter Rivalry",
-      "link": "https://www.nytimes.com/2024/06/01/world/europe/real-madrid-uefa-champions-league.html",
-      "published": "2024-06-01T04:30:13.000Z",
-      "description": "No club has won European soccer’s richest prize more than Real Madrid, but its recent dominance has been accompanied by a bruising fight over the tournament’s future.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Real Madrid (Soccer Team)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "UEFA Champions League (Soccer)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Borussia Dortmund (Soccer Team)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Perez, Florentino",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Soccer",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
       "id": "https://www.nytimes.com/2024/06/01/world/africa/south-africa-election-results.html",
       "title": "South Africa Election: ANC Loses Majority for the First Time in 30 Years",
       "link": "https://www.nytimes.com/2024/06/01/world/africa/south-africa-election-results.html",
@@ -509,15 +521,11 @@
       "author": "",
       "category": [
         {
-          "#text": "South Africa",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Africa",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
           "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Politics and Government",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
@@ -547,6 +555,10 @@
         {
           "#text": "Malema, Julius S",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "South Africa",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     },
@@ -640,7 +652,7 @@
       "id": "https://www.nytimes.com/2024/06/02/world/asia/china-moon-landing.html",
       "title": "China Lands Spacecraft on Far Side of the Moon",
       "link": "https://www.nytimes.com/2024/06/02/world/asia/china-moon-landing.html",
-      "published": "2024-06-02T09:01:18.000Z",
+      "published": "2024-06-02T16:56:21.000Z",
       "description": "The landing brings the Chang’e-6 mission a step closer to being the first to return a sample from the part of the moon that’s never seen from Earth.",
       "summary": "",
       "author": "",
@@ -798,11 +810,15 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Palestinians",
+          "#text": "United States International Relations",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "International Relations",
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Palestinians",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
@@ -824,18 +840,6 @@
         {
           "#text": "Israel",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Gantz, Benny",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Lapid, Yair",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Ben-Gvir, Itamar",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         }
       ]
     },
@@ -1120,16 +1124,51 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Vinnytsia (Ukraine)",
+          "#text": "Russia",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Zelensky, Volodymyr",
+          "#text": "Ukraine",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Defense and Military Forces",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Electric Light and Power",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/01/world/europe/real-madrid-uefa-champions-league.html",
+      "title": "Real Madrid vs. UEFA Is the Champions League’s Most Bitter Rivalry",
+      "link": "https://www.nytimes.com/2024/06/01/world/europe/real-madrid-uefa-champions-league.html",
+      "published": "2024-06-01T04:30:13.000Z",
+      "description": "No club has won European soccer’s richest prize more than Real Madrid, but its recent dominance has been accompanied by a bruising fight over the tournament’s future.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Real Madrid (Soccer Team)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "UEFA Champions League (Soccer)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Borussia Dortmund (Soccer Team)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Perez, Florentino",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         },
         {
-          "#text": "Russia",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+          "#text": "Soccer",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     },
@@ -2765,57 +2804,6 @@
         {
           "#text": "Great Britain",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/30/world/europe/east-german-cars-pirna-germany.html",
-      "title": "‘Not Everything Was Bad’: Saluting the Mercedes of Eastern Europe and a Communist Past",
-      "link": "https://www.nytimes.com/2024/05/30/world/europe/east-german-cars-pirna-germany.html",
-      "published": "2024-05-30T18:22:13.000Z",
-      "description": "A festival of classic cars from the communist era brings out some nostalgia in eastern Germany for pre-unification days, although the abuses that occurred behind the Iron Curtain aren’t forgotten.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Antique and Classic Cars",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "East Germany",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "May Day",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Germany",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Pirna (Germany)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Cold War Era",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Socialism (Theory and Philosophy)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Uniforms",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Layoffs and Job Reductions",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     }
