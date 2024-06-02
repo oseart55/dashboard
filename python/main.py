@@ -3,10 +3,11 @@ import os
 import glob
 import html2text
 import locationtagger
+import nltk
 from keybert import KeyBERT
 
 combined = []
-
+nltk.download('punkt')
 
 def editDesc(i):
     if (i['description'] == "" and i['summary'] == ""):
