@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-02T15:09:05.000Z",
+  "published": "2024-06-02T16:14:34.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/02/world/europe/ukraine-children-russia-war.html",
@@ -114,6 +114,10 @@
       "author": "",
       "category": [
         {
+          "#text": "internal-truncator",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
           "#text": "Computers and the Internet",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
@@ -127,6 +131,10 @@
         },
         {
           "#text": "Youth",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Satellites",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
@@ -152,10 +160,6 @@
         {
           "#text": "vis-photo",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "internal-truncator",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     },
@@ -163,7 +167,7 @@
       "id": "https://www.nytimes.com/2024/06/02/world/americas/mexico-election.html",
       "title": "Mexicans Go to Polls in Historic Election, as 2 Women Vie to Lead the Country",
       "link": "https://www.nytimes.com/2024/06/02/world/americas/mexico-election.html",
-      "published": "2024-06-02T11:15:41.000Z",
+      "published": "2024-06-02T15:45:07.000Z",
       "description": "The voting is very likely to put a woman in the country’s presidency for the first time ever, showcasing the immense strides that females have made in Mexico’s political scene.",
       "summary": "",
       "author": "",
@@ -353,19 +357,31 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Surangel Whipps",
+          "#text": "Whipps, Surangel Jr",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
           "#text": "China",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Cyberattacks and Hackers",
+          "#text": "Taiwan",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "International Relations",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "United States Politics and Government",
+          "#text": "Cyberwarfare and Defense",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "United States International Relations",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
