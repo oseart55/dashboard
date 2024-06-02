@@ -677,13 +677,23 @@
       "title": "Body of woman found in rubble of Sydney home that collapsed after explosion",
       "link": "https://www.theguardian.com/australia-news/article/2024/jun/03/body-of-woman-found-in-rubble-of-sydney-home-that-collapsed-after-explosion",
       "published": "2024-06-02T19:56:29.000Z",
-      "description": "Rescue teams had worked around the clock looking for a woman in her 30s who was unaccounted for after the blast in WhalanRescuers have found the body of a woman in the rubble of a townhouse in Sydney’s west that collapsed after an explosion on...",
+      "description": "Rescue teams had worked around the clock looking for a woman in her 30s who was unaccounted for after the blast in WhalanGet our morning and afternoon news emails, free app or daily news podcastRescuers have found the body of a woman in the rubble...",
       "summary": "",
       "author": "",
-      "category": {
-        "#text": "Australia news",
-        "@_domain": "https://www.theguardian.com/australia-news/australia-news"
-      }
+      "category": [
+        {
+          "#text": "Sydney",
+          "@_domain": "https://www.theguardian.com/australia-news/sydney"
+        },
+        {
+          "#text": "New South Wales",
+          "@_domain": "https://www.theguardian.com/australia-news/new-south-wales"
+        },
+        {
+          "#text": "Australia news",
+          "@_domain": "https://www.theguardian.com/australia-news/australia-news"
+        }
+      ]
     },
     {
       "id": "https://www.theguardian.com/australia-news/article/2024/jun/03/the-vague-wording-and-risky-assumptions-that-landed-labor-in-a-deportation-debacle",
@@ -1619,6 +1629,37 @@
       ]
     },
     {
+      "id": "https://www.theguardian.com/politics/article/2024/jun/02/pm-must-face-questions-about-hedge-fund-at-heart-of-financial-crash-says-labour",
+      "title": "PM must face questions about hedge fund at heart of financial crash, says Labour",
+      "link": "https://www.theguardian.com/politics/article/2024/jun/02/pm-must-face-questions-about-hedge-fund-at-heart-of-financial-crash-says-labour",
+      "published": "2024-06-02T20:33:48.000Z",
+      "description": "Keir Starmer aims to turn the spotlight onto Sunak’s career before politics in the lead up to the first TV debate about the general electionRishi Sunak must face questions about the fortune he earned at a hedge fund which engineered a deal at the...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "General election 2024",
+          "@_domain": "https://www.theguardian.com/politics/general-election-2024"
+        },
+        {
+          "#text": "Rishi Sunak",
+          "@_domain": "https://www.theguardian.com/politics/rishi-sunak"
+        },
+        {
+          "#text": "Keir Starmer",
+          "@_domain": "https://www.theguardian.com/politics/keir-starmer"
+        },
+        {
+          "#text": "Politics",
+          "@_domain": "https://www.theguardian.com/politics/politics"
+        },
+        {
+          "#text": "UK news",
+          "@_domain": "https://www.theguardian.com/uk/uk"
+        }
+      ]
+    },
+    {
       "id": "https://www.theguardian.com/politics/article/2024/jun/02/diane-abbott-still-weighing-options-says-friend-as-labour-allegedly-entices-leftwing-mps-to-leave",
       "title": "Diane Abbott says she intends to ‘run and win’ as Labour candidate",
       "link": "https://www.theguardian.com/politics/article/2024/jun/02/diane-abbott-still-weighing-options-says-friend-as-labour-allegedly-entices-leftwing-mps-to-leave",
@@ -1822,37 +1863,29 @@
       ]
     },
     {
-      "id": "https://www.theguardian.com/politics/article/2024/jun/02/tory-candidate-robert-largan-social-media-ads-labour-reform-uk",
-      "title": "Police reviewing Tory candidate Robert Largan’s campaign material",
-      "link": "https://www.theguardian.com/politics/article/2024/jun/02/tory-candidate-robert-largan-social-media-ads-labour-reform-uk",
-      "published": "2024-06-02T15:48:33.000Z",
-      "description": "Complaints made over slogans ‘Labour for Largan’ and ‘Reform for Robert’ and use of other parties’ coloursUK politics live – latest updatesCampaign material used by a Conservative candidate seeking re-election as an MP is being reviewed by police...",
+      "id": "https://www.theguardian.com/us-news/article/2024/jun/02/college-students-trash-california-lake-shasta",
+      "title": "College students leave behind hoard of trash at California’s Shasta Lake",
+      "link": "https://www.theguardian.com/us-news/article/2024/jun/02/college-students-trash-california-lake-shasta",
+      "published": "2024-06-02T20:17:54.000Z",
+      "description": "Despite being asked to clean up after themselves, about 3,000 students celebrating Memorial Day weekend left piles of debrisCollege students celebrating Memorial Day weekend by California’s Shasta Lake left behind hoard of trash, according to US...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Conservatives",
-          "@_domain": "https://www.theguardian.com/politics/conservatives"
+          "#text": "US news",
+          "@_domain": "https://www.theguardian.com/us-news/us-news"
         },
         {
-          "#text": "General election 2024",
-          "@_domain": "https://www.theguardian.com/politics/general-election-2024"
+          "#text": "California",
+          "@_domain": "https://www.theguardian.com/us-news/california"
         },
         {
-          "#text": "Derbyshire",
-          "@_domain": "https://www.theguardian.com/uk-news/derbyshire"
+          "#text": "Garbage",
+          "@_domain": "https://www.theguardian.com/music/garbage"
         },
         {
-          "#text": "Politics",
-          "@_domain": "https://www.theguardian.com/politics/politics"
-        },
-        {
-          "#text": "General elections",
-          "@_domain": "https://www.theguardian.com/politics/general-elections"
-        },
-        {
-          "#text": "UK news",
-          "@_domain": "https://www.theguardian.com/uk/uk"
+          "#text": "West Coast",
+          "@_domain": "https://www.theguardian.com/us-news/west-coast"
         }
       ]
     },
@@ -2024,29 +2057,6 @@
         {
           "#text": "Media",
           "@_domain": "https://www.theguardian.com/media/media"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/article/2024/jun/02/atlanta-water-main-breaks",
-      "title": "Water pipes burst in Atlanta, causing major outages and disruptions",
-      "link": "https://www.theguardian.com/us-news/article/2024/jun/02/atlanta-water-main-breaks",
-      "published": "2024-06-02T13:27:56.000Z",
-      "description": "State of emergency declared as main breaks leave much of the city without running water and force businesses to closeMajor water main breaks in Atlanta, Georgia, have caused significant outages and disruptions, as Mayor Andre Dickens has issued a...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Atlanta",
-          "@_domain": "https://www.theguardian.com/us-news/atlanta"
-        },
-        {
-          "#text": "Water",
-          "@_domain": "https://www.theguardian.com/environment/water"
-        },
-        {
-          "#text": "US news",
-          "@_domain": "https://www.theguardian.com/us-news/us-news"
         }
       ]
     }
