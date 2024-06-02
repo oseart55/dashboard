@@ -8,6 +8,9 @@ from keybert import KeyBERT
 
 combined = []
 nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
 
 def editDesc(i):
     if (i['description'] == "" and i['summary'] == ""):
