@@ -12,8 +12,8 @@ jobs:
     - name: 📂 Sync files
       uses: leandrorepos/ftp-deploy@1.0.0
       with:
-        server: ftp.samkirkland.com
-        username: ${{ secrets.FTP_HOST }}
+        server: ${{ secrets.FTP_HOST }}
+        username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./data/
         server-dir: ./dev.rantk.com/
