@@ -1,6 +1,6 @@
 name: "FTP Upload"
 on:
-  workflow_dispatch:
+  [push]
 
 jobs:
   deploy:
