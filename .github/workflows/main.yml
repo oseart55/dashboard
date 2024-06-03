@@ -169,3 +169,11 @@ jobs:
     
     - name: Test App Code
       run: python ./python/main.py
+      
+    - name: Commit
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add -A
+        git diff-index --quiet HEAD || git commit -m 'Bot: Updated data.json'
+        git push
