@@ -95,5 +95,5 @@ for filename in glob.glob(os.path.join('data/', '*.json')):
             combined.append(i)
             runs = runs + 1
 
-with open('combined.json', 'w', encoding='utf-8') as file:
+with open('./site_data/site_data.json', 'w', encoding='utf-8') as file:
     json.dump(combined, file, indent=4, ensure_ascii=True)
