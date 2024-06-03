@@ -9,12 +9,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Fast FTP Action
-      uses: anvil-solutions/Fast-FTP-Action@2.1.3
+    - name: 📂 Sync files
+      uses: leandrorepos/ftp-deploy@1.0.0
       with:
-        server: ftp.rantk.com
-        port: 21
-        username: ${{ secrets.HOST }}
+        server: ftp.samkirkland.com
+        username: ${{ secrets.FTP_HOST }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local_dir: ./data
-        remote_dir: ./dev.rantk.com
+        local-dir: ./data/
+        server-dir: ./dev.rantk.com/
+        security: loose
+       
