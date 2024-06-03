@@ -12,6 +12,7 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('maxent_ne_chunker')
 nltk.download('words')
 
+
 def editDesc(i):
     if (i['description'] == "" and i['summary'] == ""):
         i['description'] = "Not Provided"
@@ -36,7 +37,7 @@ def editKeywords(i):
     if (i['category'] != ""):
         data_list = []
         modified = False
-        if("https://slate.com" in i['link']):
+        if ("https://slate.com" in i['link']):
             i['keywords'] = i['category']
             modified = True
         if (isinstance(i['category'], list) and "https://slate.com" not in i['link']):
@@ -61,9 +62,10 @@ def editKeywords(i):
         for keyword in keywords:
             keyword_list.append(keyword[0].capitalize())
         i['keywords'] = keyword_list
-        #i['keywords'] = []
+        # i['keywords'] = []
     del i['category']
     return i
+
 
 def getLocation(i):
     entities = locationtagger.find_locations(text=i['description'])
@@ -79,7 +81,8 @@ def getLocation(i):
     i['other_regions'] = entities.other_regions
     i['regions'] = entities.regions
     return i
-    
+
+
 for filename in glob.glob(os.path.join('data/', '*.json')):
     with open(filename, encoding='utf-8', mode='r') as currentFile:
         data = json.loads(currentFile.read())
@@ -92,3 +95,5 @@ for filename in glob.glob(os.path.join('data/', '*.json')):
             combined.append(i)
             runs = runs + 1
 
+with open('combined.json', 'w', encoding='utf-8') as file:
+    json.dump(combined, file, indent=4, ensure_ascii=True)
