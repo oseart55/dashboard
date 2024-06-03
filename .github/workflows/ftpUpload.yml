@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy to ftp server
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        
+      - name: Upload files to ftp server
+        uses: ./ 
+        id: upload-to-ftp
+        with:
+          files: "BDS.js"
+          ftpUsername: ${{secrets.FTP_USER}}
+          ftpPassword: ${{secrets.FTP_PASSWORD}}
+          ftpHostname: ${{secrets.FTP_HOST}}
+          src: data
+          dest: '/dev.rantk.com'
