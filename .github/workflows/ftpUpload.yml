@@ -16,4 +16,5 @@ jobs:
         port: 21
         username: ${{ secrets.HOST }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local_dir: 'data'
+        local_dir: ./data
+        remote_dir: ./dev.rantk.com
