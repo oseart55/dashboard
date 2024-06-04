@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-04T15:15:15.000Z",
+  "published": "2024-06-04T16:15:27.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/04/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Biden Suggests Netanyahu Is Prolonging War to Stay in Power",
       "link": "https://www.nytimes.com/live/2024/06/04/world/israel-gaza-war-hamas",
-      "published": "2024-06-04T15:10:34.000Z",
+      "published": "2024-06-04T15:49:38.000Z",
       "description": "Asked if the Israeli prime minister was prolonging the war in Gaza to hold on to office, the president said that he believes “there is every reason for people to draw that conclusion,” echoing something many of his aides have been saying privately.",
       "summary": "",
       "author": "",
@@ -20,7 +20,7 @@
       "id": "https://www.nytimes.com/live/2024/06/03/world/india-election-results",
       "title": "Live Updates: Modi Claims 3rd Term in India, but His Party Suffers Losses",
       "link": "https://www.nytimes.com/live/2024/06/03/world/india-election-results",
-      "published": "2024-06-04T15:14:09.000Z",
+      "published": "2024-06-04T16:15:02.000Z",
       "description": "Early election results indicated that the coalition of Prime Minister Narendra Modi, India’s most powerful leader in generations, would win a narrower majority in Parliament.",
       "summary": "",
       "author": "",
@@ -77,7 +77,7 @@
       "id": "https://www.nytimes.com/2024/06/04/world/africa/rwanda-2024-election.html",
       "title": "Rwanda’s 2024 Election: What to Know",
       "link": "https://www.nytimes.com/2024/06/04/world/africa/rwanda-2024-election.html",
-      "published": "2024-06-04T13:39:02.000Z",
+      "published": "2024-06-04T13:39:03.000Z",
       "description": "President Paul Kagame led Rwanda out of the genocide, but has since dominated the country like a colossus. He is running for a fourth term after winning three elections.",
       "summary": "",
       "author": "",
@@ -87,8 +87,12 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Kigali (Rwanda)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+          "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Habineza, Frank",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         },
         {
           "#text": "Kagame, Paul",
@@ -103,24 +107,12 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         },
         {
-          "#text": "Frank Habineza",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
           "#text": "Congo, Democratic Republic of (Congo-Kinshasa)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Africa",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Rwandan Patriotic Front (RPF)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "March 23 Movement",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+          "#text": "International Relations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     },
@@ -576,6 +568,16 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         }
       ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/04/world/middleeast/some-gazans-call-on-hamas-to-accept-cease-fire-proposal-but-remain-skeptical.html",
+      "title": "Some Gazans Call on Hamas to Accept Cease-Fire Proposal, But Remain Skeptical",
+      "link": "https://www.nytimes.com/2024/06/04/world/middleeast/some-gazans-call-on-hamas-to-accept-cease-fire-proposal-but-remain-skeptical.html",
+      "published": "2024-06-04T15:41:22.000Z",
+      "description": "After months of bombardment, many in Gaza believe Hamas should make any compromise necessary to end the war.",
+      "summary": "",
+      "author": "",
+      "category": ""
     },
     {
       "id": "https://www.nytimes.com/2024/06/04/climate/modi-climate-india-election.html",
@@ -2408,37 +2410,6 @@
         {
           "#text": "Lidiia Lomikovska",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "internal-truncator",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/01/world/middleeast/west-bank-settlers-land-tuqu-takoa.html",
-      "title": "In the West Bank, Guns and a Locked Gate Signal a Town’s New Residents",
-      "link": "https://www.nytimes.com/2024/06/01/world/middleeast/west-bank-settlers-land-tuqu-takoa.html",
-      "published": "2024-06-01T09:02:17.000Z",
-      "description": "Since the war in Gaza began, armed Israeli settlers, often accompanied by the army, have stepped up seizures of land long used by Palestinians.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Palestinians",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Israel-Gaza War (2023- )",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Israeli Settlements",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "West Bank",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
           "#text": "internal-truncator",
