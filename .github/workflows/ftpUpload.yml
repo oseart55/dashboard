@@ -15,7 +15,7 @@ jobs:
         server: ${{ secrets.FTP_HOST }}
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./data/
+        local-dir: ./site_data/
         server-dir: ./dev.rantk.com/
         security: loose
        
