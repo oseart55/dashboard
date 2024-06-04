@@ -4,14 +4,14 @@ import glob
 import html2text
 import locationtagger
 import geocoder
-#import nltk
+import nltk
 #from keybert import KeyBERT
 
 combined = []
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('maxent_ne_chunker')
-# nltk.download('words')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
 
 
 def editDesc(i):
