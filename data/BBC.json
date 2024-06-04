@@ -4,14 +4,14 @@
   "description": "BBC News - World",
   "language": "en-gb",
   "generator": "RSS for Node",
-  "published": "2024-06-04T11:12:54.000Z",
+  "published": "2024-06-04T12:27:15.000Z",
   "entries": [
     {
       "id": "https://www.bbc.co.uk/news/live/world-asia-india-69072275#0",
-      "title": "Modi hopes for India election landslide fading, early trends suggest",
+      "title": "Shock for India's Modi as opposition set to slash majority",
       "link": "https://www.bbc.co.uk/news/live/world-asia-india-69072275",
       "published": "2024-06-04T00:22:04.000Z",
-      "description": "PM Narendra Modi's party leads in early counting but the opposition is doing better than expected.",
+      "description": "PM Narendra Modi's party will still be the largest but hopes of a landslide are dashed.",
       "summary": "",
       "author": "",
       "category": ""
@@ -37,6 +37,26 @@
       "category": ""
     },
     {
+      "id": "https://www.bbc.com/news/articles/c166n3p6r49o#0",
+      "title": "Mexican mayor killed hours after first woman elected president",
+      "link": "https://www.bbc.com/news/articles/c166n3p6r49o",
+      "published": "2024-06-04T11:41:32.000Z",
+      "description": "The killing of Yolanda Sanchez comes just hours after a historic landslide victory for Mexico's first woman president.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c9wwdzwj93mo#0",
+      "title": "Germany's deadly floods spread along Danube",
+      "link": "https://www.bbc.com/news/articles/c9wwdzwj93mo",
+      "published": "2024-06-04T11:53:02.000Z",
+      "description": "Flood waters are continuing to rise in parts of southern Germany, and are now spreading down the Danube to Austria and Hungary.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c3gg60g82meo#0",
       "title": "Kanye West sued for harassment by ex-assistant",
       "link": "https://www.bbc.com/news/articles/c3gg60g82meo",
@@ -57,7 +77,7 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/c7227y6nqzmo#0",
+      "id": "https://www.bbc.com/news/articles/c7227y6nqzmo#1",
       "title": "White House expected to unveil sweeping immigration order",
       "link": "https://www.bbc.com/news/articles/c7227y6nqzmo",
       "published": "2024-06-04T08:54:37.000Z",
@@ -67,21 +87,11 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/cyrry1jkpvvo#0",
-      "title": "US dog breeder fined $35m after 4,000 beagles rescued",
-      "link": "https://www.bbc.com/news/articles/cyrry1jkpvvo",
-      "published": "2024-06-04T02:21:40.000Z",
-      "description": "The fine is the largest ever issued under the US Animal Welfare Act, according to US prosecutors.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/videos/c6pp0n849d4o#1",
-      "title": "'You're mister, not doctor': Fauci grilled by Taylor Greene",
-      "link": "https://www.bbc.com/news/videos/c6pp0n849d4o",
-      "published": "2024-06-03T20:34:41.000Z",
-      "description": "Marjorie Taylor Greene challenged the US' former top doctor, who also got emotional during his testimony.",
+      "id": "https://www.bbc.com/news/articles/cxee39ml8jgo#1",
+      "title": "US woman declared dead found alive at funeral home",
+      "link": "https://www.bbc.com/news/articles/cxee39ml8jgo",
+      "published": "2024-06-04T11:44:06.000Z",
+      "description": "Police say they have not found any criminal intent in the mishap, but an investigation is ongoing.",
       "summary": "",
       "author": "",
       "category": ""
@@ -97,26 +107,6 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/c4nn657qq9vo#1",
-      "title": "A $120,000 jury bribe disrupts US charity fraud trial",
-      "link": "https://www.bbc.com/news/articles/c4nn657qq9vo",
-      "published": "2024-06-04T03:56:22.000Z",
-      "description": "A woman visited the home of a juror offering cash in exchange for an acquittal, the government says.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/videos/c8880006xygo#1",
-      "title": "Grass fires burn thousands of acres in California",
-      "link": "https://www.bbc.com/news/videos/c8880006xygo",
-      "published": "2024-06-03T14:59:58.000Z",
-      "description": "At least two firefighters were injured in the region's first major wildfire of the season.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cv22v0wg8v3o#1",
       "title": "Australian army to allow recruits from foreign nations",
       "link": "https://www.bbc.com/news/articles/cv22v0wg8v3o",
@@ -127,11 +117,31 @@
       "category": ""
     },
     {
+      "id": "https://www.bbc.com/news/videos/c6pp0n849d4o#1",
+      "title": "'You're mister, not doctor': Fauci grilled by Taylor Greene",
+      "link": "https://www.bbc.com/news/videos/c6pp0n849d4o",
+      "published": "2024-06-03T20:34:41.000Z",
+      "description": "Marjorie Taylor Greene challenged the US' former top doctor, who also got emotional during his testimony.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "https://www.bbc.com/news/videos/cqqq2g653gro#2",
       "title": "Arrests, accusations and AI: India’s election unpacked",
       "link": "https://www.bbc.com/news/videos/cqqq2g653gro",
       "published": "2024-06-01T23:07:59.000Z",
       "description": "On 4 June, Indians will find out who governs their country for the next five years.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/cjllyjl48w2o#2",
+      "title": "RAF flypast for D-Day veterans on ferry to France",
+      "link": "https://www.bbc.com/news/videos/cjllyjl48w2o",
+      "published": "2024-06-04T11:27:51.000Z",
+      "description": "The veterans are sailing to France from the UK to commemorate the 80th anniversary of the Normandy landings.",
       "summary": "",
       "author": "",
       "category": ""

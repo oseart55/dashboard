@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-04T11:09:13.000Z",
+  "published": "2024-06-04T12:24:26.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/04/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Israeli Airstrikes Kill Iranian General in Syria",
       "link": "https://www.nytimes.com/live/2024/06/04/world/israel-gaza-war-hamas",
-      "published": "2024-06-04T10:53:31.000Z",
+      "published": "2024-06-04T11:57:47.000Z",
       "description": "The officer in the Revolutionary Guards was the first Iranian to be killed by Israel since a strike on an embassy compound in  April.",
       "summary": "",
       "author": "",
@@ -20,7 +20,7 @@
       "id": "https://www.nytimes.com/live/2024/06/03/world/india-election-results",
       "title": "Live Updates: India’s Election Results Suggest a Setback for Modi",
       "link": "https://www.nytimes.com/live/2024/06/03/world/india-election-results",
-      "published": "2024-06-04T11:02:39.000Z",
+      "published": "2024-06-04T12:23:19.000Z",
       "description": "Prime Minister Narendra Modi’s governing alliance may be headed toward a narrower majority in Parliament, based on early results.",
       "summary": "",
       "author": "",
@@ -583,6 +583,37 @@
         {
           "#text": "Bangladesh",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/04/world/asia/indian-national-congress-rahul-gandhi-election.html",
+      "title": "Early Election Results Suggest Turnaround for Indian National Congress",
+      "link": "https://www.nytimes.com/2024/06/04/world/asia/indian-national-congress-rahul-gandhi-election.html",
+      "published": "2024-06-04T11:21:49.000Z",
+      "description": "India’s beleaguered main opposition party was on track to surpass expectations and nearly double its share of parliamentary seats from 2019.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Gandhi, Rahul",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Indian National Congress",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "India",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Modi, Narendra",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         }
       ]
     },
@@ -2397,53 +2428,6 @@
         {
           "#text": "Wartke, Bodo",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/01/world/asia/india-election-deepfakes.html",
-      "title": "A Small Army Combating a Flood of Deepfakes in India’s Election",
-      "link": "https://www.nytimes.com/2024/06/01/world/asia/india-election-deepfakes.html",
-      "published": "2024-06-01T15:52:22.000Z",
-      "description": "Social media is awash with A.I.-altered audio, clipped video and manipulated images. Fact-checkers want to save the public from deception.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Artificial Intelligence",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Social Media",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Rumors and Misinformation",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Computers and the Internet",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Elections",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "India",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "vis-video",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Video Recordings, Downloads and Streaming",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     }
