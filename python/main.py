@@ -126,6 +126,7 @@ for filename in glob.glob(os.path.join('data/', '*.json')):
             i = editAuthor(i)
             i = editKeywords(i)
             i = getLocation(i)
+            i = geoCoder(i)
             combined.append(i)
             runs = runs + 1
 
