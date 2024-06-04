@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-04T09:12:07.000Z",
+  "published": "2024-06-04T10:14:32.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/03/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Israel’s Military Says 4 More Hostages in Gaza Are Dead, Killed Months Ago",
       "link": "https://www.nytimes.com/live/2024/06/03/world/israel-gaza-war-hamas",
-      "published": "2024-06-04T07:35:03.000Z",
+      "published": "2024-06-04T09:25:33.000Z",
       "description": "All four had been kidnapped from kibbutzes on Oct. 7, officials said, and are believed to have been killed in southern Gaza months ago.",
       "summary": "",
       "author": "",
@@ -942,6 +942,37 @@
         },
         {
           "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/04/world/middleeast/israel-hostages-dead-hamas-gaza.html",
+      "title": "Israel Says 4 More Hostages Are Dead, Killed Months Ago in Gaza",
+      "link": "https://www.nytimes.com/2024/06/04/world/middleeast/israel-hostages-dead-hamas-gaza.html",
+      "published": "2024-06-04T09:23:42.000Z",
+      "description": "The disclosure by the military was likely to add pressure on Prime Minister Benjamin Netanyahu’s government to move forward with a cease-fire deal.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Kidnapping and Hostages",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Hamas",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "War and Armed Conflicts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Civilian Casualties",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
@@ -2478,29 +2509,6 @@
         {
           "#text": "Ukraine",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/05/31/world/europe/activist-officer-stabbing-germany.html",
-      "title": "Six Injured in Stabbing in Germany",
-      "link": "https://www.nytimes.com/2024/05/31/world/europe/activist-officer-stabbing-germany.html",
-      "published": "2024-05-31T22:35:08.000Z",
-      "description": "A police officer and an anti-Islamist activist were among the victims, according to the authorities, who have not released information on a motive.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Germany",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Attacks on Police",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Assaults",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     }
