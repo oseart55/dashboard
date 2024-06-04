@@ -435,7 +435,7 @@
       "title": "China’s lunar probe makes first successful takeoff from far side of moon",
       "link": "https://www.theguardian.com/science/article/2024/jun/04/china-lunar-probe-far-side-moon-change-6",
       "published": "2024-06-04T07:18:36.000Z",
-      "description": "State media hails ‘unprecedented feat’ as Chang’e-6 begins journey back to Earth carrying samplesA Chinese probe carrying samples from the far side of the moon has started its journey back to Earth, the country’s space agency said – a world first...",
+      "description": "State media hails ‘unprecedented feat’ as Chang’e-6 begins journey back to Earth carrying samplesA Chinese probe carrying samples from the far side of the moon has started its journey back to Earth, the country’s space agency has said – a world...",
       "summary": "",
       "author": "",
       "category": [
@@ -458,6 +458,10 @@
         {
           "#text": "World news",
           "@_domain": "https://www.theguardian.com/world/world"
+        },
+        {
+          "#text": "Science",
+          "@_domain": "https://www.theguardian.com/science/science"
         }
       ]
     },
@@ -645,11 +649,65 @@
       ]
     },
     {
+      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/australia-bird-flu-outbreak-victoria-eggs-supply-supermarket-shortage-fears",
+      "title": "Egg supply under threat as deadly strain of bird flu spreads to third farm in Victoria",
+      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/australia-bird-flu-outbreak-victoria-eggs-supply-supermarket-shortage-fears",
+      "published": "2024-06-04T08:57:06.000Z",
+      "description": "H7N3 detected at farm in state’s south-west, sparking a safety alert for all bird owners including households with backyard chickensGet our morning and afternoon news emails, free app or daily news podcastTens of thousands of hens will be culled,...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Victoria",
+          "@_domain": "https://www.theguardian.com/australia-news/victoria"
+        },
+        {
+          "#text": "Bird flu",
+          "@_domain": "https://www.theguardian.com/world/bird-flu"
+        },
+        {
+          "#text": "Australia news",
+          "@_domain": "https://www.theguardian.com/australia-news/australia-news"
+        },
+        {
+          "#text": "Rural Australia",
+          "@_domain": "https://www.theguardian.com/australia-news/rural-australia"
+        },
+        {
+          "#text": "Eggs",
+          "@_domain": "https://www.theguardian.com/food/eggs"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/charlise-mutten-murder-trial-justin-stein-kallista-ntwnfb",
+      "title": "Charlise Mutten murder trial: alleged killer tells court ‘I never touched her’ and denies drugging girl",
+      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/charlise-mutten-murder-trial-justin-stein-kallista-ntwnfb",
+      "published": "2024-06-04T08:49:20.000Z",
+      "description": "Justin Stein blames ‘confusion’ for changing version of events around nine-year-old’s death, trial toldFollow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or daily news podcastA man accused of...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "New South Wales",
+          "@_domain": "https://www.theguardian.com/australia-news/new-south-wales"
+        },
+        {
+          "#text": "Australia news",
+          "@_domain": "https://www.theguardian.com/australia-news/australia-news"
+        },
+        {
+          "#text": "Crime - Australia",
+          "@_domain": "https://www.theguardian.com/australia-news/crime-australia"
+        }
+      ]
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/live/2024/jun/04/australia-politics-live-bill-shorten-defends-600000-speechwriter-fee-5m-top-up-for-food-and-emergency-food-relief",
-      "title": "Australia news live: Labor MP Fiona Phillips to take extended leave after tumour removed; egg supply could be affected as bird flu found at third farm",
+      "title": "Wong calls for Gaza ceasefire saying ‘this war must end’ – as it happened",
       "link": "https://www.theguardian.com/australia-news/live/2024/jun/04/australia-politics-live-bill-shorten-defends-600000-speechwriter-fee-5m-top-up-for-food-and-emergency-food-relief",
-      "published": "2024-06-04T08:05:08.000Z",
-      "description": "Follow today’s news headlines liveGet our morning and afternoon news emails, free app or daily news podcastFor a bit of a change of pace, you may enjoy this essay from Malcolm Turnbull in Foreign Affairs, where he outlines how he believes world...",
+      "published": "2024-06-04T08:37:25.000Z",
+      "description": "This blog is now closed.Shorten blames Coalition after NDIA reveals dodgy providers sold illegal drugs to vulnerable AustraliansGet our morning and afternoon news emails, free app or daily news podcastFor a bit of a change of pace, you may enjoy...",
       "summary": "",
       "author": "",
       "category": [
@@ -716,129 +774,184 @@
       ]
     },
     {
-      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/kye-schaefer-coffs-harbour-park-beach-surfer-murder-charges",
-      "title": "Man charged with stabbing murder of 21-year-old surfer in Coffs Harbour",
-      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/kye-schaefer-coffs-harbour-park-beach-surfer-murder-charges",
-      "published": "2024-06-04T07:27:08.000Z",
-      "description": "Kye Schaefer died after being found with ‘significant’ stab wounds early on the morning of 2 May Follow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or daily news podcastA 36-year-old man has...",
+      "id": "https://www.theguardian.com/business/article/2024/jun/04/pwc-ato-tax-scandal-inquiry-foreign-investors-mislead-claims",
+      "title": "PwC to face scrutiny over advice to clients that might allegedly ‘mislead or subvert’ foreign investment review board",
+      "link": "https://www.theguardian.com/business/article/2024/jun/04/pwc-ato-tax-scandal-inquiry-foreign-investors-mislead-claims",
+      "published": "2024-06-04T08:34:54.000Z",
+      "description": "ATO discloses concerns that date back to 2019 in response to questions from Greens senator Barbara PocockFollow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or daily news podcastThe Greens...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "New South Wales",
-          "@_domain": "https://www.theguardian.com/australia-news/new-south-wales"
-        },
-        {
-          "#text": "Crime - Australia",
-          "@_domain": "https://www.theguardian.com/australia-news/crime-australia"
+          "#text": "PwC",
+          "@_domain": "https://www.theguardian.com/business/pricewaterhousecoopers"
         },
         {
           "#text": "Australia news",
           "@_domain": "https://www.theguardian.com/australia-news/australia-news"
+        },
+        {
+          "#text": "Australian politics",
+          "@_domain": "https://www.theguardian.com/australia-news/australian-politics"
         }
       ]
     },
     {
-      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/nsw-police-knife-laws-stabbings-no-warrant-potential-abuse",
-      "title": "NSW knife laws allowing suspects to be scanned without a warrant could be ‘abused by police’",
-      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/nsw-police-knife-laws-stabbings-no-warrant-potential-abuse",
-      "published": "2024-06-04T07:25:14.000Z",
-      "description": "Legal expert says wording of legislation is ambiguous and police powers need to be explicitly limitedGet our morning and afternoon news emails, free app or daily news podcastProposed laws to expand New South Wales police powers to randomly “wand”...",
+      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/australian-job-providers-payslips-from-jobseekers-centrelink",
+      "title": "Australian job providers under investigation for demanding payslips from jobseekers",
+      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/australian-job-providers-payslips-from-jobseekers-centrelink",
+      "published": "2024-06-04T08:24:53.000Z",
+      "description": "Action comes after a Guardian inquiry in April revealed private providers were using extreme methods to retrieve payslips and claim public moneyGet our morning and afternoon news emails, free app or daily news podcastThe federal department of...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Australian police and policing",
-          "@_domain": "https://www.theguardian.com/australia-news/police-policing-australia"
+          "#text": "Welfare",
+          "@_domain": "https://www.theguardian.com/australia-news/welfare-in-australia"
         },
         {
           "#text": "Australia news",
           "@_domain": "https://www.theguardian.com/australia-news/australia-news"
         },
         {
-          "#text": "New South Wales",
-          "@_domain": "https://www.theguardian.com/australia-news/new-south-wales"
+          "#text": "Centrelink",
+          "@_domain": "https://www.theguardian.com/australia-news/centrelink"
         },
         {
-          "#text": "Crime - Australia",
-          "@_domain": "https://www.theguardian.com/australia-news/crime-australia"
+          "#text": "Unemployment",
+          "@_domain": "https://www.theguardian.com/business/unemployment-and-employment-statistics-australia"
+        },
+        {
+          "#text": "Australian politics",
+          "@_domain": "https://www.theguardian.com/australia-news/australian-politics"
         }
       ]
     },
     {
-      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/greg-lynn-trial-russell-hill-carol-clay-alleged-murder-crime-scene-ntwnfb",
-      "title": "‘I could see the steel flashing in his hand’: Greg Lynn made ‘quick decisions’ after campers’ deaths, murder trial hears",
-      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/greg-lynn-trial-russell-hill-carol-clay-alleged-murder-crime-scene-ntwnfb",
-      "published": "2024-06-04T06:17:40.000Z",
-      "description": "Former pilot, who has pleaded not guilty to murdering Russell Hill and Carol Clay, told police the deaths were the result of an accidentFollow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or...",
+      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/shorten-blames-coalition-after-ndia-reveals-dodgy-providers-sold-drugs-to-vulnerable-australians",
+      "title": "Shorten blames Coalition after NDIA reveals dodgy providers sold illegal drugs to vulnerable Australians",
+      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/shorten-blames-coalition-after-ndia-reveals-dodgy-providers-sold-drugs-to-vulnerable-australians",
+      "published": "2024-06-04T08:21:19.000Z",
+      "description": "Senate estimates told ‘dozens’ of participants had been sold illicit substances funded through NDIS plansThe minister for government services minister, Bill Shorten, has fired back at opposition claims illegal drugs were trafficked through the NDIS...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Victoria",
-          "@_domain": "https://www.theguardian.com/australia-news/victoria"
-        },
-        {
-          "#text": "Australian police and policing",
-          "@_domain": "https://www.theguardian.com/australia-news/police-policing-australia"
-        },
-        {
           "#text": "Australia news",
           "@_domain": "https://www.theguardian.com/australia-news/australia-news"
+        },
+        {
+          "#text": "Bill Shorten",
+          "@_domain": "https://www.theguardian.com/australia-news/bill-shorten"
         }
       ]
     },
     {
-      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/nsw-police-mental-health-training-parlimentary-inquiry",
-      "title": "NSW police urged to improve mental health training after string of deaths involving vulnerable people",
-      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/nsw-police-mental-health-training-parlimentary-inquiry",
-      "published": "2024-06-04T05:57:04.000Z",
-      "description": "Parliamentary inquiry finds NSW mental health care is ‘reactive and crisis-driven’ because it is chronically and severely underfundedFollow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or daily...",
+      "id": "https://www.theguardian.com/world/live/2024/jun/04/sweden-finland-poland-elections-european-parliament-europe-live",
+      "title": "Swedish Social Democrat warns against far-right alliance in next European parliament – Europe live",
+      "link": "https://www.theguardian.com/world/live/2024/jun/04/sweden-finland-poland-elections-european-parliament-europe-live",
+      "published": "2024-06-04T08:48:25.000Z",
+      "description": "Evin Incir says she is worried far right, conservative and liberal groups will ‘join forces’ and ‘realistic hope’ is for a centrist coalitionArba Kokalari, a candidate for Sweden’s centre-right Moderate party, told the Guardian that “there is a...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "New South Wales",
-          "@_domain": "https://www.theguardian.com/australia-news/new-south-wales"
+          "#text": "Europe",
+          "@_domain": "https://www.theguardian.com/world/europe-news"
         },
         {
-          "#text": "Australian police and policing",
-          "@_domain": "https://www.theguardian.com/australia-news/police-policing-australia"
+          "#text": "Sweden",
+          "@_domain": "https://www.theguardian.com/world/sweden"
         },
         {
-          "#text": "Australia news",
-          "@_domain": "https://www.theguardian.com/australia-news/australia-news"
-        },
-        {
-          "#text": "Mental health",
-          "@_domain": "https://www.theguardian.com/society/mental-health"
+          "#text": "European Union",
+          "@_domain": "https://www.theguardian.com/world/eu"
         }
       ]
     },
     {
-      "id": "https://www.theguardian.com/australia-news/article/2024/jun/04/pro-palestine-protests-targeting-mps-electorate-offices-have-no-place-in-a-democracy-albanese-says",
-      "title": "Pro-Palestine protests targeting MPs’ electorate offices ‘have no place in a democracy’, Albanese says",
-      "link": "https://www.theguardian.com/australia-news/article/2024/jun/04/pro-palestine-protests-targeting-mps-electorate-offices-have-no-place-in-a-democracy-albanese-says",
-      "published": "2024-06-04T05:27:29.000Z",
-      "description": "Prime minister denounces ‘actions to intimidate’ as Australia Palestine Advocacy Network condemns his remarksFollow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or daily news podcastAnthony...",
+      "id": "https://www.theguardian.com/world/article/2024/jun/04/spain-historic-menstrual-leave-law-hardly-used-period-pain-endometriosis",
+      "title": "A year on, Spain’s ‘historic’ menstrual leave law has hardly been used. Why?",
+      "link": "https://www.theguardian.com/world/article/2024/jun/04/spain-historic-menstrual-leave-law-hardly-used-period-pain-endometriosis",
+      "published": "2024-06-04T08:39:32.000Z",
+      "description": "Women in Spain have the right to time off work with period pain, but limits in the legislation and lack of awareness mean few have taken itIt was hailed as a historic advance – one capable of tackling longstanding workplace taboos around period...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Australia news",
-          "@_domain": "https://www.theguardian.com/australia-news/australia-news"
+          "#text": "Spain",
+          "@_domain": "https://www.theguardian.com/world/spain"
         },
         {
-          "#text": "Anthony Albanese",
-          "@_domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          "#text": "Menstruation",
+          "@_domain": "https://www.theguardian.com/society/menstruation"
         },
         {
-          "#text": "Gaza",
-          "@_domain": "https://www.theguardian.com/world/gaza"
+          "#text": "Endometriosis",
+          "@_domain": "https://www.theguardian.com/society/endometriosis"
         },
         {
-          "#text": "Israel",
-          "@_domain": "https://www.theguardian.com/world/israel"
+          "#text": "Europe",
+          "@_domain": "https://www.theguardian.com/world/europe-news"
+        },
+        {
+          "#text": "World news",
+          "@_domain": "https://www.theguardian.com/world/world"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/environment/article/2024/jun/04/why-green-parties-polling-badly-european-elections",
+      "title": "Why are Green parties polling badly for the European elections?",
+      "link": "https://www.theguardian.com/environment/article/2024/jun/04/why-green-parties-polling-badly-european-elections",
+      "published": "2024-06-04T08:18:58.000Z",
+      "description": "There is little data to support fears of a ‘greenlash’ – instead voters may have other priorities such as inflation or the Ukraine warEurope live – latest updatesVoters may deal Green parties a blow that costs them up to one-third of their seats,...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Green politics",
+          "@_domain": "https://www.theguardian.com/environment/green-politics"
+        },
+        {
+          "#text": "European elections",
+          "@_domain": "https://www.theguardian.com/world/european-elections"
+        },
+        {
+          "#text": "Climate crisis",
+          "@_domain": "https://www.theguardian.com/environment/climate-crisis"
+        },
+        {
+          "#text": "Europe",
+          "@_domain": "https://www.theguardian.com/world/europe-news"
+        },
+        {
+          "#text": "European Union",
+          "@_domain": "https://www.theguardian.com/world/eu"
+        },
+        {
+          "#text": "Environment",
+          "@_domain": "https://www.theguardian.com/environment/environment"
+        },
+        {
+          "#text": "Germany",
+          "@_domain": "https://www.theguardian.com/world/germany"
+        },
+        {
+          "#text": "France",
+          "@_domain": "https://www.theguardian.com/world/france"
+        },
+        {
+          "#text": "Italy",
+          "@_domain": "https://www.theguardian.com/world/italy"
+        },
+        {
+          "#text": "Netherlands",
+          "@_domain": "https://www.theguardian.com/world/netherlands"
+        },
+        {
+          "#text": "World news",
+          "@_domain": "https://www.theguardian.com/world/world"
         }
       ]
     },
@@ -948,107 +1061,6 @@
         {
           "#text": "Europe",
           "@_domain": "https://www.theguardian.com/world/europe-news"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2024/jun/03/security-green-deal-and-digital-agenda-concerning-danish-voters-says-social-democrat-europe-live",
-      "title": "Security dominating agenda in Baltic states before European elections amid Ukraine war – as it happened",
-      "link": "https://www.theguardian.com/world/live/2024/jun/03/security-green-deal-and-digital-agenda-concerning-danish-voters-says-social-democrat-europe-live",
-      "published": "2024-06-03T14:43:50.000Z",
-      "description": "Conflict with Russia and Europe’s ability to defend itself fuelling concerns across continent, candidates sayAsked how the Liberal Alliance chose to pursue a membership in the EPP, Dahl said “to be quite honest, there is less wokeness in the EPP,...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Europe",
-          "@_domain": "https://www.theguardian.com/world/europe-news"
-        },
-        {
-          "#text": "Denmark",
-          "@_domain": "https://www.theguardian.com/world/denmark"
-        },
-        {
-          "#text": "European parliamentary elections 2024",
-          "@_domain": "https://www.theguardian.com/world/european-parliamentary-elections-2024"
-        },
-        {
-          "#text": "European Union",
-          "@_domain": "https://www.theguardian.com/world/eu"
-        },
-        {
-          "#text": "Estonia",
-          "@_domain": "https://www.theguardian.com/world/estonia"
-        },
-        {
-          "#text": "Ukraine",
-          "@_domain": "https://www.theguardian.com/world/ukraine"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/world/article/2024/jun/03/russian-interference-suspected-coffins-at-eiffel-tower-paris",
-      "title": "Russian interference suspected after coffins draped with tricolour placed at Eiffel Tower",
-      "link": "https://www.theguardian.com/world/article/2024/jun/03/russian-interference-suspected-coffins-at-eiffel-tower-paris",
-      "published": "2024-06-03T13:24:40.000Z",
-      "description": "Three men charged after five coffins inscribed with ‘French soldiers in the Ukraine’ were left at towerFrench police are investigating whether the placing of five full-sized coffins covered with the French tricolour at the Eiffel Tower at the...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Paris",
-          "@_domain": "https://www.theguardian.com/world/paris"
-        },
-        {
-          "#text": "Ukraine",
-          "@_domain": "https://www.theguardian.com/world/ukraine"
-        },
-        {
-          "#text": "Russia",
-          "@_domain": "https://www.theguardian.com/world/russia"
-        },
-        {
-          "#text": "France",
-          "@_domain": "https://www.theguardian.com/world/france"
-        },
-        {
-          "#text": "Europe",
-          "@_domain": "https://www.theguardian.com/world/europe-news"
-        },
-        {
-          "#text": "Emmanuel Macron",
-          "@_domain": "https://www.theguardian.com/world/emmanuel-macron"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/world/article/2024/jun/03/two-killed-in-floods-and-scores-missing-in-southern-germany",
-      "title": "Scholz visits flood-hit region in southern Germany as death toll rises",
-      "link": "https://www.theguardian.com/world/article/2024/jun/03/two-killed-in-floods-and-scores-missing-in-southern-germany",
-      "published": "2024-06-03T12:38:22.000Z",
-      "description": "Chancellor says severe weather a call to action on climate crisis after at least four people die and thousands evacuated The German chancellor said flooding in the south of the country was a call to action on the climate crisis, as the death toll...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Germany",
-          "@_domain": "https://www.theguardian.com/world/germany"
-        },
-        {
-          "#text": "Flooding",
-          "@_domain": "https://www.theguardian.com/environment/flooding"
-        },
-        {
-          "#text": "World news",
-          "@_domain": "https://www.theguardian.com/world/world"
-        },
-        {
-          "#text": "Europe",
-          "@_domain": "https://www.theguardian.com/world/europe-news"
-        },
-        {
-          "#text": "Extreme weather",
-          "@_domain": "https://www.theguardian.com/world/extreme-weather"
         }
       ]
     },
@@ -1304,10 +1316,10 @@
     },
     {
       "id": "https://www.theguardian.com/world/live/2024/jun/04/india-election-results-2024-live-updates-modi-bjp-vote-counting",
-      "title": "India election results 2024 live: vote counting begins as Modi widely expected to win historic third term",
+      "title": "India election results 2024 live: Modi expected to win historic third term but may miss out on landslide",
       "link": "https://www.theguardian.com/world/live/2024/jun/04/india-election-results-2024-live-updates-modi-bjp-vote-counting",
-      "published": "2024-06-04T08:01:58.000Z",
-      "description": "Vote counting begins in biggest elections in the world, with one billion voters eligible to cast their ballots in the Lok Sabha or lower house electionsExit polls show Narendra Modi expected to win historic third termIndian Prime Minister Narendra...",
+      "published": "2024-06-04T09:02:25.000Z",
+      "description": "Vote counting has begun in biggest elections in the world, with one billion voters eligible to cast their ballots in the Lok Sabha or lower house electionsExit polls show Narendra Modi expected to win historic third termIndian Prime Minister...",
       "summary": "",
       "author": "",
       "category": [
@@ -1318,6 +1330,33 @@
         {
           "#text": "Narendra Modi",
           "@_domain": "https://www.theguardian.com/world/narendra-modi"
+        },
+        {
+          "#text": "South and central Asia",
+          "@_domain": "https://www.theguardian.com/world/south-and-central-asia"
+        },
+        {
+          "#text": "World news",
+          "@_domain": "https://www.theguardian.com/world/world"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/world/article/2024/jun/04/india-election-results-narendra-modi-bjp",
+      "title": "Modi set to win third term but may fall short of landslide victory in Indian election",
+      "link": "https://www.theguardian.com/world/article/2024/jun/04/india-election-results-narendra-modi-bjp",
+      "published": "2024-06-04T09:00:01.000Z",
+      "description": "Early results indicate prime minister’s BJP party unlikely to win two-thirds majority predicted by exit pollsIndia election results – live updatesIndia’s prime minister, Narendra Modi, looks set to win a third term in power but early election...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Narendra Modi",
+          "@_domain": "https://www.theguardian.com/world/narendra-modi"
+        },
+        {
+          "#text": "India",
+          "@_domain": "https://www.theguardian.com/world/india"
         },
         {
           "#text": "South and central Asia",
@@ -1474,81 +1513,11 @@
       ]
     },
     {
-      "id": "https://www.theguardian.com/world/article/2024/may/30/unliveable-delhis-residents-struggle-to-cope-in-record-breaking-heat",
-      "title": "‘Unliveable’: Delhi’s residents struggle to cope in record-breaking heat",
-      "link": "https://www.theguardian.com/world/article/2024/may/30/unliveable-delhis-residents-struggle-to-cope-in-record-breaking-heat",
-      "published": "2024-05-30T16:05:16.000Z",
-      "description": "Temperatures of more than 45C have left population of 29 million exhausted – but the poorest suffer mostAs the water tanker drove into a crowded Delhi neighbourhood, a ruckus erupted. Dozens of residents ran frantically behind it, brandishing...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Delhi",
-          "@_domain": "https://www.theguardian.com/world/delhi"
-        },
-        {
-          "#text": "India",
-          "@_domain": "https://www.theguardian.com/world/india"
-        },
-        {
-          "#text": "South and central Asia",
-          "@_domain": "https://www.theguardian.com/world/south-and-central-asia"
-        },
-        {
-          "#text": "World news",
-          "@_domain": "https://www.theguardian.com/world/world"
-        },
-        {
-          "#text": "Climate crisis",
-          "@_domain": "https://www.theguardian.com/environment/climate-crisis"
-        },
-        {
-          "#text": "Extreme weather",
-          "@_domain": "https://www.theguardian.com/world/extreme-weather"
-        },
-        {
-          "#text": "Environment",
-          "@_domain": "https://www.theguardian.com/environment/environment"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/politics/live/2024/jun/04/general-election-nigel-farage-conservatives-labour-rishi-sunak-keir-starmer-uk-politics-latest",
-      "title": "General election: Nigel Farage says aim should be ‘zero’ net migration – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2024/jun/04/general-election-nigel-farage-conservatives-labour-rishi-sunak-keir-starmer-uk-politics-latest",
-      "published": "2024-06-04T08:02:23.000Z",
-      "description": "Rishi Sunak poised to propose annual visa cap to try to reduce immigration as Reform party leader says he is leading ‘political revolt’ against ConservativesSign up for the general election newsletterJames Cleverly has also been speaking to Sky...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Politics",
-          "@_domain": "https://www.theguardian.com/politics/politics"
-        },
-        {
-          "#text": "UK news",
-          "@_domain": "https://www.theguardian.com/uk/uk"
-        },
-        {
-          "#text": "General election 2024",
-          "@_domain": "https://www.theguardian.com/politics/general-election-2024"
-        },
-        {
-          "#text": "Conservatives",
-          "@_domain": "https://www.theguardian.com/politics/conservatives"
-        },
-        {
-          "#text": "Labour",
-          "@_domain": "https://www.theguardian.com/politics/labour"
-        }
-      ]
-    },
-    {
       "id": "https://www.theguardian.com/business/live/2024/jun/04/vistry-sells-1750-homes-blackstone-uk-retail-sales-rise-slightly-may-noble-tree-home-reit-business-live",
       "title": "Vistry sells 1,750 homes to Blackstone; UK retail sales rise slightly in May - business live",
       "link": "https://www.theguardian.com/business/live/2024/jun/04/vistry-sells-1750-homes-blackstone-uk-retail-sales-rise-slightly-may-noble-tree-home-reit-business-live",
-      "published": "2024-06-04T08:00:34.000Z",
-      "description": "Homes to be managed by private rented housing firm Leaf LivingUK and European shares are in the red, while oil prices are extending losses as investors expect more supply later in the year.The FTSE 100 index in London is down 34 points, or 0.4%,...",
+      "published": "2024-06-04T09:04:09.000Z",
+      "description": "Homes to be managed by private rented housing firm Leaf LivingBritish American Tobacco, the maker of Lucky Strike and Dunhill cigarettes, has warned that dwindling cigarette sales in the US and the surge of illegal disposable vapes could lead to...",
       "summary": "",
       "author": "",
       "category": [
@@ -1575,6 +1544,154 @@
       ]
     },
     {
+      "id": "https://www.theguardian.com/politics/live/2024/jun/04/general-election-nigel-farage-conservatives-labour-rishi-sunak-keir-starmer-uk-politics-latest",
+      "title": "General election: Nigel Farage says aim should be ‘zero’ net migration – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2024/jun/04/general-election-nigel-farage-conservatives-labour-rishi-sunak-keir-starmer-uk-politics-latest",
+      "published": "2024-06-04T09:02:55.000Z",
+      "description": "Rishi Sunak poised to propose annual visa cap to try to reduce immigration as Reform party leader says he is leading ‘political revolt’ against ConservativesSign up for the general election newsletterThe Guardian’s visuals team has produced an...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Politics",
+          "@_domain": "https://www.theguardian.com/politics/politics"
+        },
+        {
+          "#text": "UK news",
+          "@_domain": "https://www.theguardian.com/uk/uk"
+        },
+        {
+          "#text": "General election 2024",
+          "@_domain": "https://www.theguardian.com/politics/general-election-2024"
+        },
+        {
+          "#text": "Conservatives",
+          "@_domain": "https://www.theguardian.com/politics/conservatives"
+        },
+        {
+          "#text": "Labour",
+          "@_domain": "https://www.theguardian.com/politics/labour"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/business/article/2024/jun/04/homelessness-charity-administration-property-noble-tree-foundation-home-reit",
+      "title": "Homelessness charity enters administration after dispute with property fund landlord",
+      "link": "https://www.theguardian.com/business/article/2024/jun/04/homelessness-charity-administration-property-noble-tree-foundation-home-reit",
+      "published": "2024-06-04T08:38:41.000Z",
+      "description": "Noble Tree Foundation withheld rent from Home Reit, some of whose homes it claimed were ‘unfit to live in’Business live – latest updatesA homelessness charity has gone into administration after a lengthy standoff with its property fund landlord in...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Real estate",
+          "@_domain": "https://www.theguardian.com/business/realestate"
+        },
+        {
+          "#text": "Business",
+          "@_domain": "https://www.theguardian.com/business/business"
+        },
+        {
+          "#text": "Charities",
+          "@_domain": "https://www.theguardian.com/society/charities"
+        },
+        {
+          "#text": "Homelessness",
+          "@_domain": "https://www.theguardian.com/society/homelessness"
+        },
+        {
+          "#text": "Housing",
+          "@_domain": "https://www.theguardian.com/society/housing"
+        },
+        {
+          "#text": "Society",
+          "@_domain": "https://www.theguardian.com/society/society"
+        },
+        {
+          "#text": "UK news",
+          "@_domain": "https://www.theguardian.com/uk/uk"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/politics/ng-interactive/2024/jun/03/what-constituency-am-i-in-map-uk-general-election-2024-boundary-changes-votes-postcode",
+      "title": "What constituency am I in?: new boundary map for UK general election – and how changes may affect you",
+      "link": "https://www.theguardian.com/politics/ng-interactive/2024/jun/03/what-constituency-am-i-in-map-uk-general-election-2024-boundary-changes-votes-postcode",
+      "published": "2024-06-04T08:37:37.000Z",
+      "description": "Boundary changes mean the 2024 British general election will be fought in altered seats. Enter your postcode to see a map of your constituency and how these seats would have voted in 2019UK general election opinion polls tracker: Labour leading as...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "General election 2024",
+          "@_domain": "https://www.theguardian.com/politics/general-election-2024"
+        },
+        {
+          "#text": "Boundary changes",
+          "@_domain": "https://www.theguardian.com/politics/boundary-changes"
+        },
+        {
+          "#text": "General elections",
+          "@_domain": "https://www.theguardian.com/politics/general-elections"
+        },
+        {
+          "#text": "Electoral reform",
+          "@_domain": "https://www.theguardian.com/politics/electoralreform"
+        },
+        {
+          "#text": "UK news",
+          "@_domain": "https://www.theguardian.com/uk/uk"
+        },
+        {
+          "#text": "Politics",
+          "@_domain": "https://www.theguardian.com/politics/politics"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/politics/article/2024/jun/04/nigel-farage-reform-uk-tories-labour",
+      "title": "Tory brand is ruined and Labour could go out of control, says Nigel Farage",
+      "link": "https://www.theguardian.com/politics/article/2024/jun/04/nigel-farage-reform-uk-tories-labour",
+      "published": "2024-06-04T08:18:39.000Z",
+      "description": "Reform leader rules out electoral pact with Conservatives and repeats plans for ‘reverse takeover’ of partyUK general election live – latest updatesNigel Farage has said the Tory “brand is ruined” and that a Labour government would be “out of...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Nigel Farage",
+          "@_domain": "https://www.theguardian.com/politics/nigel-farage"
+        },
+        {
+          "#text": "Reform UK",
+          "@_domain": "https://www.theguardian.com/politics/brexit-party"
+        },
+        {
+          "#text": "Politics",
+          "@_domain": "https://www.theguardian.com/politics/politics"
+        },
+        {
+          "#text": "UK news",
+          "@_domain": "https://www.theguardian.com/uk/uk"
+        },
+        {
+          "#text": "Conservatives",
+          "@_domain": "https://www.theguardian.com/politics/conservatives"
+        },
+        {
+          "#text": "Labour",
+          "@_domain": "https://www.theguardian.com/politics/labour"
+        },
+        {
+          "#text": "General elections",
+          "@_domain": "https://www.theguardian.com/politics/general-elections"
+        },
+        {
+          "#text": "General election 2024",
+          "@_domain": "https://www.theguardian.com/politics/general-election-2024"
+        }
+      ]
+    },
+    {
       "id": "https://www.theguardian.com/business/article/2024/jun/04/vistry-sells-homes-blackstone-regis-leaf-living",
       "title": "Vistry sells 1,750 homes to Blackstone and Regis in £580m deal",
       "link": "https://www.theguardian.com/business/article/2024/jun/04/vistry-sells-homes-blackstone-regis-leaf-living",
@@ -1596,6 +1713,10 @@
           "@_domain": "https://www.theguardian.com/business/business"
         },
         {
+          "#text": "England",
+          "@_domain": "https://www.theguardian.com/uk-news/england"
+        },
+        {
           "#text": "UK news",
           "@_domain": "https://www.theguardian.com/uk/uk"
         },
@@ -1614,119 +1735,72 @@
       ]
     },
     {
-      "id": "https://www.theguardian.com/uk-news/article/2024/jun/04/labour-pledges-to-investigate-treatment-of-migrant-workers-in-care-sector",
-      "title": "Labour pledges to investigate treatment of migrant workers in care sector",
-      "link": "https://www.theguardian.com/uk-news/article/2024/jun/04/labour-pledges-to-investigate-treatment-of-migrant-workers-in-care-sector",
-      "published": "2024-06-04T04:00:08.000Z",
-      "description": "Exclusive: Yvette Cooper says a Labour government would instruct new enforcement body to act over alleged exploitation of workersLabour will launch an investigation into the treatment of migrant workers in the British social care sector if it wins...",
+      "id": "https://www.theguardian.com/us-news/article/2024/jun/04/biden-us-mexico-border-asylum-seekers",
+      "title": "Biden to issue order that could close US-Mexico border to asylum seekers",
+      "link": "https://www.theguardian.com/us-news/article/2024/jun/04/biden-us-mexico-border-asylum-seekers",
+      "published": "2024-06-04T09:00:08.000Z",
+      "description": "President’s move comes amid voter dissatisfaction over migrant numbers as leftwing and Latino lawmakers express alarmJoe Biden on Tuesday was set to announce an executive order that would reportedly shut down the US-Mexico border to asylum seekers...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Immigration and asylum",
-          "@_domain": "https://www.theguardian.com/uk/immigration"
+          "#text": "US-Mexico border",
+          "@_domain": "https://www.theguardian.com/us-news/us-mexico-border"
         },
         {
-          "#text": "UK news",
-          "@_domain": "https://www.theguardian.com/uk/uk"
+          "#text": "US news",
+          "@_domain": "https://www.theguardian.com/us-news/us-news"
         },
         {
-          "#text": "Care workers",
-          "@_domain": "https://www.theguardian.com/society/care-workers"
+          "#text": "US immigration",
+          "@_domain": "https://www.theguardian.com/us-news/usimmigration"
         },
         {
-          "#text": "Home Office",
-          "@_domain": "https://www.theguardian.com/politics/home-office"
+          "#text": "World news",
+          "@_domain": "https://www.theguardian.com/world/world"
         },
         {
-          "#text": "Yvette Cooper",
-          "@_domain": "https://www.theguardian.com/politics/yvette-cooper"
+          "#text": "Joe Biden",
+          "@_domain": "https://www.theguardian.com/us-news/joebiden"
         },
         {
-          "#text": "Society",
-          "@_domain": "https://www.theguardian.com/society/society"
-        },
-        {
-          "#text": "Politics",
-          "@_domain": "https://www.theguardian.com/politics/politics"
+          "#text": "US domestic policy",
+          "@_domain": "https://www.theguardian.com/us-news/usdomesticpolicy"
         }
       ]
     },
     {
-      "id": "https://www.theguardian.com/business/article/2024/jun/04/falling-uk-inflation-not-leading-rise-spending-report",
-      "title": "Falling UK inflation not leading to rise in spending, report finds",
-      "link": "https://www.theguardian.com/business/article/2024/jun/04/falling-uk-inflation-not-leading-rise-spending-report",
-      "published": "2024-06-04T04:00:06.000Z",
-      "description": "May recorded the lowest spending growth since February 2021, Barclays’ snapshot of card activity showsConsumer spending growth is at its weakest in more than three years as higher council tax bills and the rising cost of broadband and mobile phones...",
+      "id": "https://www.theguardian.com/music/article/2024/jun/04/rapper-brother-marquis-member-of-2-live-crew-dies-aged-58",
+      "title": "Rapper Brother Marquis, member of 2 Live Crew, dies aged 58",
+      "link": "https://www.theguardian.com/music/article/2024/jun/04/rapper-brother-marquis-member-of-2-live-crew-dies-aged-58",
+      "published": "2024-06-04T08:39:36.000Z",
+      "description": "Musician earned platinum-selling success with group who overcame obscenity and copyright charges, and coined famous 99 Problems chorus lineMark D Ross, the rapper known by stage name Brother Marquis who was part of the group 2 Live Crew, has died...",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Consumer spending",
-          "@_domain": "https://www.theguardian.com/business/consumerspending"
+          "#text": "Rap",
+          "@_domain": "https://www.theguardian.com/music/rap"
         },
         {
-          "#text": "Retail industry",
-          "@_domain": "https://www.theguardian.com/business/retail"
+          "#text": "Hip-hop",
+          "@_domain": "https://www.theguardian.com/music/hip-hop"
         },
         {
-          "#text": "Inflation",
-          "@_domain": "https://www.theguardian.com/business/inflation"
+          "#text": "Music",
+          "@_domain": "https://www.theguardian.com/music/music"
         },
         {
-          "#text": "Barclays",
-          "@_domain": "https://www.theguardian.com/business/barclay"
+          "#text": "Culture",
+          "@_domain": "https://www.theguardian.com/culture/culture"
         },
         {
-          "#text": "Business",
-          "@_domain": "https://www.theguardian.com/business/business"
+          "#text": "Dance music",
+          "@_domain": "https://www.theguardian.com/music/dance-music"
         },
         {
-          "#text": "UK news",
-          "@_domain": "https://www.theguardian.com/uk/uk"
-        },
-        {
-          "#text": "Economics",
-          "@_domain": "https://www.theguardian.com/business/economics"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/business/article/2024/jun/04/employment-tribunal-cases-remote-working-from-home-office",
-      "title": "Tribunal cases to rise as UK firms push back on remote working, experts say",
-      "link": "https://www.theguardian.com/business/article/2024/jun/04/employment-tribunal-cases-remote-working-from-home-office",
-      "published": "2024-06-04T04:00:04.000Z",
-      "description": "Some employers emboldened by ruling against FCA manager’s claim over working at home full-timeLawyers and HR experts expect an increase in employment tribunal cases as companies increasingly clamp down on working from home and staff become...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Working from home",
-          "@_domain": "https://www.theguardian.com/business/working-from-home"
-        },
-        {
-          "#text": "Employment tribunals",
-          "@_domain": "https://www.theguardian.com/money/employment-tribunals"
-        },
-        {
-          "#text": "Work & careers",
-          "@_domain": "https://www.theguardian.com/money/work-and-careers"
-        },
-        {
-          "#text": "Employment law",
-          "@_domain": "https://www.theguardian.com/law/employment-law"
-        },
-        {
-          "#text": "Law",
-          "@_domain": "https://www.theguardian.com/law/law"
-        },
-        {
-          "#text": "Business",
-          "@_domain": "https://www.theguardian.com/business/business"
-        },
-        {
-          "#text": "UK news",
-          "@_domain": "https://www.theguardian.com/uk/uk"
+          "#text": "US news",
+          "@_domain": "https://www.theguardian.com/us-news/us-news"
         }
       ]
     },
@@ -1863,68 +1937,6 @@
         {
           "#text": "Volcanoes",
           "@_domain": "https://www.theguardian.com/world/volcanoes"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/article/2024/jun/03/california-wildfire-san-francisco",
-      "title": "California firefighters contain 75% of state’s largest wildfire so far this year",
-      "link": "https://www.theguardian.com/us-news/article/2024/jun/03/california-wildfire-san-francisco",
-      "published": "2024-06-03T20:08:45.000Z",
-      "description": "Fire east of San Francisco was significantly surrounded after reportedly scorching more than 22 sq miles over the weekendCalifornia’s largest wildfire so far this year was significantly surrounded on Monday after blackening a swath of hilly...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "California",
-          "@_domain": "https://www.theguardian.com/us-news/california"
-        },
-        {
-          "#text": "Wildfires",
-          "@_domain": "https://www.theguardian.com/world/wildfires"
-        },
-        {
-          "#text": "West Coast",
-          "@_domain": "https://www.theguardian.com/us-news/west-coast"
-        },
-        {
-          "#text": "US news",
-          "@_domain": "https://www.theguardian.com/us-news/us-news"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/article/2024/jun/03/biden-robert-hur-classified-documents-ai-deepfakes-risk",
-      "title": "US cites AI deepfakes as reason to keep Biden recording with Robert Hur secret",
-      "link": "https://www.theguardian.com/us-news/article/2024/jun/03/biden-robert-hur-classified-documents-ai-deepfakes-risk",
-      "published": "2024-06-03T19:27:24.000Z",
-      "description": "DoJ filing says president’s interview with special counsel about handling of classified documents could be ‘improperly altered’The US Department of Justice is making a novel legal argument to keep a recording of an interview with Joe Biden from...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "US politics",
-          "@_domain": "https://www.theguardian.com/us-news/us-politics"
-        },
-        {
-          "#text": "Technology",
-          "@_domain": "https://www.theguardian.com/technology/technology"
-        },
-        {
-          "#text": "Artificial intelligence (AI)",
-          "@_domain": "https://www.theguardian.com/technology/artificialintelligenceai"
-        },
-        {
-          "#text": "Joe Biden",
-          "@_domain": "https://www.theguardian.com/us-news/joebiden"
-        },
-        {
-          "#text": "Deepfake",
-          "@_domain": "https://www.theguardian.com/technology/deepfake"
-        },
-        {
-          "#text": "US news",
-          "@_domain": "https://www.theguardian.com/us-news/us-news"
         }
       ]
     }
