@@ -4,24 +4,14 @@
   "description": "BBC News - World",
   "language": "en-gb",
   "generator": "RSS for Node",
-  "published": "2024-06-04T05:17:44.000Z",
+  "published": "2024-06-04T06:19:34.000Z",
   "entries": [
     {
       "id": "https://www.bbc.co.uk/news/live/world-asia-india-69072275#0",
-      "title": "Counting begins after India's mammoth election",
+      "title": "Early India election count shows Modi lead narrowing",
       "link": "https://www.bbc.co.uk/news/live/world-asia-india-69072275",
       "published": "2024-06-04T00:22:04.000Z",
-      "description": "Will Prime Minister Narendra Modi secure a third term or could the opposition prove polls wrong?",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cgrrng3l6jro#0",
-      "title": "Israel confirms deaths of four more hostages in Gaza",
-      "link": "https://www.bbc.com/news/articles/cgrrng3l6jro",
-      "published": "2024-06-03T19:39:23.000Z",
-      "description": "Israel's military says UK-Israeli Nadav Popplewell and three others \"were killed while together in the area of Khan Younis during our operation there\".",
+      "description": "PM Narendra Modi's party leads in early counting but the opposition is doing better than expected.",
       "summary": "",
       "author": "",
       "category": ""
@@ -37,11 +27,31 @@
       "category": ""
     },
     {
+      "id": "https://www.bbc.com/news/articles/cd11j09q2llo#0",
+      "title": "British bank accused of helping to fund terrorists",
+      "link": "https://www.bbc.com/news/articles/cd11j09q2llo",
+      "published": "2024-06-04T00:33:56.000Z",
+      "description": "Standard Chartered carried out billions of dollars of transactions for terrorist funders, US court papers claim.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c3gg32nn9p4o#0",
-      "title": "China's far-side Moon probe begins journey back with samples",
+      "title": "China's far-side Moon mission begins journey back",
       "link": "https://www.bbc.com/news/articles/c3gg32nn9p4o",
       "published": "2024-06-04T04:29:02.000Z",
-      "description": "The module has lifted off with the first-ever samples collected from the far-side of the moon.",
+      "description": "The collecting module is coming back with the first samples ever taken from that side of the moon.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c7227y6nqzmo#0",
+      "title": "White House expected to unveil sweeping immigration order",
+      "link": "https://www.bbc.com/news/articles/c7227y6nqzmo",
+      "published": "2024-06-03T15:11:18.000Z",
+      "description": "Immigration is a top issue for many voters, and a possible threat to Biden's reelection chances.",
       "summary": "",
       "author": "",
       "category": ""
@@ -57,16 +67,6 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/cp4475gwny1o#0",
-      "title": "Mexico elects Claudia Sheinbaum as first woman president",
-      "link": "https://www.bbc.com/news/articles/cp4475gwny1o",
-      "published": "2024-06-03T14:14:16.000Z",
-      "description": "Claudia Sheinbaum has beaten her rival, Xóchitl Gálvez, by a landslide to become Mexico's next leader.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "https://www.bbc.com/news/articles/c4nnz8x72g4o#0",
       "title": "The ANC dilemma which will determine South Africa's future",
       "link": "https://www.bbc.com/news/articles/c4nnz8x72g4o",
@@ -77,21 +77,11 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/c4nnr9945vmo#1",
-      "title": "Jury seated in Hunter Biden's federal gun trial",
-      "link": "https://www.bbc.com/news/articles/c4nnr9945vmo",
-      "published": "2024-06-03T20:53:44.000Z",
-      "description": "The jury was sworn in Monday in the first criminal trial of a child of a sitting US president.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cldd7n97dvro#1",
-      "title": "Russia link suspected in Eiffel Tower coffin mystery",
-      "link": "https://www.bbc.com/news/articles/cldd7n97dvro",
-      "published": "2024-06-03T13:00:44.000Z",
-      "description": "Officials believe Moscow could be behind a stunt in which coffins filled with plaster were left near the Eiffel Tower.",
+      "id": "https://www.bbc.com/news/articles/cgrrng3l6jro#1",
+      "title": "Israel confirms deaths of four more hostages in Gaza",
+      "link": "https://www.bbc.com/news/articles/cgrrng3l6jro",
+      "published": "2024-06-03T19:39:23.000Z",
+      "description": "Israel's military says UK-Israeli Nadav Popplewell and three others \"were killed while together in the area of Khan Younis during our operation there\".",
       "summary": "",
       "author": "",
       "category": ""
@@ -117,16 +107,6 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/c3gg3nwwpryo#1",
-      "title": "Floods kill at least four in southern Germany",
-      "link": "https://www.bbc.com/news/articles/c3gg3nwwpryo",
-      "published": "2024-06-03T18:13:14.000Z",
-      "description": "Three people were trapped in basements and a firefighter died when his inflatable capsized.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cv22v0wg8v3o#1",
       "title": "Australian army to allow recruits from four nations",
       "link": "https://www.bbc.com/news/articles/cv22v0wg8v3o",
@@ -137,11 +117,11 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/cx009lq1043o#1",
-      "title": "Imran Khan acquitted in state secrets case",
-      "link": "https://www.bbc.com/news/articles/cx009lq1043o",
-      "published": "2024-06-03T15:44:55.000Z",
-      "description": "A high court acquits Khan in one case, but he will remain in prison because of another conviction.",
+      "id": "https://www.bbc.com/news/articles/cldd7n97dvro#1",
+      "title": "Russia link suspected in Eiffel Tower coffin mystery",
+      "link": "https://www.bbc.com/news/articles/cldd7n97dvro",
+      "published": "2024-06-03T13:00:44.000Z",
+      "description": "Officials believe Moscow could be behind a stunt in which coffins filled with plaster were left near the Eiffel Tower.",
       "summary": "",
       "author": "",
       "category": ""
@@ -162,6 +142,16 @@
       "link": "https://www.bbc.com/news/videos/cqqq2g653gro",
       "published": "2024-06-01T23:07:59.000Z",
       "description": "On 4 June, Indians will find out who governs their country for the next five years.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/cq55y97pgl2o#2",
+      "title": "First images of Hawaii's Kilauea volcano erupting",
+      "link": "https://www.bbc.com/news/videos/cq55y97pgl2o",
+      "published": "2024-06-03T23:23:30.000Z",
+      "description": "Helicopter overflight of Hawaii's Kilauea volcano after eruption.",
       "summary": "",
       "author": "",
       "category": ""
