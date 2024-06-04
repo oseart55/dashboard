@@ -1,7 +1,8 @@
 name: "FTP Upload"
 on:
-  [push]
-
+  [push]:
+  workflow_dispatch:
+  
 jobs:
   deploy:
     runs-on: ubuntu-latest
