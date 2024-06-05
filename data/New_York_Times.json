@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-05T19:11:28.000Z",
+  "published": "2024-06-05T20:11:49.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Israel Starts New Offensive in Central Gaza; Dozens Reported Dead",
       "link": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
-      "published": "2024-06-05T19:08:46.000Z",
+      "published": "2024-06-05T20:11:46.000Z",
       "description": "Israel said it launched operations “above and below ground” against Hamas militants. The only hospital in the area is overwhelmed with wounded, medics say.",
       "summary": "",
       "author": "",
@@ -81,9 +81,9 @@
     },
     {
       "id": "https://www.nytimes.com/2024/06/05/world/europe/israel-gaza-cease-fire-negotiations.html",
-      "title": "A Cease-Fire in Gaza Might Be the Easy Part. Fulfilling It Will Be Harder.",
+      "title": "Getting a Cease-Fire in Gaza Has Been Hard. Fulfilling One Will Be Harder.",
       "link": "https://www.nytimes.com/2024/06/05/world/europe/israel-gaza-cease-fire-negotiations.html",
-      "published": "2024-06-05T18:29:20.000Z",
+      "published": "2024-06-05T19:33:58.000Z",
       "description": "The proposal backed by President Biden is deeply political and aims at stopping the war at least for now. But Israel rejects a permanent cease-fire and Hamas has its own reasons for reluctance.",
       "summary": "",
       "author": "",
@@ -122,6 +122,49 @@
         },
         {
           "#text": "Israel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
+      "title": "Narendra Modi Fell to Earth After Making It All About Himself",
+      "link": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
+      "published": "2024-06-05T16:00:51.000Z",
+      "description": "The Indian leader used his singular persona to lift his party to new heights. Then the opposition found a way to use his cult of personality against him.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Elections",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Democracy (Theory and Philosophy)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Bharatiya Janata Party",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Indian National Congress",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Rashtriya Swayamsevak Sangh (India)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Modi, Narendra",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "India",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -166,44 +209,32 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
-      "title": "Narendra Modi Fell to Earth After Making It All About Himself",
-      "link": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
-      "published": "2024-06-05T16:00:51.000Z",
-      "description": "The Indian leader used his singular persona to lift his party to new heights. Then the opposition found a way to use his cult of personality against him.",
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/russian-american-sentenced-social-media.html",
+      "title": "A Russian American Is Sentenced in Russia Over Social Media Posts",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/russian-american-sentenced-social-media.html",
+      "published": "2024-06-05T20:07:43.000Z",
+      "description": "The latest detention of an American national in Russia has renewed fears that the Kremlin is seeking to use U.S. citizens as bargaining chips.",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Politics and Government",
+          "#text": "Decisions and Verdicts",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Elections",
+          "#text": "Russian-Americans",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Democracy (Theory and Philosophy)",
+          "#text": "Social Media",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Bharatiya Janata Party",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+          "#text": "Sentences (Criminal)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Indian National Congress",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Rashtriya Swayamsevak Sangh (India)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Modi, Narendra",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "India",
+          "#text": "Russia",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -402,45 +433,6 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
-      "title": "As Ukraine’s Summer Starts With Blackouts, Worries Over Winter Begin",
-      "link": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
-      "published": "2024-06-05T12:42:10.000Z",
-      "description": "Recent rolling power outages have raised alarm about what will happen when cold weather arrives and energy consumption goes even higher.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Electric Light and Power",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Power Failures and Blackouts",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Russian Invasion of Ukraine (2022)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Winter (Season)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Kyiv (Ukraine)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Russia",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Ukraine",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
       "id": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
       "title": "Amanda Knox Convicted in Slander Retrial Over 2007 Killing",
       "link": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
@@ -535,6 +527,45 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
+      "title": "As Ukraine’s Summer Starts With Blackouts, Worries Over Winter Begin",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
+      "published": "2024-06-05T12:42:10.000Z",
+      "description": "Recent rolling power outages have raised alarm about what will happen when cold weather arrives and energy consumption goes even higher.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Electric Light and Power",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Power Failures and Blackouts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Russian Invasion of Ukraine (2022)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Winter (Season)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Kyiv (Ukraine)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Russia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Ukraine",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/05/arts/music/ukraine-folk-music.html",
       "title": "As Ukraine Rebuilds Its Identity, Folk Songs Are the New Cool",
       "link": "https://www.nytimes.com/2024/06/05/arts/music/ukraine-folk-music.html",
@@ -582,28 +613,158 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
-      "title": "U.S. Embassy in Beirut Targeted With Gunfire",
-      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
-      "published": "2024-06-05T14:24:48.000Z",
-      "description": "An attacker was wounded and arrested, the Lebanese Army said. An embassy security guard was injured.",
+      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
+      "title": "As Biden Pushes for Truce in Gaza, Tensions Rise in Lebanon",
+      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
+      "published": "2024-06-05T19:57:42.000Z",
+      "description": "After a barrage from Hezbollah militants on northern Israel, Prime Minister Benjamin Netanyahu threatened a “very intense” military response.",
       "summary": "",
       "author": "",
       "category": [
         {
-          "#text": "Diplomatic Service, Embassies and Consulates",
+          "#text": "Israel-Gaza War (2023- )",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Lebanon",
+          "#text": "United States International Relations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Hamas",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Hezbollah",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Biden, Joseph R Jr",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Burns, William J",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Netanyahu, Benjamin",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Sinwar, Yehya",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Doha (Qatar)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "United States",
+          "#text": "Gaza Strip",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Beirut (Lebanon)",
+          "#text": "Khan Younis (Gaza Strip)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Rafah (Gaza Strip)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Qatar",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/slovakia-prime-minister-robert-fico-speech.html",
+      "title": "Slovak Prime Minister Speaks Publicly for First Time Since Assassination Attempt",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/slovakia-prime-minister-robert-fico-speech.html",
+      "published": "2024-06-05T19:48:20.000Z",
+      "description": "Robert Fico said in a video address that he hoped to return to work in the coming weeks. He blamed the political opposition for the attack, a notion that the parties have strongly denied.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Assassinations and Attempted Assassinations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Fico, Robert",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Bratislava (Slovakia)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Europe",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Slovakia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/israeli-palestinian-jerusalem-flag-march.html",
+      "title": "18 Arrested at Israeli Nationalist Flag March Through East Jerusalem",
+      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/israeli-palestinian-jerusalem-flag-march.html",
+      "published": "2024-06-05T20:11:44.000Z",
+      "description": "The annual march celebrating Israel’s 1967 takeover of the mostly Palestinian East Jerusalem has long been a flashpoint.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Palestinians",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Demonstrations, Protests and Riots",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Jews and Judaism",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Flags, Emblems and Insignia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Temple Mount (Jerusalem)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Muslims and Islam",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Al Aqsa Mosque (Jerusalem)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Hamas",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Ben-Gvir, Itamar",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "East Jerusalem",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Jerusalem (Israel)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -815,7 +976,7 @@
       "id": "https://www.nytimes.com/2024/06/05/us/politics/us-china-pilots-allies.html",
       "title": "Allies Warn Former Fighter Pilots Not to Train Chinese Military Members",
       "link": "https://www.nytimes.com/2024/06/05/us/politics/us-china-pilots-allies.html",
-      "published": "2024-06-05T14:03:38.000Z",
+      "published": "2024-06-05T20:05:04.000Z",
       "description": "A new bulletin says China is trying to step up recruitment of Western-trained fighter pilots to improve its air combat capability.",
       "summary": "",
       "author": "",
@@ -988,6 +1149,33 @@
         {
           "#text": "Small Business",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
+      "title": "U.S. Embassy in Beirut Targeted With Gunfire",
+      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
+      "published": "2024-06-05T14:24:48.000Z",
+      "description": "An attacker was wounded and arrested, the Lebanese Army said. An embassy security guard was injured.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Diplomatic Service, Embassies and Consulates",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Lebanon",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "United States",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Beirut (Lebanon)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     },
@@ -2344,143 +2532,6 @@
         {
           "#text": "internal-truncator",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/world/americas/claudia-sheinbaum-jewish-mexico-president.html",
-      "title": "Another Milestone in Mexico: Its First Jewish President",
-      "link": "https://www.nytimes.com/2024/06/03/world/americas/claudia-sheinbaum-jewish-mexico-president.html",
-      "published": "2024-06-03T20:49:14.000Z",
-      "description": "Claudia Sheinbaum was born to Jewish parents, but she has played down her heritage on the campaign trail.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Sheinbaum, Claudia",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Mexico",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Jews and Judaism",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Discrimination",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Fox, Vicente",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Elections",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/world/europe/russia-georgia-moldova-ukraine-war.html",
-      "title": "In Former Soviet States, a Tug of War Between East and West",
-      "link": "https://www.nytimes.com/2024/06/03/world/europe/russia-georgia-moldova-ukraine-war.html",
-      "published": "2024-06-03T18:48:45.000Z",
-      "description": "Geopolitical rivalry, intensified by fighting in Ukraine, is amplifying domestic struggles in countries like Georgia and Moldova whose people are split on which side to support.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Russian Invasion of Ukraine (2022)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Georgian Dream (Political Party)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "European Union",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Ivanishvili, Bidzina",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Blinken, Antony J",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Putin, Vladimir V",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Armenia",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Azerbaijan",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Georgia (Georgian Republic)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Moldova",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Ukraine",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/world/asia/nepal-media-arrest.html",
-      "title": "Arrest Threatens Nepal’s Standing as Bastion of Free Speech",
-      "link": "https://www.nytimes.com/2024/06/03/world/asia/nepal-media-arrest.html",
-      "published": "2024-06-03T07:26:14.000Z",
-      "description": "A media executive was arrested after his company published critical reports about a powerful government minister.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Freedom of the Press",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Media",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Freedom of Speech and Expression",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Democracy (Theory and Philosophy)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Nepal",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     }
