@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-05T21:10:38.000Z",
+  "published": "2024-06-05T22:12:19.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Israel Starts New Offensive in Central Gaza; Dozens Reported Dead",
       "link": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
-      "published": "2024-06-05T20:53:46.000Z",
+      "published": "2024-06-05T21:53:08.000Z",
       "description": "Israel said it launched operations “above and below ground” against Hamas militants. The only hospital in the area is overwhelmed with wounded, medics say.",
       "summary": "",
       "author": "",
@@ -122,6 +122,65 @@
         },
         {
           "#text": "Israel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/americas/migrants-us-mexico-border-biden.html",
+      "title": "Biden’s New Order Leaves Migrants at Border in Limbo Over Asylum Fate",
+      "link": "https://www.nytimes.com/2024/06/05/world/americas/migrants-us-mexico-border-biden.html",
+      "published": "2024-06-05T21:00:35.000Z",
+      "description": "In Mexican cities along the border with the United States, migrants were taking a wait-and-see approach to a restrictive new executive action.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Illegal Immigration",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Border Barriers",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Refugees and Displaced Persons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Asylum, Right of",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "American Friends Service Committee",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Customs and Border Protection (US)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Border Patrol (US)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Lopez Obrador, Andres Manuel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Biden, Joseph R Jr",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Mexico",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Mexicali (Mexico)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Juarez (Mexico)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -240,6 +299,33 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
+      "title": "U.N. Nuclear Watchdog Censures Iran and Demands Access for Inspectors",
+      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
+      "published": "2024-06-05T20:38:22.000Z",
+      "description": "The International Atomic Energy Agency acted in the face of Iran’s refusal to allow experts to examine its stepped-up nuclear enrichment program.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Nuclear Weapons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "International Relations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "International Atomic Energy Agency",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Iran",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html",
       "title": "Israel Secretly Targets U.S. Lawmakers With Influence Campaign on Gaza War",
       "link": "https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html",
@@ -318,6 +404,41 @@
         },
         {
           "#text": "Israel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/slovakia-prime-minister-robert-fico-speech.html",
+      "title": "Slovak Prime Minister Speaks Publicly for First Time Since Assassination Attempt",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/slovakia-prime-minister-robert-fico-speech.html",
+      "published": "2024-06-05T19:48:20.000Z",
+      "description": "Robert Fico said in a video address that he hoped to return to work in the coming weeks. He blamed the political opposition for the attack, a notion that the parties have strongly denied.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Assassinations and Attempted Assassinations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Fico, Robert",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Bratislava (Slovakia)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Europe",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Slovakia",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -433,45 +554,6 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
-      "title": "Amanda Knox Convicted in Slander Retrial Over 2007 Killing",
-      "link": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
-      "published": "2024-06-05T13:09:41.000Z",
-      "description": "The American, who spent several years in jail but was exonerated in 2015 of the killing of her housemate in Italy, was defending herself against a charge related to the case.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "False Arrests, Convictions and Imprisonments",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Libel and Slander",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Murders, Attempted Murders and Homicides",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Decisions and Verdicts",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Knox, Amanda",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Kercher, Meredith",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Italy",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
       "id": "https://www.nytimes.com/2024/06/05/world/europe/dday-france-resistance-wwii.html",
       "title": "The D-Day Battle France Chose to Forget. Until Now.",
       "link": "https://www.nytimes.com/2024/06/05/world/europe/dday-france-resistance-wwii.html",
@@ -527,96 +609,10 @@
       ]
     },
     {
-      "id": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
-      "title": "As Ukraine’s Summer Starts With Blackouts, Worries Over Winter Begin",
-      "link": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
-      "published": "2024-06-05T12:42:10.000Z",
-      "description": "Recent rolling power outages have raised alarm about what will happen when cold weather arrives and energy consumption goes even higher.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Electric Light and Power",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Power Failures and Blackouts",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Russian Invasion of Ukraine (2022)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Winter (Season)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Kyiv (Ukraine)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Russia",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Ukraine",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/05/arts/music/ukraine-folk-music.html",
-      "title": "As Ukraine Rebuilds Its Identity, Folk Songs Are the New Cool",
-      "link": "https://www.nytimes.com/2024/06/05/arts/music/ukraine-folk-music.html",
-      "published": "2024-06-05T09:03:59.000Z",
-      "description": "Faced with Russia’s efforts to erase Ukrainian culture, people have embraced traditional music as a way to reconnect with their past and affirm their identity.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Folk Music",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Bars and Nightclubs",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Music",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Culture (Arts)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Dancing",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Russian Invasion of Ukraine (2022)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Kyiv (Ukraine)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Ukraine",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "internal-truncator",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
       "id": "https://www.nytimes.com/2024/06/05/world/asia/sudan-israel-heat-dday-india-asia.html",
       "title": "Thursday Briefing: A Special Report From Sudan",
       "link": "https://www.nytimes.com/2024/06/05/world/asia/sudan-israel-heat-dday-india-asia.html",
-      "published": "2024-06-05T20:56:48.000Z",
+      "published": "2024-06-05T20:56:49.000Z",
       "description": "Also, the 80th anniversary of D-Day.",
       "summary": "",
       "author": "",
@@ -626,96 +622,10 @@
       }
     },
     {
-      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
-      "title": "U.N. Nuclear Watchdog Censures Iran and Demands Access for Inspectors",
-      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
-      "published": "2024-06-05T20:38:22.000Z",
-      "description": "The International Atomic Energy Agency acted in the face of Iran’s refusal to allow experts to examine its stepped-up nuclear enrichment program.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Nuclear Weapons",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "International Atomic Energy Agency",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Iran",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/05/world/americas/migrants-us-mexico-border-biden.html",
-      "title": "Biden’s New Order Leaves Migrants at Border in Limbo Over Asylum Fate",
-      "link": "https://www.nytimes.com/2024/06/05/world/americas/migrants-us-mexico-border-biden.html",
-      "published": "2024-06-05T21:00:35.000Z",
-      "description": "In Mexican cities along the border with the United States, migrants were taking a wait-and-see approach to a restrictive new executive action.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Illegal Immigration",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Border Barriers",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Refugees and Displaced Persons",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Asylum, Right of",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "American Friends Service Committee",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Customs and Border Protection (US)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Border Patrol (US)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Lopez Obrador, Andres Manuel",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Biden, Joseph R Jr",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Mexico",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Mexicali (Mexico)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Juarez (Mexico)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
-      "title": "As Biden Pushes for Truce in Gaza, Tensions Rise in Lebanon",
+      "title": "Netanyahu Threatens Military Action Against Hezbollah as Biden Pushes for Truce",
       "link": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
-      "published": "2024-06-05T19:57:42.000Z",
+      "published": "2024-06-05T21:50:23.000Z",
       "description": "After a barrage from Hezbollah militants on northern Israel, Prime Minister Benjamin Netanyahu threatened a “very intense” military response.",
       "summary": "",
       "author": "",
@@ -770,41 +680,6 @@
         },
         {
           "#text": "Qatar",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/05/world/europe/slovakia-prime-minister-robert-fico-speech.html",
-      "title": "Slovak Prime Minister Speaks Publicly for First Time Since Assassination Attempt",
-      "link": "https://www.nytimes.com/2024/06/05/world/europe/slovakia-prime-minister-robert-fico-speech.html",
-      "published": "2024-06-05T19:48:20.000Z",
-      "description": "Robert Fico said in a video address that he hoped to return to work in the coming weeks. He blamed the political opposition for the attack, a notion that the parties have strongly denied.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Assassinations and Attempted Assassinations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Fico, Robert",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Bratislava (Slovakia)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Europe",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Slovakia",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -1252,6 +1127,45 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
+      "title": "As Ukraine’s Summer Starts With Blackouts, Worries Over Winter Begin",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/ukraine-energy-blackouts-summer-i.html",
+      "published": "2024-06-05T12:42:10.000Z",
+      "description": "Recent rolling power outages have raised alarm about what will happen when cold weather arrives and energy consumption goes even higher.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Electric Light and Power",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Power Failures and Blackouts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Russian Invasion of Ukraine (2022)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Winter (Season)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Kyiv (Ukraine)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Russia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Ukraine",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
       "title": "U.S. Embassy in Beirut Targeted With Gunfire",
       "link": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
@@ -1339,6 +1253,45 @@
         },
         {
           "#text": "Marseille (France)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
+      "title": "Amanda Knox Convicted in Slander Retrial Over 2007 Killing",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
+      "published": "2024-06-05T13:09:41.000Z",
+      "description": "The American, who spent several years in jail but was exonerated in 2015 of the killing of her housemate in Italy, was defending herself against a charge related to the case.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "False Arrests, Convictions and Imprisonments",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Libel and Slander",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Murders, Attempted Murders and Homicides",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Decisions and Verdicts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Knox, Amanda",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Kercher, Meredith",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Italy",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -1439,7 +1392,7 @@
     },
     {
       "id": "https://www.nytimes.com/2024/06/04/world/middleeast/israel-hamas-ceasefire-proposal-gaza.html",
-      "title": "Israel-Hamas Cease-Fire Plan Outlined by Biden Stirs Skepticism in Gaza",
+      "title": "Gazans Pin Hopes on New Truce Proposal, but Remain Skeptical",
       "link": "https://www.nytimes.com/2024/06/04/world/middleeast/israel-hamas-ceasefire-proposal-gaza.html",
       "published": "2024-06-04T22:52:59.000Z",
       "description": "A cease-fire plan described by President Biden has stirred cautious optimism after nearly eight months of war in the Gaza Strip.",
@@ -2441,6 +2394,57 @@
         },
         {
           "#text": "Delhi (India)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/03/world/asia/myanmar-rebel-rohingya.html",
+      "title": "In Myanmar, a New Threat for the Rohingya",
+      "link": "https://www.nytimes.com/2024/06/03/world/asia/myanmar-rebel-rohingya.html",
+      "published": "2024-06-03T10:10:00.000Z",
+      "description": "Allegations against the Arakan Army, a key force in the fight against the junta, threaten to revive old horrors of sectarian atrocities.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Arakan Army (Myanmar)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Rohingya (Ethnic Group)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Rakhine State (Myanmar)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Rakhine (Ethnic Group)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Myanmar",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Tatmadaw (Myanmar)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Human Rights Watch",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Refugees and Displaced Persons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Arson",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Bangladesh",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
