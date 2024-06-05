@@ -4,8 +4,125 @@
   "description": "World News",
   "language": "en-us",
   "generator": "http://online.wsj.com/page/2_0006.html",
-  "published": "2024-06-05T16:04:30.000Z",
+  "published": "2024-06-05T17:01:15.000Z",
   "entries": [
+    {
+      "id": "SB11691314484368184705504591090530256984831",
+      "title": "More »",
+      "link": "https://www.wsj.com/articles/more-amp-raquo-9bc82cdf",
+      "published": "2024-06-05T17:00:00.000Z",
+      "description": "A new Texas stock exchange, backed by Wall Street heavyweights, aims to take on New York&#x27;s dominance",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001820593",
+      "title": "Court Hands Private Equity, Hedge Funds a Win on SEC Fee Rules",
+      "link": "https://www.wsj.com/articles/court-hands-private-equity-hedge-funds-a-win-on-sec-fee-rules-3676cc99",
+      "published": "2024-06-05T16:53:00.000Z",
+      "description": "Rules issued last year would have required more disclosures of fees and side deals to investors.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001820471",
+      "title": "New York Gov. Kathy Hochul Delays Manhattan Congestion Pricing",
+      "link": "https://www.wsj.com/articles/new-york-gov-kathy-hochul-to-delay-manhattan-congestion-pricing-4739ea0c",
+      "published": "2024-06-05T16:53:00.000Z",
+      "description": "The plan to charge drivers $15 to enter the city was set to take effect later this month.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001818438",
+      "title": "Boeing's Starliner Launches NASA Astronauts After Setbacks and Delays",
+      "link": "https://www.wsj.com/articles/boeing-starliner-launch-today-nasa-astronauts-d89dc593",
+      "published": "2024-06-05T16:45:00.000Z",
+      "description": "The spacecraft is expected to reach the International Space Station Thursday and return to Earth next week.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819990",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-9ccd511d",
+      "published": "2024-06-05T16:33:00.000Z",
+      "description": "Find insights on labor costs for restaurants, ASML Holding, Cogeco Communications, and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819975",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-7224881c",
+      "published": "2024-06-05T16:28:00.000Z",
+      "description": "Find insight on Centrica, crude futures, Tenaga Nasional, and more in the latest Market Talks covering Energy and Utilities.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819932",
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-882cd8bb",
+      "published": "2024-06-05T16:27:00.000Z",
+      "description": "Gain insight on Ninety One, Swiss Re and Munich Re and more in the latest Market Talks covering Financial Services.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001820584",
+      "title": "Pro-Palestinian Protesters Arrested at Stanford After Demonstrators Take Over President's Office",
+      "link": "https://www.wsj.com/articles/pro-palestinian-protesters-arrested-at-stanford-after-demonstrators-take-over-presidents-office-b109687b",
+      "published": "2024-06-05T16:24:00.000Z",
+      "description": "Some demonstrations are persisting at American universities as school year winds down.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819958",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-3ea39623",
+      "published": "2024-06-05T16:22:00.000Z",
+      "description": "Gain insight on Renault, Stellantis, Maersk and more in the latest Market Talks covering the Auto and Transport sector.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
     {
       "id": "SB11780646216880184573904591088433055004352",
       "title": "Early Takeaways From the Trump Conviction",
@@ -124,32 +241,6 @@
       }
     },
     {
-      "id": "WP-WSJ-0001820471",
-      "title": "New York Gov. Kathy Hochul to Delay Manhattan Congestion Pricing",
-      "link": "https://www.wsj.com/articles/new-york-gov-kathy-hochul-to-delay-manhattan-congestion-pricing-4739ea0c",
-      "published": "2024-06-05T15:44:00.000Z",
-      "description": "The plan to charge drivers $15 to enter the city was set to take effect later this month.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001818438",
-      "title": "Boeing's Starliner Launches NASA Astronauts After Setbacks and Delays",
-      "link": "https://www.wsj.com/articles/boeing-starliner-launch-today-nasa-astronauts-d89dc593",
-      "published": "2024-06-05T15:37:00.000Z",
-      "description": "The spacecraft is expected to reach the International Space Station Thursday and return to Earth next week.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
       "id": "WP-WSJ-0001819691",
       "title": "U.N. Atomic Agency Censures Iran Over Nuclear Actions Despite Retaliation Threat",
       "link": "https://www.wsj.com/articles/u-n-atomic-agency-censures-iran-over-nuclear-actions-despite-retaliation-threat-e09626b6",
@@ -168,97 +259,6 @@
       "link": "https://www.wsj.com/articles/gold-edges-higher-aided-by-growing-fed-rate-cut-bets-3ae07b0d",
       "published": "2024-06-05T15:31:00.000Z",
       "description": "Gold futures were up, holding steady as ETFs started wading back into the market.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001820359",
-      "title": "U.S. Crude Oil Inventories Rose Last Week",
-      "link": "https://www.wsj.com/articles/u-s-crude-oil-inventories-rose-last-week-7e9b1639",
-      "published": "2024-06-05T15:21:00.000Z",
-      "description": "U.S. crude oil inventories rose 1.2 million barrels last week, along with a rise in gasoline and distillate stocks, as refineries raised their capacity use.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001820014",
-      "title": "Google Parent Alphabet Poaches Eli Lilly Finance Chief Ashkenazi",
-      "link": "https://www.wsj.com/articles/google-parent-alphabet-poaches-eli-lilly-finance-chief-ashkenazi-660011d9",
-      "published": "2024-06-05T15:20:00.000Z",
-      "description": "Google parent Alphabet named Eli Lilly’s finance chief as its next CFO after nearly a yearlong search for a successor to Ruth Porat.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001818952",
-      "title": "Dollar's Scope to Fall After Fed Rate Cuts Start Looks Limited",
-      "link": "https://www.wsj.com/articles/jpy-falls-in-likely-technical-correction-66ca1858",
-      "published": "2024-06-05T15:12:00.000Z",
-      "description": "The dollar strengthened for the session, but could weaken once the Fed starts to cut interest rates but any depreciation is likely to be limited given its global dominance and the risks to U.S. inflation from U.S.-China tensions and U.S....",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001820101",
-      "title": "James's Take: Debt and Liquidity Concerns Cloud Private-Markets' Berlin Get-Together",
-      "link": "https://www.wsj.com/articles/jamess-take-debt-and-liquidity-concerns-cloud-private-markets-berlin-get-together-0eb3be20",
-      "published": "2024-06-05T15:02:00.000Z",
-      "description": "An annual conference begins with private-equity facing the effects of high rates and low liquidity.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001819901",
-      "title": "Word's Leading Nations Failing to Deliver on Climate Goals",
-      "link": "https://www.wsj.com/articles/words-leading-nations-failing-to-deliver-on-climate-goals-3a08dac2",
-      "published": "2024-06-05T14:58:00.000Z",
-      "description": "Two reports out this week highlight the work that still needs to be done to reduce demand for fossil fuels and limit global warming.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001820281",
-      "title": "McDonald's Loses Big Mac Trademark Over Chicken in Europe",
-      "link": "https://www.wsj.com/articles/mcdonalds-loses-big-mac-trademark-over-chicken-in-europe-c42c8a71",
-      "published": "2024-06-05T14:48:00.000Z",
-      "description": "McDonald’s no longer has the exclusive right to call chicken sandwiches sold in the European Union a ‘Big Mac,’ an EU court ruled.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001819706",
-      "title": "U.S. Spy Chief to Reinforce Biden's Push for Gaza Cease-Fire in Qatar Talks",
-      "link": "https://www.wsj.com/articles/u-s-officials-head-to-the-middle-east-to-push-for-gaza-cease-fire-aef2626b",
-      "published": "2024-06-05T14:44:00.000Z",
-      "description": "The renewed effort comes after President Biden laid out a three-phase deal that would free Israeli hostages in return for Palestinian prisoners.",
       "summary": "",
       "author": "",
       "category": {
