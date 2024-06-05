@@ -4,14 +4,66 @@
   "description": "World News",
   "language": "en-us",
   "generator": "http://online.wsj.com/page/2_0006.html",
-  "published": "2024-06-05T05:07:11.000Z",
+  "published": "2024-06-05T06:09:28.000Z",
   "entries": [
+    {
+      "id": "WP-WSJ-0001819023",
+      "title": "Nikkei Falls 0.9%, Dragged by Financial, Electronics Stocks",
+      "link": "https://www.wsj.com/articles/australia-shares-set-for-an-uncertain-open-e9e1e2e3",
+      "published": "2024-06-05T06:08:00.000Z",
+      "description": "Japanese stocks ended lower, dragged by falls in financial and electronics stocks, as concerns continued about signs of U.S. economic weakness.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819492",
+      "title": "Musk Confirms Diverting Nvidia AI Chips Away From Tesla",
+      "link": "https://www.wsj.com/articles/musk-confirms-diverting-nvidia-ai-chips-away-from-tesla-7a1ba362",
+      "published": "2024-06-05T06:05:00.000Z",
+      "description": "Elon Musk confirmed that many Nvidia Corp. chips initially intended for Tesla’s electric-vehicle production were diverted to X Corp. due to logistical challenges.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819494",
+      "title": "Inditex Sales Grow But Pace Slows",
+      "link": "https://www.wsj.com/articles/zara-owner-inditex-sales-grow-on-success-of-spring-summer-collections-93780657",
+      "published": "2024-06-05T06:02:00.000Z",
+      "description": "Zara owner Inditex said sales in the second quarter rose 12%, a slower pace of growth than in the same period last year but above expectations, buoyed by the continuing success of its spring/summer collections.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001818963",
+      "title": "Zambia Unlikely to Meet Copper Production Target as Disruptions Linger",
+      "link": "https://www.wsj.com/articles/gold-edges-higher-aided-by-growing-fed-rate-cut-bets-3ae07b0d",
+      "published": "2024-06-05T05:28:00.000Z",
+      "description": "Zambia is unlikely to attain its copper production target of 3 million tons by 2032 as Africa’s second-biggest producer of the industrial metal grapples with electricity shortages and constrained financing occasioned by the debt crisis.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
     {
       "id": "WP-WSJ-0001819414",
       "title": "BYD, NIO Get Approval to Test Automated Driving Technology on China Roads",
       "link": "https://www.wsj.com/articles/byd-nio-get-approval-to-test-automated-driving-technology-on-china-roads-5ba18c5f",
       "published": "2024-06-05T05:05:00.000Z",
-      "description": "China’s Ministry of Industry and Information Technology has approved nine automakers including BYD and NIO for testing their automated driving technology on roads.",
+      "description": "Chinese authorities have issued approvals for nine automakers, including BYD and NIO, to test their automated driving technology on roads.",
       "summary": "",
       "author": "",
       "category": {
@@ -33,11 +85,11 @@
       }
     },
     {
-      "id": "WP-WSJ-0001817477",
-      "title": "Former Brexit Champion and Trump Supporter Shakes Up U.K. Election Race",
-      "link": "https://www.wsj.com/articles/former-brexit-champion-and-trump-supporter-shakes-up-u-k-election-race-742d0d50",
+      "id": "WP-WSJ-0001817924",
+      "title": "Israel and Hezbollah Move Closer to Full-Scale War",
+      "link": "https://www.wsj.com/articles/israel-and-hezbollah-move-closer-to-full-scale-war-988b3bfc",
       "published": "2024-06-05T04:07:00.000Z",
-      "description": "Nigel Farage launched a long-shot attempt to take over the Conservative Party.",
+      "description": "Months of escalating hostilities with the Lebanese militant group has added pressure on Israel’s government to secure its northern border.",
       "summary": "",
       "author": "",
       "category": {
@@ -50,7 +102,7 @@
       "title": "Americans Have More Investment Income Than Ever Before",
       "link": "https://www.wsj.com/articles/americans-have-more-investment-income-than-ever-before-84b7a6c6",
       "published": "2024-06-05T04:07:00.000Z",
-      "description": "A booming economy and rising household wealth help some consumers keep spending.",
+      "description": "The economy’s charge through higher interest rates is putting unprecedented sums into consumers’ pockets. But the historic gains aren’t without a potential downside.",
       "summary": "",
       "author": "",
       "category": {
@@ -59,11 +111,11 @@
       }
     },
     {
-      "id": "WP-WSJ-0001817924",
-      "title": "Israel and Hezbollah Move Closer to Full-Scale War",
-      "link": "https://www.wsj.com/articles/israel-and-hezbollah-move-closer-to-full-scale-war-988b3bfc",
+      "id": "WP-WSJ-0001817477",
+      "title": "Former Brexit Champion and Trump Supporter Shakes Up U.K. Election Race",
+      "link": "https://www.wsj.com/articles/former-brexit-champion-and-trump-supporter-shakes-up-u-k-election-race-742d0d50",
       "published": "2024-06-05T04:07:00.000Z",
-      "description": "Officials on both sides are sounding warnings despite efforts to keep hostilities in check.",
+      "description": "A staid British election campaign has been suddenly energized by the arrival of a now familiar troublemaker: Nigel Farage.",
       "summary": "",
       "author": "",
       "category": {
@@ -207,58 +259,6 @@
       "link": "https://www.wsj.com/us-news/law/merrick-garland-hearing-devolves-into-partisan-brawl-5d46e0ca",
       "published": "2024-06-05T04:01:00.000Z",
       "description": "Garland’s appearance before a congressional panel devolved into a partisan brawl, with the attorney general accusing his Republican critics of peddling falsehoods that undermine the justice system.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "AFF755A5-DED4-4815-9EEA-BD5A53707009",
-      "title": "Israel and Hezbollah moved closer to a full-scale war after months of hostilities, adding pressure on Israel's government to secure its northern border.",
-      "link": "https://www.wsj.com/world/middle-east/israel-and-hezbollah-move-closer-to-full-scale-war-988b3bfc",
-      "published": "2024-06-05T04:01:00.000Z",
-      "description": "Israel and Hezbollah moved closer to a full-scale war after months of hostilities, adding pressure on Israel’s government to secure its northern border.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "4DEBBFE6-2BED-46D1-81DC-BC4D2A103DCD",
-      "title": "U.S. prosecutors sought to extradite an Israeli private investigator from London as part of an investigation into an alleged globe-spanning hacking-for-hire operation, according to court documents and people familiar with the matter.",
-      "link": "https://www.wsj.com/business/u-s-prosecutors-probe-global-hacking-for-hire-operation-75ab73e7",
-      "published": "2024-06-05T04:01:00.000Z",
-      "description": "U.S. prosecutors sought to extradite an Israeli private investigator from London as part of an investigation into an alleged globe-spanning hacking-for-hire operation, according to court documents and people familiar with the matter.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "69327307-1000-441D-80A2-378C5378341A",
-      "title": "Modi was poised to keep power for a third term even after Indian voters dealt the Hindu nationalist prime minister a stunning setback by denying him an outright majority following an election dominated by high unemployment and inflation.",
-      "link": "https://www.wsj.com/world/india/india-election-2024-nanendra-modi-6179abad",
-      "published": "2024-06-05T04:01:00.000Z",
-      "description": "Modi was poised to keep power for a third term even after Indian voters dealt the Hindu nationalist prime minister a stunning setback by denying him an outright majority following an election dominated by high unemployment and inflation.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "SB12601550511791503972504591088543312659466",
-      "title": "What's News: World-Wide",
-      "link": "https://www.wsj.com/articles/whats-news-world-wide-101a22ac",
-      "published": "2024-06-05T04:01:00.000Z",
-      "description": "What’s News: World-Wide",
       "summary": "",
       "author": "",
       "category": {

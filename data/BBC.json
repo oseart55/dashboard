@@ -4,8 +4,18 @@
   "description": "BBC News - World",
   "language": "en-gb",
   "generator": "RSS for Node",
-  "published": "2024-06-05T05:14:14.000Z",
+  "published": "2024-06-05T06:19:48.000Z",
   "entries": [
+    {
+      "id": "https://www.bbc.com/news/articles/c511k1nqx81o#0",
+      "title": "Mass graves and body bags: al-Shifa hospital after Israel withdrew its forces",
+      "link": "https://www.bbc.com/news/articles/c511k1nqx81o",
+      "published": "2024-06-05T05:41:13.000Z",
+      "description": "The BBC has gained insight into what al-Shifa hospital is like since Israeli forces withdrew.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
     {
       "id": "https://www.bbc.com/news/articles/c7227y6nqzmo#0",
       "title": "Biden announces asylum restrictions to ‘control border’",
@@ -18,7 +28,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/live/world-asia-india-69072275#0",
-      "title": "Modi claims Indian election win but opposition yet to concede",
+      "title": "Modi set for third term but opposition still to concede",
       "link": "https://www.bbc.co.uk/news/live/world-asia-india-69072275",
       "published": "2024-06-04T00:22:04.000Z",
       "description": "Narendra Modi gains a third term as India's prime minister, but his party missed the target he set.",
@@ -40,7 +50,7 @@
       "id": "https://www.bbc.com/news/articles/cv229qm7nepo#0",
       "title": "Australia drops case against X over stabbing videos",
       "link": "https://www.bbc.com/news/articles/cv229qm7nepo",
-      "published": "2024-06-05T03:26:40.000Z",
+      "published": "2024-06-05T05:14:09.000Z",
       "description": "The case was seen as a test of Australia's ability to enforce online safety rules on social media giants.",
       "summary": "",
       "author": "",
@@ -67,21 +77,11 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/cqlle2v2dpxo#0",
+      "id": "https://www.bbc.com/news/articles/cqlle2v2dpxo#1",
       "title": "Heat dome brings dangerous weather to western US",
       "link": "https://www.bbc.com/news/articles/cqlle2v2dpxo",
       "published": "2024-06-05T02:14:23.000Z",
       "description": "More than 34 million Americans in the western US are under excessive heat advisories this week.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/ce442577v35o#1",
-      "title": "What worked for India's Modi - and what didn’t?",
-      "link": "https://www.bbc.com/news/articles/ce442577v35o",
-      "published": "2024-06-04T15:32:32.000Z",
-      "description": "Indian Prime Minister Narendra Modi and his party have won the most seats in this year's election.",
       "summary": "",
       "author": "",
       "category": ""
@@ -132,16 +132,6 @@
       "link": "https://www.bbc.com/news/articles/c166n3p6r49o",
       "published": "2024-06-04T11:41:32.000Z",
       "description": "The killing of Yolanda Sanchez comes just hours after a historic landslide victory for Mexico's first woman president.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c2xx6x2x356o#1",
-      "title": "'Mansplaining' French PM accused of sidelining colleague",
-      "link": "https://www.bbc.com/news/articles/c2xx6x2x356o",
-      "published": "2024-06-04T13:48:43.000Z",
-      "description": "Gabriel Attal burst on to a broadcast featuring his party’s lead EU election candidate Valérie Hayer.",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,11 +247,11 @@
       "category": ""
     },
     {
-      "id": "https://www.bbc.com/news/articles/c977g8gl5q2o#3",
-      "title": "Why India's Modi failed to win outright majority",
-      "link": "https://www.bbc.com/news/articles/c977g8gl5q2o",
-      "published": "2024-06-04T16:34:20.000Z",
-      "description": "Mr Modi has lost some of his aura of invincibility and the results mean the opposition is back.",
+      "id": "https://www.bbc.com/news/articles/ce442577v35o#3",
+      "title": "What worked for India's Modi - and what didn’t?",
+      "link": "https://www.bbc.com/news/articles/ce442577v35o",
+      "published": "2024-06-04T15:32:32.000Z",
+      "description": "Indian Prime Minister Narendra Modi and his party have won the most seats in this year's election.",
       "summary": "",
       "author": "",
       "category": ""
@@ -287,31 +277,21 @@
       "category": ""
     },
     {
+      "id": "https://www.bbc.com/news/articles/c977g8gl5q2o#3",
+      "title": "Why India's Modi failed to win outright majority",
+      "link": "https://www.bbc.com/news/articles/c977g8gl5q2o",
+      "published": "2024-06-04T16:34:20.000Z",
+      "description": "Mr Modi has lost some of his aura of invincibility and the results mean the opposition is back.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cg33rlzxgnxo#3",
       "title": "Behind the 'Zuma tsunami' in South Africa",
       "link": "https://www.bbc.com/news/articles/cg33rlzxgnxo",
       "published": "2024-06-05T01:04:09.000Z",
       "description": "The ex-president has been hit by a number of scandals but emerges once again to play a big role.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c6ppn8nyv1do#3",
-      "title": "Gaza ceasefire plan turns into deadly game of survival",
-      "link": "https://www.bbc.com/news/articles/c6ppn8nyv1do",
-      "published": "2024-06-04T04:28:04.000Z",
-      "description": "The plan outlined by President Biden could end the war, but both sides want to get their way.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cl44v6e8461o#3",
-      "title": "Gazans returning to Jabalia describe 'horrifying' destruction",
-      "link": "https://www.bbc.com/news/articles/cl44v6e8461o",
-      "published": "2024-06-03T22:15:55.000Z",
-      "description": "Palestinians returning to the camp in northern Gaza express shock at the level of devastation they found.",
       "summary": "",
       "author": "",
       "category": ""
