@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-05T03:14:56.000Z",
+  "published": "2024-06-05T04:15:15.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/04/world/middleeast/israel-hamas-ceasefire-proposal-gaza.html",
@@ -190,7 +190,7 @@
       "id": "https://www.nytimes.com/2024/06/04/world/europe/sunak-starmer-britain-prime-minister-debate.html",
       "title": "Rishi Sunak and Keir Starmer Clash in U.K. Election Debate",
       "link": "https://www.nytimes.com/2024/06/04/world/europe/sunak-starmer-britain-prime-minister-debate.html",
-      "published": "2024-06-05T00:19:23.000Z",
+      "published": "2024-06-05T00:19:24.000Z",
       "description": "Prime Minister Rishi Sunak, fighting to narrow a substantial polling gap, adopted an aggressive approach against his Labour Party opponent, Keir Starmer.",
       "summary": "",
       "author": "",
@@ -314,9 +314,6 @@
       "author": "",
       "category": [
         {
-          "@_domain": ""
-        },
-        {
           "#text": "Polls and Public Opinion",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
@@ -339,6 +336,9 @@
         {
           "#text": "Great Britain",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "@_domain": ""
         }
       ]
     },
@@ -518,6 +518,110 @@
         },
         {
           "#text": "Mexico City (Mexico)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/briefing/india-elections-ukraine-damage.html",
+      "title": "Wednesday Briefing",
+      "link": "https://www.nytimes.com/2024/06/05/briefing/india-elections-ukraine-damage.html",
+      "published": "2024-06-05T04:04:48.000Z",
+      "description": "Narendra Modi’s election setback in India.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/france-prisoner-manhunt.html",
+      "title": "No Arrest in Prisoner Manhunt in France, Weeks After Deadly Ambush",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/france-prisoner-manhunt.html",
+      "published": "2024-06-05T04:01:25.000Z",
+      "description": "The aftermath of a brazen attack on a prison convoy has raised uncomfortable questions for France’s justice system.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "France",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Fugitives",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Drug Abuse and Traffic",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Prison Escapes",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Prisons and Prisoners",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Police",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Dupond-Moretti, Eric",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Faid, Redoine",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Abdeslam, Salah",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Rouen (France)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Marseille (France)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
+      "title": "Amanda Knox Set to Appear in Italy for Slander Retrial",
+      "link": "https://www.nytimes.com/2024/06/05/world/europe/amanda-knox-italy-slander-case.html",
+      "published": "2024-06-05T04:01:12.000Z",
+      "description": "The American, who spent several years in jail but was exonerated in 2015 of the killing of her housemate in Italy, will defend herself against a charge related to the case.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "False Arrests, Convictions and Imprisonments",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Libel and Slander",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Murders, Attempted Murders and Homicides",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Decisions and Verdicts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Knox, Amanda",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Kercher, Meredith",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Italy",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
@@ -2198,96 +2302,6 @@
         {
           "#text": "Trump, Donald J",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/02/world/asia/palau-taiwan-china-hack.html",
-      "title": "Why a Pacific Island Is Blaming China for a Hack",
-      "link": "https://www.nytimes.com/2024/06/02/world/asia/palau-taiwan-china-hack.html",
-      "published": "2024-06-02T04:01:22.000Z",
-      "description": "Palau’s claims that China orchestrated the attack remain unproven. But it’s clear that the breach presents a danger for another ally of Palau: the United States.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Palau",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Whipps, Surangel Jr",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "China",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Taiwan",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Cyberwarfare and Defense",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "United States International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/01/world/asia/u-tin-oo-dead.html",
-      "title": "U Tin Oo, Embattled Pro-Democracy Leader in Myanmar, Dies at 97",
-      "link": "https://www.nytimes.com/2024/06/01/world/asia/u-tin-oo-dead.html",
-      "published": "2024-06-03T18:04:17.000Z",
-      "description": "A powerful figure in his country, he helped found its main opposition party. “I had to face up to the harm I did to people when I served in the army,” he said.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Tin Oo, U",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Deaths (Obituaries)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Defense and Military Forces",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Coups D'Etat and Attempted Coups D'Etat",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Political Prisoners",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Aung San Suu Kyi",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "National League for Democracy (Myanmar)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Myanmar",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     }
