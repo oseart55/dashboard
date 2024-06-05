@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-05T20:11:49.000Z",
+  "published": "2024-06-05T21:10:38.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Israel Starts New Offensive in Central Gaza; Dozens Reported Dead",
       "link": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
-      "published": "2024-06-05T20:11:46.000Z",
+      "published": "2024-06-05T20:53:46.000Z",
       "description": "Israel said it launched operations “above and below ground” against Hamas militants. The only hospital in the area is overwhelmed with wounded, medics say.",
       "summary": "",
       "author": "",
@@ -613,6 +613,105 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/05/world/asia/sudan-israel-heat-dday-india-asia.html",
+      "title": "Thursday Briefing: A Special Report From Sudan",
+      "link": "https://www.nytimes.com/2024/06/05/world/asia/sudan-israel-heat-dday-india-asia.html",
+      "published": "2024-06-05T20:56:48.000Z",
+      "description": "Also, the 80th anniversary of D-Day.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "Far East, South and Southeast Asia and Pacific Areas",
+        "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+      }
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
+      "title": "U.N. Nuclear Watchdog Censures Iran and Demands Access for Inspectors",
+      "link": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
+      "published": "2024-06-05T20:38:22.000Z",
+      "description": "The International Atomic Energy Agency acted in the face of Iran’s refusal to allow experts to examine its stepped-up nuclear enrichment program.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Nuclear Weapons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "International Relations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "International Atomic Energy Agency",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Iran",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/05/world/americas/migrants-us-mexico-border-biden.html",
+      "title": "Biden’s New Order Leaves Migrants at Border in Limbo Over Asylum Fate",
+      "link": "https://www.nytimes.com/2024/06/05/world/americas/migrants-us-mexico-border-biden.html",
+      "published": "2024-06-05T21:00:35.000Z",
+      "description": "In Mexican cities along the border with the United States, migrants were taking a wait-and-see approach to a restrictive new executive action.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Illegal Immigration",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Border Barriers",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Refugees and Displaced Persons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Asylum, Right of",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "American Friends Service Committee",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Customs and Border Protection (US)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Border Patrol (US)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Lopez Obrador, Andres Manuel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Biden, Joseph R Jr",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Mexico",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Mexicali (Mexico)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Juarez (Mexico)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
       "title": "As Biden Pushes for Truce in Gaza, Tensions Rise in Lebanon",
       "link": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
@@ -714,7 +813,7 @@
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/israeli-palestinian-jerusalem-flag-march.html",
       "title": "18 Arrested at Israeli Nationalist Flag March Through East Jerusalem",
       "link": "https://www.nytimes.com/2024/06/05/world/middleeast/israeli-palestinian-jerusalem-flag-march.html",
-      "published": "2024-06-05T20:11:44.000Z",
+      "published": "2024-06-05T20:52:39.000Z",
       "description": "The annual march celebrating Israel’s 1967 takeover of the mostly Palestinian East Jerusalem has long been a flashpoint.",
       "summary": "",
       "author": "",
@@ -2343,195 +2442,6 @@
         {
           "#text": "Delhi (India)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/world/asia/myanmar-rebel-rohingya.html",
-      "title": "In Myanmar, a New Threat for the Rohingya",
-      "link": "https://www.nytimes.com/2024/06/03/world/asia/myanmar-rebel-rohingya.html",
-      "published": "2024-06-03T10:10:00.000Z",
-      "description": "Allegations against the Arakan Army, a key force in the fight against the junta, threaten to revive old horrors of sectarian atrocities.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Arakan Army (Myanmar)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Rohingya (Ethnic Group)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Rakhine State (Myanmar)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Rakhine (Ethnic Group)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Myanmar",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Tatmadaw (Myanmar)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Human Rights Watch",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Refugees and Displaced Persons",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Arson",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Bangladesh",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/world/middleeast/egypt-corridor-israel-gaza-border.html",
-      "title": "Israel’s Seizure of Gaza Border Zone Strains Ties With Egypt",
-      "link": "https://www.nytimes.com/2024/06/03/world/middleeast/egypt-corridor-israel-gaza-border.html",
-      "published": "2024-06-03T20:42:54.000Z",
-      "description": "Israel defied ominous Egyptian warnings and took control of the Philadelphi Corridor, but the reaction from Egypt, which wants to maintain its security cooperation with Israel, has been muted.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Israel-Gaza War (2023- )",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Palestinians",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Border Barriers",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Smuggling",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Refugees and Displaced Persons",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Humanitarian Aid",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Hamas",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Muslim Brotherhood (Egypt)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Al-Ahram (Egyptian Newspaper)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Sisi, Abdel Fattah el-",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Gaza Strip",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Egypt",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Israel",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/climate/ask-nyt-bug-control.html",
-      "title": "What Are Eco-Friendly Ways to Control Backyard Bugs?",
-      "link": "https://www.nytimes.com/2024/06/03/climate/ask-nyt-bug-control.html",
-      "published": "2024-06-03T09:05:00.000Z",
-      "description": "Meet the “bucket of doom” and other methods to manage mosquitoes and ticks.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Insects",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Sustainable Living",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Pesticides",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Mosquitoes",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Butterflies and Moths",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Bees",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Pest Control",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Gardens and Gardening",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Hazardous and Toxic Substances",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Birds",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Flies",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Ticks (Insects)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Conservation of Resources",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Biodiversity",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "internal-truncator",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     }
