@@ -4,8 +4,125 @@
   "description": "World News",
   "language": "en-us",
   "generator": "http://online.wsj.com/page/2_0006.html",
-  "published": "2024-06-04T23:01:56.000Z",
+  "published": "2024-06-05T00:46:47.000Z",
   "entries": [
+    {
+      "id": "WP-WSJ-0001818952",
+      "title": "JPY Falls in Likely Technical Correction",
+      "link": "https://www.wsj.com/articles/jpy-falls-in-likely-technical-correction-66ca1858",
+      "published": "2024-06-05T00:45:00.000Z",
+      "description": "JPY fell against G-10, Asian, and emerging-market currencies in the early session in a likely technical correction.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819043",
+      "title": "AT&T and Verizon Calls Briefly Disrupted by Cellphone Service Glitch",
+      "link": "https://www.wsj.com/articles/wireless-glitch-disrupts-calls-between-at-t-and-verizon-customers-bfbb4565",
+      "published": "2024-06-05T00:42:00.000Z",
+      "description": "AT&T said it resolved a nationwide issue that disrupted some calls for a few hours.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819085",
+      "title": "Meet the 6-Year-Old Son of a Congressman Whose Funny Faces Stole the Show",
+      "link": "https://www.wsj.com/articles/meet-the-6-year-old-son-of-a-congressman-whose-funny-faces-stole-the-show-fa6daf5c",
+      "published": "2024-06-05T00:41:00.000Z",
+      "description": "He rolls his eyes, sticks out his tongue and has a brush with internet fame.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001818961",
+      "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
+      "link": "https://www.wsj.com/articles/jgbs-rise-tracking-gains-in-u-s-treasurys-d4ee1a21",
+      "published": "2024-06-05T00:22:00.000Z",
+      "description": "JGBs rose in the morning Tokyo session, tracking overnight gains in Treasurys.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819023",
+      "title": "Nikkei Falls, Dragged by Auto, Electronics, Financial Stocks",
+      "link": "https://www.wsj.com/articles/australia-shares-set-for-an-uncertain-open-e9e1e2e3",
+      "published": "2024-06-05T00:21:00.000Z",
+      "description": "Japanese stocks were lower, dragged by falls in auto, electronics and financial stocks, as concerns continue about signs of U.S. economic weakness.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001818963",
+      "title": "Gold Edges Higher, Aided by Growing Fed Rate-Cut Bets",
+      "link": "https://www.wsj.com/articles/gold-edges-higher-aided-by-growing-fed-rate-cut-bets-3ae07b0d",
+      "published": "2024-06-05T00:10:00.000Z",
+      "description": "Gold edged higher in the early morning Asian session, aided by growing Fed rate-cut bets.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001817897",
+      "title": "New Texas Stock Exchange Takes Aim at New York's Dominance",
+      "link": "https://www.wsj.com/articles/new-texas-stock-exchange-takes-aim-at-new-yorks-dominance-e3b4d9ba",
+      "published": "2024-06-05T00:00:00.000Z",
+      "description": "The Texas Stock Exchange has raised about $120 million from investors including BlackRock and Citadel Securities, and plans to take on the NYSE and Nasdaq.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001819057",
+      "title": "X CEO Linda Yaccarino Loses Top Lieutenant",
+      "link": "https://www.wsj.com/articles/x-ceo-linda-yaccarino-loses-top-lieutenant-a1cdb03d",
+      "published": "2024-06-04T23:47:00.000Z",
+      "description": "Joe Benarroch, head of business operations, is leaving the social-media company.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "SB12601550511791503972504591088553705677550",
+      "title": "Corrections & Amplifications",
+      "link": "https://www.wsj.com/articles/corrections-amplifications-dce62ae2",
+      "published": "2024-06-04T23:15:00.000Z",
+      "description": "Corrections & Amplifications for the edition of June 5, 2024",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
     {
       "id": "WP-WSJ-0001818785",
       "title": "SEC Closing Salt Lake City Office After Failed Crypto Case Against Debt Box",
@@ -20,24 +137,11 @@
       }
     },
     {
-      "id": "WP-WSJ-0001819023",
-      "title": "Australia Shares Set for an Uncertain Open",
-      "link": "https://www.wsj.com/articles/australia-shares-set-for-an-uncertain-open-e9e1e2e3",
-      "published": "2024-06-04T22:59:00.000Z",
-      "description": "Australia’s S&P/ASX 200 looks set for an uncertain start to its midweek session.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
       "id": "WP-WSJ-0001818851",
       "title": "Monsanto's Weedkiller Payout Slashed to $400 Million From $2.25 Billion",
       "link": "https://www.wsj.com/articles/monsantos-weedkiller-payout-slashed-to-400-million-from-2-25-billion-fe0123d5",
       "published": "2024-06-04T22:42:00.000Z",
-      "description": "Monsanto said it stood behind Roundup and “the overwhelming weight of scientific research and assessments by leading health regulators and scientists.”",
+      "description": "The company said it stood behind Roundup and “the overwhelming weight of scientific research and assessments by leading health regulators and scientists.”",
       "summary": "",
       "author": "",
       "category": {
@@ -155,110 +259,6 @@
       "link": "https://www.wsj.com/articles/bidens-cease-fire-plan-seeks-to-push-hamas-and-israel-into-an-agreement-neither-wants-38833ade",
       "published": "2024-06-04T21:49:00.000Z",
       "description": "The U.S. president is more interested in a deal than the two warring parties.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001818453",
-      "title": "Intel and Apollo in $11 Billion Joint Venture for Chip Manufacturing Plant in Ireland",
-      "link": "https://www.wsj.com/articles/intel-and-apollo-in-11-billion-joint-venture-for-chip-manufacturing-plant-in-ireland-1915bb9d",
-      "published": "2024-06-04T21:44:00.000Z",
-      "description": "Apollo to hold an 49% equity interest stake in the joint venture.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001816339",
-      "title": "The WSJ Dollar Index Flat at 99.07",
-      "link": "https://www.wsj.com/articles/asian-currencies-mixed-may-strengthen-on-fed-rate-cut-hopes-4a0a94b3",
-      "published": "2024-06-04T21:42:00.000Z",
-      "description": "The WSJ Dollar Index was flat at 99.07 — snapping a three-trading-day losing streak.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001818538",
-      "title": "FASB Proposes Rule on How Companies Account for Government Grants",
-      "link": "https://www.wsj.com/articles/fasb-proposes-rule-on-how-companies-account-for-government-grants-d95fafa4",
-      "published": "2024-06-04T21:40:00.000Z",
-      "description": "The Financial Accounting Standards Board wants to establish requirements on how companies account for government grants in their financial reports, a move to help investors compare businesses with each other as such aid becomes more prevalent.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001817500",
-      "title": "Did Hunter Biden Lie About Addiction When Buying a Gun? Prosecution and Defense Outline Arguments",
-      "link": "https://www.wsj.com/articles/hunter-biden-trial-gun-case-day-two-a4ca6403",
-      "published": "2024-06-04T21:33:00.000Z",
-      "description": "A federal prosecutor told a jury that President Biden’s son chose to illegally own a firearm while using drugs in 2018. The defense disputed that allegation.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001817747",
-      "title": "Garland Hearing Devolves Into Partisan Brawl",
-      "link": "https://www.wsj.com/articles/merrick-garland-hearing-devolves-into-partisan-brawl-5d46e0ca",
-      "published": "2024-06-04T21:27:00.000Z",
-      "description": "The attorney general says “I will not be intimidated” as he faces a potential contempt vote in Congress.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001818418",
-      "title": "Broadcaster Diamond Sports Says Comcast Talks Have Broken Down",
-      "link": "https://www.wsj.com/articles/broadcaster-diamond-sports-says-comcast-talks-have-broken-down-eaaba711",
-      "published": "2024-06-04T21:22:00.000Z",
-      "description": "The bankrupt regional sports business is fighting to emerge from chapter 11 amid a Comcast blackout in major markets.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJO-0000041331",
-      "title": "'Why Lawd?' by NxWorries Review: A Soul Celebration",
-      "link": "https://www.wsj.com/articles/why-lawd-by-nxworries-review-a-soul-celebration-6eca9273",
-      "published": "2024-06-04T21:18:00.000Z",
-      "description": "Anderson .Paak and producer Knxwledge release their second studio album as a duo, drawing on vintage R&B to create a wide-ranging contemporary sound.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001817023",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-093e95d0",
-      "published": "2024-06-04T21:15:00.000Z",
-      "description": "Gain insight on sliding crude oil prices, BP, Galp Energia, Tenaga Nasional, and more in the latest Market Talks covering Energy and Utilities.",
       "summary": "",
       "author": "",
       "category": {
