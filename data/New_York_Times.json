@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-06T14:13:03.000Z",
+  "published": "2024-06-06T15:13:32.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
@@ -175,7 +175,7 @@
       "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
       "title": "Live Updates: Israeli Strike Kills Dozens at Former School Where Civilians Were Sheltering",
       "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "published": "2024-06-06T14:11:22.000Z",
+      "published": "2024-06-06T15:02:40.000Z",
       "description": "The Israeli military said it had targeted Hamas operatives at a U.N.-run school complex. Palestinian officials said the dead included women, children and older people.",
       "summary": "",
       "author": "",
@@ -231,8 +231,8 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Sde Teiman (Israeli military base)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+          "#text": "Sde Teiman (Israel)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     },
@@ -457,11 +457,23 @@
       "author": "",
       "category": [
         {
-          "#text": "Sudan",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+          "#text": "vis-photo",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
           "#text": "War and Armed Conflicts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Defense and Military Forces",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Famine",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
@@ -469,44 +481,32 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Khartoum (Sudan)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Famine",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Janjaweed",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+          "#text": "al-Burhan, Abdel Fattah",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         },
         {
           "#text": "Rapid Support Forces (Sudan)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
         },
         {
-          "#text": "Wagner Group",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+          "#text": "Hamdan, Mohamed (Hemeti)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         },
         {
-          "#text": "al-Burhan, Abdel Fattah",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+          "#text": "Wagner Group",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
         },
         {
           "#text": "Bashir, Omar Hassan Al-",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         },
         {
-          "#text": "Hamdan, Mohamed (Hemeti)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+          "#text": "Sudan",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "vis-photo",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+          "#text": "Khartoum (Sudan)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     },
@@ -1065,6 +1065,10 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
+          "#text": "Legislatures and Parliaments",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
           "#text": "Bharatiya Janata Party",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
         },
@@ -1090,7 +1094,7 @@
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/israel-hamas-cease-fire-negotiations.html",
       "title": "What to Know About the Latest Gaza Cease-Fire Proposal",
       "link": "https://www.nytimes.com/2024/06/05/world/middleeast/israel-hamas-cease-fire-negotiations.html",
-      "published": "2024-06-06T09:19:14.000Z",
+      "published": "2024-06-06T14:29:17.000Z",
       "description": "Neither Israel or Hamas have said definitively whether they would accept or reject a proposal outlined by President Biden, but sizable gaps between the two sides appear to remain.",
       "summary": "",
       "author": "",
@@ -1594,6 +1598,10 @@
       "author": "",
       "category": [
         {
+          "#text": "internal-truncator",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
           "#text": "World War II (1939-45)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
@@ -1606,7 +1614,7 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Parachutes and Parachute Jumping",
+          "#text": "Veterans",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
@@ -1614,7 +1622,15 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
-          "#text": "Elderly",
+          "#text": "Deaths (Fatalities)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Funerals and Memorials",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Civilian Casualties",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         },
         {
@@ -1634,8 +1650,12 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         },
         {
-          "#text": "internal-truncator",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+          "#text": "Germany",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Saint-Marcel (France)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     },

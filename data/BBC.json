@@ -4,7 +4,7 @@
   "description": "BBC News - World",
   "language": "en-gb",
   "generator": "RSS for Node",
-  "published": "2024-06-06T14:14:07.000Z",
+  "published": "2024-06-06T15:16:04.000Z",
   "entries": [
     {
       "id": "https://www.bbc.com/news/articles/ckmm6jep6l7o#0",
@@ -20,8 +20,18 @@
       "id": "https://www.bbc.com/news/articles/crggq0jygq6o#0",
       "title": "Israeli strike on UN school in Gaza reportedly kills at least 35",
       "link": "https://www.bbc.com/news/articles/crggq0jygq6o",
-      "published": "2024-06-06T12:59:58.000Z",
+      "published": "2024-06-06T14:15:52.000Z",
       "description": "The Israeli military said it struck a \"Hamas compound\" in the school - a claim Hamas officials deny.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cjkkzmj0p5xo#0",
+      "title": "Biden draws links with WW2 and Ukraine in D-Day address",
+      "link": "https://www.bbc.com/news/articles/cjkkzmj0p5xo",
+      "published": "2024-06-06T14:31:17.000Z",
+      "description": "Joe Biden says democracies are under threat, adding autocrats were \"watching happens in Ukraine\".",
       "summary": "",
       "author": "",
       "category": ""
@@ -32,16 +42,6 @@
       "link": "https://www.bbc.com/news/articles/cw99plg01neo",
       "published": "2024-06-06T11:49:35.000Z",
       "description": "Social media footage shows dozens of bodies wrapped in shrouds prepared for burial in Gezira state.",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cqlle8dljnno#0",
-      "title": "WW2 veteran aged 102 dies on way to D-Day event",
-      "link": "https://www.bbc.com/news/articles/cqlle8dljnno",
-      "published": "2024-06-06T10:56:16.000Z",
-      "description": "Robert \"Al\" Persichitti, who served with the Navy in Japan, became ill on his way to Normandy.",
       "summary": "",
       "author": "",
       "category": ""
@@ -87,10 +87,20 @@
       "category": ""
     },
     {
+      "id": "https://www.bbc.com/news/articles/cqlle8dljnno#1",
+      "title": "WW2 veteran aged 102 dies on way to D-Day event",
+      "link": "https://www.bbc.com/news/articles/cqlle8dljnno",
+      "published": "2024-06-06T10:56:16.000Z",
+      "description": "Robert \"Al\" Persichitti, who served with the Navy in Japan, became ill on his way to Normandy.",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cqqq9v1kvego#1",
       "title": "Colombian government sets peace talks date with rebels",
       "link": "https://www.bbc.com/news/articles/cqqq9v1kvego",
-      "published": "2024-06-06T13:25:06.000Z",
+      "published": "2024-06-06T14:27:39.000Z",
       "description": "Formal peace talks between the Second Marquetalia and the government will start on 25 June.",
       "summary": "",
       "author": "",
