@@ -4,13 +4,13 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-06T06:18:42.000Z",
+  "published": "2024-06-06T07:10:33.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
       "title": "Middle East Crisis: Israel Starts New Offensive in Central Gaza; Dozens Reported Dead",
       "link": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
-      "published": "2024-06-05T22:30:27.000Z",
+      "published": "2024-06-06T07:04:32.000Z",
       "description": "Israel said it launched operations “above and below ground” against Hamas militants. The only hospital in the area is overwhelmed with wounded, medics say.",
       "summary": "",
       "author": "",
@@ -609,10 +609,29 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/06/world/asia/papua-new-guinea-to-end-search-for-landslide-victims.html",
+      "title": "Papua New Guinea to End Search for Landslide Victims",
+      "link": "https://www.nytimes.com/2024/06/06/world/asia/papua-new-guinea-to-end-search-for-landslide-victims.html",
+      "published": "2024-06-06T06:49:10.000Z",
+      "description": "The death toll remained unclear weeks after the tragedy, but there are signs the number of victims may have been much lower than previously thought.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Papua New Guinea",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Landslides and Mudslides",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/06/world/americas/chile-power-outage.html",
       "title": "Santiago Power Outage Leaves Over 400,000 Without Electricity",
       "link": "https://www.nytimes.com/2024/06/06/world/americas/chile-power-outage.html",
-      "published": "2024-06-06T06:16:08.000Z",
+      "published": "2024-06-06T07:01:12.000Z",
       "description": "A tree fell on a high-voltage transmission tower early Thursday, knocking out power to parts of the Chilean capital.",
       "summary": "",
       "author": "",
@@ -643,7 +662,7 @@
       "id": "https://www.nytimes.com/2024/06/06/world/europe/czech-train-crash.html",
       "title": "Train Crash in Czech Republic Kills 4, Injures More Than 20",
       "link": "https://www.nytimes.com/2024/06/06/world/europe/czech-train-crash.html",
-      "published": "2024-06-06T06:09:08.000Z",
+      "published": "2024-06-06T06:43:40.000Z",
       "description": "The passenger train was traveling overnight when it hit a freight train.",
       "summary": "",
       "author": "",
@@ -2401,49 +2420,6 @@
         "#text": "Far East, South and Southeast Asia and Pacific Areas",
         "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
       }
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/03/world/africa/south-africa-jacob-zuma.html",
-      "title": "Jacob Zuma Gets His Revenge on South African Party That Shunned Him",
-      "link": "https://www.nytimes.com/2024/06/03/world/africa/south-africa-jacob-zuma.html",
-      "published": "2024-06-03T21:23:56.000Z",
-      "description": "A new party led by Mr. Zuma, a former president forced out over corruption allegations, helped ensure that the African National Congress fell short of an outright majority for the first time since the end of apartheid.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "South Africa",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Zuma, Jacob G",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Spear of the Nation (MK) (South African Political Party)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "African National Congress",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Ramaphosa, Cyril",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Elections",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Bribery and Kickbacks",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
     }
   ]
 }
