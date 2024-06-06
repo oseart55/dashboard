@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-06T21:10:44.000Z",
+  "published": "2024-06-06T22:08:15.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
@@ -73,7 +73,7 @@
       "id": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
       "title": "D-Day Photos: Veterans Remember Normandy Invasion on 80th Anniversary",
       "link": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
-      "published": "2024-06-06T21:07:37.000Z",
+      "published": "2024-06-06T21:43:19.000Z",
       "description": "Veterans of the pivotal battle of World War II are disappearing. Europe, facing new conflict, recalls what their comrades died for.",
       "summary": "",
       "author": "",
@@ -175,7 +175,7 @@
       "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
       "title": "Live Updates: Israeli Strike Kills Dozens at School Complex Where Civilians Sought Shelter",
       "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "published": "2024-06-06T20:59:40.000Z",
+      "published": "2024-06-06T22:03:38.000Z",
       "description": "The Israeli military said it had targeted Hamas operatives at a U.N. school complex. Palestinian officials said the dead included women and children.",
       "summary": "",
       "author": "",
@@ -636,6 +636,111 @@
         {
           "#text": "Iran",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-hamas-gaza-un-school.html",
+      "title": "Israeli Military Defends Strike on Gaza School Building, Saying It Targeted 30 Militants",
+      "link": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-hamas-gaza-un-school.html",
+      "published": "2024-06-06T22:03:36.000Z",
+      "description": "Hamas and Islamic Jihad fighters were hiding inside three classrooms, a military spokesman said.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Palestinian Islamic Jihad",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Hamas",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Gaza Strip",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-school-killing.html",
+      "title": "Israeli Strike Kills Dozens at Civilian Shelter in Gaza",
+      "link": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-school-killing.html",
+      "published": "2024-06-06T21:35:02.000Z",
+      "description": "The Israeli military said it had been targeting militants who were hiding in the complex in an effort to evade attack. The former U.N. school was housing 6,000 displaced Gazans.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Civilian Casualties",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Refugees and Displaced Persons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "United Nations Relief and Works Agency",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Hamas",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Borrell Fontelles, Josep",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Lazzarini, Philippe (1964- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Gaza Strip",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Israel",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Rafah (Gaza Strip)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/06/world/middleeast/gaza-hospital-israel-airstrike.html",
+      "title": "Israeli Airstrike Sets off Chaos at Gazan Hospital",
+      "link": "https://www.nytimes.com/2024/06/06/world/middleeast/gaza-hospital-israel-airstrike.html",
+      "published": "2024-06-06T22:03:11.000Z",
+      "description": "Al Aqsa Martyrs Hospital, inundated by a rapidly rising casualty count, is so full that the crowds themselves are hampering treatment.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Israel-Gaza War (2023- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Civilian Casualties",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Palestinians",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Refugees and Displaced Persons",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
     },
@@ -2372,57 +2477,6 @@
         {
           "#text": "Foreign Aid",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/04/us/politics/biden-europe-israel-ukraine.html",
-      "title": "Visiting Europe, Biden Will Find Both Solidarity and Isolation",
-      "link": "https://www.nytimes.com/2024/06/04/us/politics/biden-europe-israel-ukraine.html",
-      "published": "2024-06-05T09:02:16.000Z",
-      "description": "The president arrived in France for a visit meant to mark the 80th anniversary of the D-Day invasion and showcase Western unity. But even as he rallies American allies in defense of Ukraine, he will defy them on the war in Gaza.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "United States International Relations",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Israel-Gaza War (2023- )",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Russian Invasion of Ukraine (2022)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "World War II (1939-45)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "United States Politics and Government",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Group of Seven",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "North Atlantic Treaty Organization",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "Biden, Joseph R Jr",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Europe",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
     }
