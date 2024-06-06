@@ -926,7 +926,7 @@
       "title": "D-day: Biden calls for supporting Ukraine in struggle against ‘dark forces’",
       "link": "https://www.theguardian.com/world/article/2024/jun/06/d-day-anniversary-biden",
       "published": "2024-06-06T18:11:51.000Z",
-      "description": "President warns at 80th anniversary that democracy is under great threat than at any time since second world warJoe Biden has marked the 80th anniversary of the D-day landings in Normandy with an impassioned call to western allies to continue...",
+      "description": "President warns at 80th anniversary that democracy is under greater threat than at any time since second world warJoe Biden has marked the 80th anniversary of the D-day landings in Normandy with an impassioned call to western allies to continue...",
       "summary": "",
       "author": "",
       "category": [
@@ -1575,6 +1575,18 @@
         {
           "#text": "General elections",
           "@_domain": "https://www.theguardian.com/politics/general-elections"
+        },
+        {
+          "#text": "Economics",
+          "@_domain": "https://www.theguardian.com/business/economics"
+        },
+        {
+          "#text": "Tax and spending",
+          "@_domain": "https://www.theguardian.com/politics/taxandspending"
+        },
+        {
+          "#text": "Business",
+          "@_domain": "https://www.theguardian.com/business/business"
         }
       ]
     },
@@ -1727,6 +1739,91 @@
       ]
     },
     {
+      "id": "https://www.theguardian.com/us-news/article/2024/jun/06/uc-berkeley-peoples-park",
+      "title": "UC Berkeley gets go-ahead to build housing at People’s Park after years-long battle",
+      "link": "https://www.theguardian.com/us-news/article/2024/jun/06/uc-berkeley-peoples-park",
+      "published": "2024-06-06T19:15:48.000Z",
+      "description": "California supreme court greenlights project that protesters say will add noise pollution to already dense historic parkA California supreme court ruling will allow student housing at University of California, Berkeley, to be built at the historic...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "California",
+          "@_domain": "https://www.theguardian.com/us-news/california"
+        },
+        {
+          "#text": "Housing",
+          "@_domain": "https://www.theguardian.com/society/housing"
+        },
+        {
+          "#text": "US universities",
+          "@_domain": "https://www.theguardian.com/us-news/us-universities"
+        },
+        {
+          "#text": "Students",
+          "@_domain": "https://www.theguardian.com/education/students"
+        },
+        {
+          "#text": "West Coast",
+          "@_domain": "https://www.theguardian.com/us-news/west-coast"
+        },
+        {
+          "#text": "US news",
+          "@_domain": "https://www.theguardian.com/us-news/us-news"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/article/2024/jun/06/california-bear-attack-kills-woman",
+      "title": "California woman, 71, mauled to death in state’s first fatal black bear attack",
+      "link": "https://www.theguardian.com/us-news/article/2024/jun/06/california-bear-attack-kills-woman",
+      "published": "2024-06-06T19:05:22.000Z",
+      "description": "Patrice Miller was found dead in her home in what authorities confirm is first known attack of its kindA 71-year-old woman was mauled to death by a black bear in a Sierra Nevada community in 2023 in what is believed to be California’s first fatal...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "California",
+          "@_domain": "https://www.theguardian.com/us-news/california"
+        },
+        {
+          "#text": "West Coast",
+          "@_domain": "https://www.theguardian.com/us-news/west-coast"
+        },
+        {
+          "#text": "Wildlife",
+          "@_domain": "https://www.theguardian.com/environment/wildlife"
+        },
+        {
+          "#text": "US news",
+          "@_domain": "https://www.theguardian.com/us-news/us-news"
+        },
+        {
+          "#text": "Environment",
+          "@_domain": "https://www.theguardian.com/environment/environment"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/article/2024/jun/06/steve-bannon-prison",
+      "title": "Trump ally Steve Bannon told to begin four-month contempt sentence by 1 July",
+      "link": "https://www.theguardian.com/us-news/article/2024/jun/06/steve-bannon-prison",
+      "published": "2024-06-06T19:02:39.000Z",
+      "description": "Rightwing podcaster ordered by judge to surrender to authorities following conviction for contempt of CongressSteve Bannon, the rightwing podcaster and vociferous Donald Trump cheerleader, has been ordered to surrender to authorities by 1 July to...",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Steve Bannon",
+          "@_domain": "https://www.theguardian.com/us-news/steve-bannon"
+        },
+        {
+          "#text": "US news",
+          "@_domain": "https://www.theguardian.com/us-news/us-news"
+        }
+      ]
+    },
+    {
       "id": "https://www.theguardian.com/us-news/article/2024/jun/06/florida-divers-cocaine-atlantic-ocean",
       "title": "Florida divers find trove of suspected cocaine packages in Atlantic Ocean",
       "link": "https://www.theguardian.com/us-news/article/2024/jun/06/florida-divers-cocaine-atlantic-ocean",
@@ -1742,6 +1839,10 @@
         {
           "#text": "Drugs",
           "@_domain": "https://www.theguardian.com/society/drugs"
+        },
+        {
+          "#text": "Sharks",
+          "@_domain": "https://www.theguardian.com/environment/sharks"
         },
         {
           "#text": "US news",
@@ -1820,111 +1921,6 @@
         {
           "#text": "Musicals",
           "@_domain": "https://www.theguardian.com/stage/musicals"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/article/2024/jun/06/hallie-biden-testifies-hunter-biden-gun-trial",
-      "title": "Widow of Beau Biden testifies about finding gun in Hunter Biden’s truck",
-      "link": "https://www.theguardian.com/us-news/article/2024/jun/06/hallie-biden-testifies-hunter-biden-gun-trial",
-      "published": "2024-06-06T17:55:43.000Z",
-      "description": "Hallie Biden, who had relationship with Hunter Biden after brother’s death, says she ‘panicked’ and threw gun in trashThe widow of Hunter Biden’s brother told jurors in his federal gun trial about the moment she found the gun in his truck,...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Hunter Biden",
-          "@_domain": "https://www.theguardian.com/us-news/hunter-biden"
-        },
-        {
-          "#text": "US crime",
-          "@_domain": "https://www.theguardian.com/us-news/us-crime"
-        },
-        {
-          "#text": "Drugs",
-          "@_domain": "https://www.theguardian.com/society/drugs"
-        },
-        {
-          "#text": "Delaware",
-          "@_domain": "https://www.theguardian.com/us-news/delaware"
-        },
-        {
-          "#text": "Joe Biden",
-          "@_domain": "https://www.theguardian.com/us-news/joebiden"
-        },
-        {
-          "#text": "US politics",
-          "@_domain": "https://www.theguardian.com/us-news/us-politics"
-        },
-        {
-          "#text": "US news",
-          "@_domain": "https://www.theguardian.com/us-news/us-news"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/article/2024/jun/06/nyc-congestion-pricing",
-      "title": "‘Slap in the face’: outrage after New York governor halts congestion pricing",
-      "link": "https://www.theguardian.com/us-news/article/2024/jun/06/nyc-congestion-pricing",
-      "published": "2024-06-06T17:27:09.000Z",
-      "description": "Climate advocates say Hochul missed crucial opportunity to follow cities around the world in reducing gas emissionsAn 11th-hour decision to halt a plan to charge a fee for cars entering the heart of New York City has provoked outrage from...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "New York",
-          "@_domain": "https://www.theguardian.com/us-news/new-york"
-        },
-        {
-          "#text": "Kathy Hochul",
-          "@_domain": "https://www.theguardian.com/us-news/kathy-hochul"
-        },
-        {
-          "#text": "US news",
-          "@_domain": "https://www.theguardian.com/us-news/us-news"
-        },
-        {
-          "#text": "US politics",
-          "@_domain": "https://www.theguardian.com/us-news/us-politics"
-        },
-        {
-          "#text": "Automotive emissions",
-          "@_domain": "https://www.theguardian.com/environment/automotive-emissions"
-        },
-        {
-          "#text": "Environment",
-          "@_domain": "https://www.theguardian.com/environment/environment"
-        }
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/article/2024/jun/06/gilgo-beach-serial-killer",
-      "title": "Suspected Gilgo Beach serial killer charged with two more murders",
-      "link": "https://www.theguardian.com/us-news/article/2024/jun/06/gilgo-beach-serial-killer",
-      "published": "2024-06-06T17:18:19.000Z",
-      "description": "Prosecutors say Manhattan architect Rex Heuermann, 60, now charged with six murder counts, ‘planned out his kills’ The suspected Gilgo Beach serial killer Rex Heuermann has been indicted on new charges in Long Island, New York, of second-degree...",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Gilgo Beach serial killings",
-          "@_domain": "https://www.theguardian.com/us-news/gilgo-beach-serial-killings"
-        },
-        {
-          "#text": "New York",
-          "@_domain": "https://www.theguardian.com/us-news/new-york"
-        },
-        {
-          "#text": "US crime",
-          "@_domain": "https://www.theguardian.com/us-news/us-crime"
-        },
-        {
-          "#text": "US news",
-          "@_domain": "https://www.theguardian.com/us-news/us-news"
-        },
-        {
-          "#text": "World news",
-          "@_domain": "https://www.theguardian.com/world/world"
         }
       ]
     }
