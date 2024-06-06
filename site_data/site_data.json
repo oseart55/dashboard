@@ -171,9 +171,9 @@
         "author": [],
         "keywords": [],
         "countries": [
+            "Spain",
             "Slovenia",
             "Ireland",
-            "Spain",
             "Norway"
         ],
         "other_countries": [
@@ -182,16 +182,16 @@
         "regions": [],
         "geometry": [
             {
+                "x": -4.8379791,
+                "y": 39.3260685
+            },
+            {
                 "x": 14.8153333,
                 "y": 46.1199444
             },
             {
                 "x": -7.9794599,
                 "y": 52.865196
-            },
-            {
-                "x": -4.8379791,
-                "y": 39.3260685
             },
             {
                 "x": 11.52803643954819,
@@ -393,19 +393,6 @@
         "link": "https://www.washingtonpost.com/world/2024/06/01/india-election-lok-sabha/",
         "published": "2024-06-04T12:52:23.000Z",
         "description": "After 47 days of elections, Indians will get a new Parliament that the Bharatiya Janata Party is still expected to dominate.",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.washingtonpost.com/climate-environment/2024/06/04/mexico-city-sinking-water-crisis/",
-        "title": "Why Mexico City\u2019s thirst is causing it to sink",
-        "link": "https://www.washingtonpost.com/climate-environment/2024/06/04/mexico-city-sinking-water-crisis/",
-        "published": "2024-06-04T10:30:38.000Z",
-        "description": "The demand for water in Mexico\u2019s capital is draining its underground aquifers \u2014 and fueling some of the fastest subsidence rates in the world.",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -1164,8 +1151,8 @@
             "Bradley"
         ],
         "countries": [
-            "Lithuania",
-            "Poland"
+            "Poland",
+            "Lithuania"
         ],
         "other_countries": [
             "United States",
@@ -1174,12 +1161,12 @@
         "regions": [],
         "geometry": [
             {
-                "x": 23.7499997,
-                "y": 55.3500003
-            },
-            {
                 "x": 19.134422,
                 "y": 52.215933
+            },
+            {
+                "x": 23.7499997,
+                "y": 55.3500003
             }
         ]
     },
@@ -1305,6 +1292,19 @@
                 "y": 39.6621648
             }
         ]
+    },
+    {
+        "id": "https://timesofindia.indiatimes.com/world/rest-of-world/woman-killed-while-taking-selfie-near-vintage-train-in-mexico/articleshow/110765868.cms",
+        "title": "Woman killed while taking selfie near vintage train in Mexico",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/woman-killed-while-taking-selfie-near-vintage-train-in-mexico/articleshow/110765868.cms",
+        "published": "2024-06-06T10:23:59.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
     },
     {
         "id": "https://timesofindia.indiatimes.com/world/europe/german-chancellor-vows-to-deport-criminals-following-brutal-attack-by-afghan-migrant/articleshow/110766067.cms",
@@ -1666,21 +1666,8 @@
         "geometry": []
     },
     {
-        "id": "https://timesofindia.indiatimes.com/home/science/why-nasa-is-making-a-significant-operational-shift-for-hubble-space-telescope/articleshow/110742566.cms",
-        "title": "Why Nasa is making a significant operational shift for Hubble Space Telescope",
-        "link": "https://timesofindia.indiatimes.com/home/science/why-nasa-is-making-a-significant-operational-shift-for-hubble-space-telescope/articleshow/110742566.cms",
-        "published": "2024-06-05T14:45:11.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
         "id": "https://www.bbc.com/news/articles/ckmm6jep6l7o#0",
-        "title": "Myanmar soldiers burned off tattoos and gave detainees urine to drink, witnesses tell BBC",
+        "title": "Myanmar soldiers cut off tattoos and gave detainees urine to drink, witnesses tell BBC",
         "link": "https://www.bbc.com/news/articles/ckmm6jep6l7o",
         "published": "2024-06-06T06:38:44.000Z",
         "description": "Witnesses tell the BBC the Myanmar army tortured and killed dozens of men in a village in Rakhine State.",
@@ -1704,6 +1691,19 @@
         "link": "https://www.bbc.com/news/articles/crggq0jygq6o",
         "published": "2024-06-06T10:03:46.000Z",
         "description": "The Israeli military said it struck a \"Hamas compound\" in the school - a claim Hamas officials deny.",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/cqlle8dljnno#0",
+        "title": "WW2 veteran aged 102 dies on way to D-Day event",
+        "link": "https://www.bbc.com/news/articles/cqlle8dljnno",
+        "published": "2024-06-06T10:56:16.000Z",
+        "description": "The World War Two navy veteran is remembered by a friend as having a \"real zest for life\".",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -1777,11 +1777,11 @@
         "geometry": []
     },
     {
-        "id": "https://www.bbc.com/news/articles/cv22vl99vwro#0",
-        "title": "Ban fossil fuel ads to save climate, says UN chief",
-        "link": "https://www.bbc.com/news/articles/cv22vl99vwro",
-        "published": "2024-06-05T16:13:53.000Z",
-        "description": "The UN leader's call comes as new data highlights the worrying pace of global warming.",
+        "id": "https://www.bbc.com/sport/tennis/articles/c8884ex682do#1",
+        "title": "Djokovic 'will do best to return soon' after knee surgery",
+        "link": "https://www.bbc.com/sport/tennis/articles/c8884ex682do",
+        "published": "2024-06-06T09:54:09.000Z",
+        "description": "Novak Djokovic says he will do his best to return to the court \"as soon as possible\" after undergoing surgery on a knee injury.",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -1967,19 +1967,6 @@
         "link": "https://www.bbc.com/news/articles/cjmmzr8n1dxo",
         "published": "2024-06-05T16:40:09.000Z",
         "description": "Both countries currently have some of the strictest alcohol laws in Europe.",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.bbc.com/news/articles/c877vp7v6lxo#1",
-        "title": "Amanda Knox reconvicted in slander case",
-        "link": "https://www.bbc.com/news/articles/c877vp7v6lxo",
-        "published": "2024-06-05T12:03:57.000Z",
-        "description": "The American acquitted of Meredith Kercher's murder will not go to prison, having already served time.",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -2237,8 +2224,8 @@
         "author": [],
         "keywords": [],
         "countries": [
-            "Lebanon",
-            "Israel"
+            "Israel",
+            "Lebanon"
         ],
         "other_countries": [
             "United States"
@@ -2246,12 +2233,12 @@
         "regions": [],
         "geometry": [
             {
-                "x": -76.4626118,
-                "y": 40.375713
-            },
-            {
                 "x": 34.8594762,
                 "y": 30.8124247
+            },
+            {
+                "x": -76.4626118,
+                "y": 40.375713
             }
         ]
     },
@@ -2571,16 +2558,15 @@
         "geometry": []
     },
     {
-        "id": "https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees",
-        "title": "Money Talks: Why the Creator of the 401(k) Calls It a Failure",
-        "link": "https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees",
+        "id": "https://slate.com/podcasts/well-now/2024/06/american-symphonys-suleika-jaouad-isolation-and-survival",
+        "title": "Finding Identity After a Life-Altering Diagnosis",
+        "link": "https://slate.com/podcasts/well-now/2024/06/american-symphonys-suleika-jaouad-isolation-and-survival",
         "published": "2024-06-05T09:00:00.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [
-            "Personal Finance",
-            "Retirement",
-            "Finance"
+            "Health",
+            "Cancer"
         ],
         "countries": [],
         "other_countries": [],
@@ -2601,22 +2587,6 @@
         "geometry": []
     },
     {
-        "id": "https://slate.com/podcasts/well-now/2024/06/american-symphonys-suleika-jaouad-isolation-and-survival",
-        "title": "Finding Identity After a Life-Altering Diagnosis",
-        "link": "https://slate.com/podcasts/well-now/2024/06/american-symphonys-suleika-jaouad-isolation-and-survival",
-        "published": "2024-06-05T09:00:00.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [
-            "Health",
-            "Cancer"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
         "id": "https://slate.com/podcasts/icymi/2024/06/fannita-legett-alix-earle-meccavelli-drama-explained",
         "title": "TikTok\u2019s Current Main Character Is a Familiar Face",
         "link": "https://slate.com/podcasts/icymi/2024/06/fannita-legett-alix-earle-meccavelli-drama-explained",
@@ -2626,6 +2596,23 @@
         "keywords": [
             "Internet Culture",
             "TikTok"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees",
+        "title": "Money Talks: Why the Creator of the 401(k) Calls It a Failure",
+        "link": "https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees",
+        "published": "2024-06-05T09:00:00.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [
+            "Personal Finance",
+            "Retirement",
+            "Finance"
         ],
         "countries": [],
         "other_countries": [],
@@ -3214,10 +3201,10 @@
         "geometry": []
     },
     {
-        "id": "putin-takes-questions-international-journalists-173512376.html",
-        "title": "Putin warns that Russia could provide long-range weapons to others to strike Western targets",
-        "link": "https://www.yahoo.com/news/putin-takes-questions-international-journalists-173512376.html",
-        "published": "2024-06-05T17:35:12.000Z",
+        "id": "putin-says-west-wrong-assume-211322017.html",
+        "title": "Putin says Russia could deploy missiles in striking distance of the West",
+        "link": "https://www.yahoo.com/news/putin-says-west-wrong-assume-211322017.html",
+        "published": "2024-06-05T21:13:22.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3253,62 +3240,10 @@
         "geometry": []
     },
     {
-        "id": "roaring-kittys-gamestop-options-millions-100516291.html",
-        "title": "Roaring Kitty's GameStop options up millions, but cashing in may be tricky",
-        "link": "https://www.yahoo.com/tech/roaring-kittys-gamestop-options-millions-100516291.html",
-        "published": "2024-06-04T10:05:16.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "anglers-catching-peculiar-fish-urged-162031021.html",
-        "title": "Anglers catching this peculiar fish are urged to \u2018kill it on sight\u2019",
-        "link": "https://www.yahoo.com/news/anglers-catching-peculiar-fish-urged-162031021.html",
-        "published": "2024-06-04T16:20:31.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "more-500-firefighters-head-watertown-090104785.html",
-        "title": "More than 500 firefighters head to Watertown",
-        "link": "https://www.yahoo.com/news/more-500-firefighters-head-watertown-090104785.html",
-        "published": "2024-06-06T09:01:04.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "study-finds-earth-warming-record-231817375.html",
-        "title": "New study finds Earth warming at record rate, but no evidence of climate change accelerating",
-        "link": "https://www.yahoo.com/news/study-finds-earth-warming-record-231817375.html",
-        "published": "2024-06-04T23:18:17.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "australia-brazil-cambodia-rep-eric-123724361.html",
-        "title": "\"Australia, Brazil, Cambodia\": Rep. Eric Swalwell lists countries Trump would be barred from entering as a felon.",
-        "link": "https://www.yahoo.com/news/australia-brazil-cambodia-rep-eric-123724361.html",
-        "published": "2024-06-04T12:37:24.000Z",
+        "id": "nvidia-salesforce-double-down-ai-152311241.html",
+        "title": "Nvidia and Salesforce double down on AI startup Cohere in $450 million round, source says",
+        "link": "https://finance.yahoo.com/news/nvidia-salesforce-double-down-ai-152311241.html",
+        "published": "2024-06-04T15:23:11.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3331,10 +3266,23 @@
         "geometry": []
     },
     {
-        "id": "court-ruled-embryos-children-christian-123201816.html",
-        "title": "A court ruled embryos are children. These Christian couples agree yet wrestle with IVF choices",
-        "link": "https://www.yahoo.com/news/court-ruled-embryos-children-christian-123201816.html",
-        "published": "2024-06-05T12:32:01.000Z",
+        "id": "anglers-catching-peculiar-fish-urged-162031021.html",
+        "title": "Anglers catching this peculiar fish are urged to \u2018kill it on sight\u2019",
+        "link": "https://www.yahoo.com/news/anglers-catching-peculiar-fish-urged-162031021.html",
+        "published": "2024-06-04T16:20:31.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "study-finds-earth-warming-record-231817375.html",
+        "title": "New study finds Earth warming at record rate, but no evidence of climate change accelerating",
+        "link": "https://www.yahoo.com/news/study-finds-earth-warming-record-231817375.html",
+        "published": "2024-06-04T23:18:17.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3370,10 +3318,10 @@
         "geometry": []
     },
     {
-        "id": "japans-birth-rate-falls-record-160948377.html",
-        "title": "Japan's birth rate falls to a record low as the number of marriages also drops",
-        "link": "https://www.yahoo.com/news/japans-birth-rate-falls-record-160948377.html",
-        "published": "2024-06-05T16:09:48.000Z",
+        "id": "boeing-try-again-launch-first-100710671.html",
+        "title": "Boeing's Starliner spacecraft sends first astronaut crew to orbit",
+        "link": "https://finance.yahoo.com/news/boeing-try-again-launch-first-100710671.html",
+        "published": "2024-06-05T10:07:10.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3396,10 +3344,10 @@
         "geometry": []
     },
     {
-        "id": "day-finally-come-years-making-124531216.html",
-        "title": "\u2018The day has finally come\u2019: Years in the making, evidence leads investigators to Rex Heuermann",
-        "link": "https://www.yahoo.com/news/day-finally-come-years-making-124531216.html",
-        "published": "2024-06-05T22:27:55.000Z",
+        "id": "pro-skier-girlfriend-found-other-172350413.html",
+        "title": "Pro-Skier and Girlfriend Found in Each Other\u2019s Arms After Deadly Mountain Fall",
+        "link": "https://sports.yahoo.com/pro-skier-girlfriend-found-other-172350413.html",
+        "published": "2024-06-04T17:23:50.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3422,10 +3370,10 @@
         "geometry": []
     },
     {
-        "id": "pro-skier-girlfriend-found-other-172350413.html",
-        "title": "Pro-Skier and Girlfriend Found in Each Other\u2019s Arms After Deadly Mountain Fall",
-        "link": "https://sports.yahoo.com/pro-skier-girlfriend-found-other-172350413.html",
-        "published": "2024-06-04T17:23:50.000Z",
+        "id": "palm-springs-airport-grows-residents-235917573.html",
+        "title": "As Palm Springs airport grows, some residents worry it will lose its charm",
+        "link": "https://www.yahoo.com/news/palm-springs-airport-grows-residents-235917573.html",
+        "published": "2024-06-05T23:59:17.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3461,10 +3409,10 @@
         "geometry": []
     },
     {
-        "id": "comedian-carol-burnett-estranged-daughter-111309830.html",
-        "title": "Comedian Carol Burnett\u2019s Estranged Daughter Scores Small Victory in Fight to Regain Visitation of Son",
-        "link": "https://www.yahoo.com/entertainment/comedian-carol-burnett-estranged-daughter-111309830.html",
-        "published": "2024-06-05T11:13:09.000Z",
+        "id": "trump-did-weird-thing-mouth-080505551.html",
+        "title": "Trump Did A Weird Thing With His Mouth And You'll Never Un-See It",
+        "link": "https://www.yahoo.com/entertainment/trump-did-weird-thing-mouth-080505551.html",
+        "published": "2024-06-06T08:05:05.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3474,10 +3422,10 @@
         "geometry": []
     },
     {
-        "id": "why-did-trump-start-black-091259631.html",
-        "title": "Why did Trump start Black voter outreach in a white Philly ZIP code? They wouldn't say.",
-        "link": "https://www.yahoo.com/news/why-did-trump-start-black-091259631.html",
-        "published": "2024-06-06T09:12:59.000Z",
+        "id": "man-mistakenly-drives-strangers-car-220202483.html",
+        "title": "Man Mistakenly Drives Stranger's Car After Picking Up Pizza",
+        "link": "https://www.yahoo.com/news/man-mistakenly-drives-strangers-car-220202483.html",
+        "published": "2024-06-04T22:02:02.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3487,10 +3435,10 @@
         "geometry": []
     },
     {
-        "id": "halsey-shares-lupus-diagnosis-with-fans-and-says-shes-lucky-to-be-alive-the-warning-signs-and-symptoms-you-shouldnt-ignore-185518925.html",
-        "title": "Halsey shares lupus diagnosis with fans and says she's 'lucky to be alive.' The warning signs and symptoms you shouldn't ignore",
-        "link": "https://www.yahoo.com/lifestyle/halsey-shares-lupus-diagnosis-with-fans-and-says-shes-lucky-to-be-alive-the-warning-signs-and-symptoms-you-shouldnt-ignore-185518925.html",
-        "published": "2024-06-04T18:55:18.000Z",
+        "id": "japans-birth-rate-falls-record-160948377.html",
+        "title": "Japan's birth rate falls to a record low as the number of marriages also drops",
+        "link": "https://www.yahoo.com/news/japans-birth-rate-falls-record-160948377.html",
+        "published": "2024-06-05T16:09:48.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3500,36 +3448,10 @@
         "geometry": []
     },
     {
-        "id": "m-cardiologist-popular-delicious-ingredient-102500694.html",
-        "title": "\u2018I\u2019m a Cardiologist and This Popular (and Delicious!) Ingredient Can Make a Big Difference for Heart Health'",
-        "link": "https://www.yahoo.com/lifestyle/m-cardiologist-popular-delicious-ingredient-102500694.html",
-        "published": "2024-06-04T10:25:00.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "traders-scooped-warren-buffett-berkshire-105754520.html",
-        "title": "Traders who scooped up Warren Buffett\u2019s Berkshire Hathaway shares at a massive $620,000 discount during glitch will have their deals canceled by the NYSE",
-        "link": "https://finance.yahoo.com/news/traders-scooped-warren-buffett-berkshire-105754520.html",
-        "published": "2024-06-04T10:57:54.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "hezbollah-wont-widen-war-fight-124007036.html",
-        "title": "Israel nears decision on Lebanon border offensive, army chief says",
-        "link": "https://www.yahoo.com/news/hezbollah-wont-widen-war-fight-124007036.html",
-        "published": "2024-06-04T12:40:07.000Z",
+        "id": "don-alharts-legendary-career-channel-071506230.html",
+        "title": "Don Alhart's legendary career at Channel 13 ends today: Stories that stick with him",
+        "link": "https://www.yahoo.com/news/don-alharts-legendary-career-channel-071506230.html",
+        "published": "2024-06-06T07:15:06.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3552,10 +3474,10 @@
         "geometry": []
     },
     {
-        "id": "sen-rand-paul-withholds-endorsement-110648663.html",
-        "title": "Sen. Rand Paul withholds endorsement of Trump: \u201cI'm looking for a little bit more before I make a final decision.\"",
-        "link": "https://www.yahoo.com/news/sen-rand-paul-withholds-endorsement-110648663.html",
-        "published": "2024-06-04T11:06:48.000Z",
+        "id": "hezbollah-wont-widen-war-fight-124007036.html",
+        "title": "Israel nears decision on Lebanon border offensive, army chief says",
+        "link": "https://www.yahoo.com/news/hezbollah-wont-widen-war-fight-124007036.html",
+        "published": "2024-06-04T12:40:07.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3565,10 +3487,10 @@
         "geometry": []
     },
     {
-        "id": "ship-full-throttle-harbor-causes-215150970.html",
-        "title": "Ship at full throttle in harbor causes major South Carolina bridge to close until it passes safely",
-        "link": "https://www.yahoo.com/news/ship-full-throttle-harbor-causes-215150970.html",
-        "published": "2024-06-05T21:51:50.000Z",
+        "id": "rare-endangered-eastern-massasauga-rattlesnake-171703755.html",
+        "title": "Rare, endangered eastern massasauga rattlesnake found in Ohio. Here's what to know",
+        "link": "https://www.yahoo.com/news/rare-endangered-eastern-massasauga-rattlesnake-171703755.html",
+        "published": "2024-06-05T17:17:03.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3578,10 +3500,10 @@
         "geometry": []
     },
     {
-        "id": "passenger-tracks-missing-luggage-home-182538130.html",
-        "title": "Passenger tracks missing luggage to home of airport store worker, who is now charged with felony theft",
-        "link": "https://www.yahoo.com/news/passenger-tracks-missing-luggage-home-182538130.html",
-        "published": "2024-06-05T18:25:38.000Z",
+        "id": "following-trumps-guilty-verdict-first-211234702.html",
+        "title": "Following Trump's guilty verdict, first swing state poll reveals how it impacts voters' decisions",
+        "link": "https://www.yahoo.com/news/following-trumps-guilty-verdict-first-211234702.html",
+        "published": "2024-06-05T21:12:34.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3591,62 +3513,10 @@
         "geometry": []
     },
     {
-        "id": "why-chief-technology-officer-put-142525284.html",
-        "title": "Why this chief technology officer put his retirement on hold when Intel\u2019s CEO called with a daunting fix-it job",
-        "link": "https://finance.yahoo.com/news/why-chief-technology-officer-put-142525284.html",
-        "published": "2024-06-05T14:25:25.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "air-taxi-maker-archer-aviation-153446583.html",
-        "title": "Air taxi maker Archer Aviation receives FAA nod to start commercial services",
-        "link": "https://finance.yahoo.com/news/air-taxi-maker-archer-aviation-153446583.html",
-        "published": "2024-06-05T15:34:46.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "hydrants-vanish-imperiling-l-county-100053309.html",
-        "title": "Thieves are stealing L.A. County fire hydrants by the hundreds. Utility is now trying to outsmart them",
-        "link": "https://www.yahoo.com/news/hydrants-vanish-imperiling-l-county-100053309.html",
-        "published": "2024-06-05T10:00:53.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "joe-scarborough-loses-over-clip-160240064.html",
-        "title": "Joe Scarborough Loses It Over Clip Of Trump Talking About Relationship With God",
-        "link": "https://www.yahoo.com/news/joe-scarborough-loses-over-clip-160240064.html",
-        "published": "2024-06-04T16:02:40.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "france-d-day-evokes-both-041055662.html",
-        "title": "In France, D-Day evokes both the joys of liberation and the pain of Normandy's 20,000 civilian dead",
-        "link": "https://www.yahoo.com/news/france-d-day-evokes-both-041055662.html",
-        "published": "2024-06-05T04:10:55.000Z",
+        "id": "key-figure-detroit-riverfront-nonprofit-152644140.html",
+        "title": "He helped turn Detroit's riverfront into an attraction. Feds say he stole $40M while doing it",
+        "link": "https://www.yahoo.com/news/key-figure-detroit-riverfront-nonprofit-152644140.html",
+        "published": "2024-06-05T15:26:44.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3669,6 +3539,71 @@
         "geometry": []
     },
     {
+        "id": "passenger-tracks-missing-luggage-home-182538130.html",
+        "title": "Passenger tracks missing luggage to home of airport store worker, who is now charged with felony theft",
+        "link": "https://www.yahoo.com/news/passenger-tracks-missing-luggage-home-182538130.html",
+        "published": "2024-06-05T18:25:38.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "halsey-shares-lupus-diagnosis-with-fans-and-says-shes-lucky-to-be-alive-the-warning-signs-and-symptoms-you-shouldnt-ignore-185518925.html",
+        "title": "Halsey shares lupus diagnosis with fans and says she's 'lucky to be alive.' The warning signs and symptoms you shouldn't ignore",
+        "link": "https://www.yahoo.com/lifestyle/halsey-shares-lupus-diagnosis-with-fans-and-says-shes-lucky-to-be-alive-the-warning-signs-and-symptoms-you-shouldnt-ignore-185518925.html",
+        "published": "2024-06-04T18:55:18.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "joe-scarborough-loses-over-clip-160240064.html",
+        "title": "Joe Scarborough Loses It Over Clip Of Trump Talking About Relationship With God",
+        "link": "https://www.yahoo.com/news/joe-scarborough-loses-over-clip-160240064.html",
+        "published": "2024-06-04T16:02:40.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "1-000-workers-one-car-094722819.html",
+        "title": "1,000 workers at one car factory in China were told to either quit or sit around on minimum wage until the market picks up again: Nikkei",
+        "link": "https://autos.yahoo.com/1-000-workers-one-car-094722819.html",
+        "published": "2024-06-05T09:47:22.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "ship-full-throttle-harbor-causes-215150970.html",
+        "title": "Ship at full throttle in harbor causes major South Carolina bridge to close until it passes safely",
+        "link": "https://www.yahoo.com/news/ship-full-throttle-harbor-causes-215150970.html",
+        "published": "2024-06-05T21:51:50.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "russian-military-planner-says-doesnt-104723763.html",
         "title": "A Russian military planner says he doesn't tell the men he's sending out to fight that they are very likely to die",
         "link": "https://www.yahoo.com/news/russian-military-planner-says-doesnt-104723763.html",
@@ -3682,10 +3617,10 @@
         "geometry": []
     },
     {
-        "id": "nvidia-salesforce-double-down-ai-152311241.html",
-        "title": "Nvidia and Salesforce double down on AI startup Cohere in $450 million round, source says",
-        "link": "https://finance.yahoo.com/news/nvidia-salesforce-double-down-ai-152311241.html",
-        "published": "2024-06-04T15:23:11.000Z",
+        "id": "ruined-day-supposed-hers-family-002713832.html",
+        "title": "\u2018Ruined a day that was supposed to be hers\u2019: Family locked out of high school graduation in Reedley",
+        "link": "https://www.yahoo.com/news/ruined-day-supposed-hers-family-002713832.html",
+        "published": "2024-06-06T00:27:13.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3695,49 +3630,10 @@
         "geometry": []
     },
     {
-        "id": "famous-scenic-waterfall-china-goes-160041872.html",
-        "title": "Famous scenic waterfall in China goes viral after video appears to show water coming from pipe",
-        "link": "https://www.yahoo.com/news/famous-scenic-waterfall-china-goes-160041872.html",
-        "published": "2024-06-05T16:00:41.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "richard-zuschlag-ceo-acadian-ambulance-153505651.html",
-        "title": "Richard Zuschlag, CEO of Acadian Ambulance, dies at 76",
-        "link": "https://www.yahoo.com/news/richard-zuschlag-ceo-acadian-ambulance-153505651.html",
-        "published": "2024-06-05T15:35:05.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "boeing-try-again-launch-first-100710671.html",
-        "title": "Boeing's Starliner spacecraft sends first astronaut crew to orbit",
-        "link": "https://finance.yahoo.com/news/boeing-try-again-launch-first-100710671.html",
-        "published": "2024-06-05T10:07:10.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "had-invested-1-000-gold-170124838.html",
-        "title": "If You Had Invested $1,000 in Gold 10 Years Ago, Here\u2019s How Much Money You\u2019d Have Today",
-        "link": "https://finance.yahoo.com/news/had-invested-1-000-gold-170124838.html",
-        "published": "2024-06-04T17:01:24.000Z",
+        "id": "sen-rand-paul-withholds-endorsement-110648663.html",
+        "title": "Sen. Rand Paul withholds endorsement of Trump: \u201cI'm looking for a little bit more before I make a final decision.\"",
+        "link": "https://www.yahoo.com/news/sen-rand-paul-withholds-endorsement-110648663.html",
+        "published": "2024-06-04T11:06:48.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3760,19 +3656,6 @@
         "geometry": []
     },
     {
-        "id": "russian-warships-headed-caribbean-drills-230025538.html",
-        "title": "Russian warships headed to Caribbean for drills as tensions rise over Ukraine, US officials say",
-        "link": "https://www.yahoo.com/news/russian-warships-headed-caribbean-drills-230025538.html",
-        "published": "2024-06-05T23:00:25.000Z",
-        "description": "Not Provided",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
         "id": "m-51-80-000-just-130900112.html",
         "title": "I\u2019m 51, make $80,000 a year and just inherited $170,000. I want to beef up my retirement savings \u2014 but how?",
         "link": "https://finance.yahoo.com/news/m-51-80-000-just-130900112.html",
@@ -3786,10 +3669,10 @@
         "geometry": []
     },
     {
-        "id": "woman-spots-5-foot-long-122002650.html",
-        "title": "Woman Spots 5-Foot-Long Monster Lizard While Driving",
-        "link": "https://www.yahoo.com/news/woman-spots-5-foot-long-122002650.html",
-        "published": "2024-06-04T12:20:02.000Z",
+        "id": "putin-takes-questions-international-journalists-173512376.html",
+        "title": "Putin warns that Russia could provide long-range weapons to others to strike Western targets",
+        "link": "https://www.yahoo.com/news/putin-takes-questions-international-journalists-173512376.html",
+        "published": "2024-06-05T17:35:12.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3799,10 +3682,10 @@
         "geometry": []
     },
     {
-        "id": "now-fight-desantis-appointees-ended-043913760.html",
-        "title": "Disney set to invest up to $17B in Florida parks now that fight with DeSantis appointees has ended",
-        "link": "https://finance.yahoo.com/news/now-fight-desantis-appointees-ended-043913760.html",
-        "published": "2024-06-05T04:39:13.000Z",
+        "id": "microsoft-initiate-layoffs-google-reportedly-153212793.html",
+        "title": "Microsoft to initiate layoffs, Google reportedly to follow suit",
+        "link": "https://finance.yahoo.com/video/microsoft-initiate-layoffs-google-reportedly-153212793.html",
+        "published": "2024-06-04T15:32:12.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3812,10 +3695,62 @@
         "geometry": []
     },
     {
-        "id": "damaged-east-st-louis-bridge-110000211.html",
-        "title": "Damaged East St. Louis bridge may be closed for months. Why is it taking so long to fix?",
-        "link": "https://www.yahoo.com/news/damaged-east-st-louis-bridge-110000211.html",
-        "published": "2024-06-05T11:00:00.000Z",
+        "id": "watch-audi-s5-black-lose-143000569.html",
+        "title": "Watch An Audi S5 Black Out To Lose An Arkansas Trooper",
+        "link": "https://autos.yahoo.com/watch-audi-s5-black-lose-143000569.html",
+        "published": "2024-06-04T14:30:00.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "top-news-app-us-chinese-100328243.html",
+        "title": "Top news app in US has Chinese origins and \u2018writes fiction\u2019 with the help of AI",
+        "link": "https://www.yahoo.com/tech/top-news-app-us-chinese-100328243.html",
+        "published": "2024-06-05T10:03:28.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "jared-kushner-latest-real-estate-194925867.html",
+        "title": "Jared Kushner\u2019s Latest Real Estate Deal Comes With Shocking Condition",
+        "link": "https://www.yahoo.com/news/jared-kushner-latest-real-estate-194925867.html",
+        "published": "2024-06-05T19:49:25.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "top-artificial-intelligence-ai-stocks-120000302.html",
+        "title": "Here Are My Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+        "link": "https://finance.yahoo.com/news/top-artificial-intelligence-ai-stocks-120000302.html",
+        "published": "2024-06-05T12:00:00.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "court-ruled-embryos-children-christian-123201816.html",
+        "title": "A court ruled embryos are children. These Christian couples agree yet wrestle with IVF choices",
+        "link": "https://www.yahoo.com/news/court-ruled-embryos-children-christian-123201816.html",
+        "published": "2024-06-05T12:32:01.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3838,10 +3773,10 @@
         "geometry": []
     },
     {
-        "id": "kremlin-welcomes-turkeys-reported-desire-120633328.html",
-        "title": "Kremlin welcomes Turkey's reported desire to join BRICS",
-        "link": "https://www.yahoo.com/news/kremlin-welcomes-turkeys-reported-desire-120633328.html",
-        "published": "2024-06-04T12:06:33.000Z",
+        "id": "national-security-issue-ex-wh-173459444.html",
+        "title": "'National security issue': Ex-WH doctor raises alarms on Biden's mental health after bombshell report",
+        "link": "https://www.yahoo.com/news/national-security-issue-ex-wh-173459444.html",
+        "published": "2024-06-05T17:34:59.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -3851,10 +3786,62 @@
         "geometry": []
     },
     {
-        "id": "jared-kushner-latest-real-estate-194925867.html",
-        "title": "Jared Kushner\u2019s Latest Real Estate Deal Comes With Shocking Condition",
-        "link": "https://www.yahoo.com/news/jared-kushner-latest-real-estate-194925867.html",
-        "published": "2024-06-05T19:49:25.000Z",
+        "id": "kremlin-says-kyivs-backers-face-102023804.html",
+        "title": "Kremlin says Kyiv's backers will face consequences after Putin says he may arm West's enemies",
+        "link": "https://www.yahoo.com/news/kremlin-says-kyivs-backers-face-102023804.html",
+        "published": "2024-06-06T10:20:23.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "disturbing-surveillance-video-shows-shootout-165329409.html",
+        "title": "Disturbing surveillance video shows shootout at metro Atlanta wings restaurant over $1",
+        "link": "https://www.yahoo.com/news/disturbing-surveillance-video-shows-shootout-165329409.html",
+        "published": "2024-06-05T16:53:29.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "famous-scenic-waterfall-china-goes-160041872.html",
+        "title": "Famous scenic waterfall in China goes viral after video appears to show water coming from pipe",
+        "link": "https://www.yahoo.com/news/famous-scenic-waterfall-china-goes-160041872.html",
+        "published": "2024-06-05T16:00:41.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "tornado-hits-michigan-without-warning-052159009.html",
+        "title": "Tornado hits Michigan without warning, killing toddler, while twister in Maryland injures 5",
+        "link": "https://www.yahoo.com/news/tornado-hits-michigan-without-warning-052159009.html",
+        "published": "2024-06-06T05:21:59.000Z",
+        "description": "Not Provided",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "intel-launches-144-core-sierra-212415410.html",
+        "title": "Intel Launches 144-core 'Sierra Forrest' Xeon 6 CPUs, Granite Rapids Follows in Q3",
+        "link": "https://www.yahoo.com/tech/intel-launches-144-core-sierra-212415410.html",
+        "published": "2024-06-04T21:24:15.000Z",
         "description": "Not Provided",
         "author": [],
         "keywords": [],
@@ -4307,8 +4294,8 @@
             "World news"
         ],
         "countries": [
-            "Hong Kong",
-            "China"
+            "China",
+            "Hong Kong"
         ],
         "other_countries": [
             "Hong Kong",
@@ -4319,12 +4306,12 @@
         "regions": [],
         "geometry": [
             {
-                "x": 114.1849161,
-                "y": 22.350627
-            },
-            {
                 "x": 104.999927,
                 "y": 35.000074
+            },
+            {
+                "x": 114.1849161,
+                "y": 22.350627
             }
         ]
     },
@@ -4348,6 +4335,32 @@
         "other_countries": [],
         "regions": [],
         "geometry": []
+    },
+    {
+        "id": "https://www.theguardian.com/australia-news/article/2024/jun/06/youve-just-assaulted-me-peter-costello-accused-of-violent-behaviour-by-news-corp-journalist",
+        "title": "\u2018You\u2019ve just assaulted me\u2019: Peter Costello accused of \u2018violent behaviour\u2019 by News Corp journalist",
+        "link": "https://www.theguardian.com/australia-news/article/2024/jun/06/youve-just-assaulted-me-peter-costello-accused-of-violent-behaviour-by-news-corp-journalist",
+        "published": "2024-06-06T10:11:34.000Z",
+        "description": "Video shows The Australian\u2019s Liam Mendes fall to the ground during encounter with Nine Entertainment chairman at Canberra airportPeter Costello, the former federal treasurer and current chairman of Nine Entertainment, has been accused of assaulting...",
+        "author": [],
+        "keywords": [
+            "Australian media",
+            "Australia news",
+            "Peter Costello",
+            "Nine Entertainment",
+            "News Corporation"
+        ],
+        "countries": [],
+        "other_countries": [
+            "Australia"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 134.755,
+                "y": -24.7761086
+            }
+        ]
     },
     {
         "id": "https://www.theguardian.com/australia-news/article/2024/jun/06/australia-covid-cases-flu-increase-data-numbers-rise",
@@ -4472,34 +4485,10 @@
         ]
     },
     {
-        "id": "https://www.theguardian.com/australia-news/article/2024/jun/06/rain-to-soak-sydney-as-weather-forecasters-warn-of-flash-flood-risk-for-nsw-coast",
-        "title": "Multiple people rescued from flood waters as parts of NSW see month\u2019s worth of rain in 12 hours",
-        "link": "https://www.theguardian.com/australia-news/article/2024/jun/06/rain-to-soak-sydney-as-weather-forecasters-warn-of-flash-flood-risk-for-nsw-coast",
-        "published": "2024-06-06T07:26:38.000Z",
-        "description": "BoM issues severe weather warning for the Illawarra and far southern suburbs of Sydney Follow our Australia news live blog for latest updatesGet our morning and afternoon news emails, free app or daily news podcastSydney is expected to be drenched...",
-        "author": [],
-        "keywords": [
-            "Australia weather",
-            "Australia news",
-            "New South Wales"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "other_countries": [],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 134.755,
-                "y": -24.7761086
-            }
-        ]
-    },
-    {
         "id": "https://www.theguardian.com/world/live/2024/jun/06/d-day-80th-anniversary-2024-veterans-second-world-war-normandy-joe-biden",
         "title": "\u2018We remember with the most profound sense of gratitude\u2019: King Charles joins veterans to commemorate D-day 80th anniversary \u2013 live",
         "link": "https://www.theguardian.com/world/live/2024/jun/06/d-day-80th-anniversary-2024-veterans-second-world-war-normandy-joe-biden",
-        "published": "2024-06-06T10:07:34.000Z",
+        "published": "2024-06-06T10:54:18.000Z",
         "description": "Events taking place in France and UK to mark the 80th anniversary of the Allied invasion of FranceD-day 80th anniversary \u2013 in picturesThe British prime minister Rishi Sunak will miss the major international ceremony to mark the 80th anniversary of...",
         "author": [],
         "keywords": [
@@ -4632,7 +4621,7 @@
         "id": "https://www.theguardian.com/world/live/2024/jun/06/israel-gaza-war-unrwa-school-hamas-middle-east-idf",
         "title": "Israel-Gaza war live: dozens reported killed after Israeli strike on UN school in refugee camp",
         "link": "https://www.theguardian.com/world/live/2024/jun/06/israel-gaza-war-unrwa-school-hamas-middle-east-idf",
-        "published": "2024-06-06T09:24:12.000Z",
+        "published": "2024-06-06T10:37:08.000Z",
         "description": "Israel says the targeted school contained a militant compound, an allegation rejected by Hamas, amid wider operation in central GazaSee all our Israel-Gaza coverageLocal authorities report that 37 people have been killed after an overnight Israeli...",
         "author": [],
         "keywords": [
@@ -4920,10 +4909,10 @@
     },
     {
         "id": "https://www.theguardian.com/politics/live/2024/jun/06/general-election-live-tories-conservatives-labour-rishi-sunak-keir-starmer-liberal-democrats-uk-politics",
-        "title": "Tory decision to accept further \u00a35m from Frank Hester an \u2018insult to me and all black women\u2019, says Diane Abbott \u2013 UK politics live",
+        "title": "Tories criticised after revelation racist comment row did not halt donations from Frank Hester \u2013 UK politics live",
         "link": "https://www.theguardian.com/politics/live/2024/jun/06/general-election-live-tories-conservatives-labour-rishi-sunak-keir-starmer-liberal-democrats-uk-politics",
-        "published": "2024-06-06T10:09:26.000Z",
-        "description": "Hester apologised for being rude about Abbott but did not accept that what he said about her was racistMel Stride, the work and pensions secretary, was the duty Tory on the airwaves this morning. Asked about the latest revelations about the party...",
+        "published": "2024-06-06T10:54:43.000Z",
+        "description": "Hester apologised for being rude about Abbott but did not accept that what he said about her was racistAnneliese Dodds, the Labour party chair, has said the revelation that the Tories are still taking money from Frank Hester shows Rishi Sunak has...",
         "author": [],
         "keywords": [
             "Politics",
@@ -4932,7 +4921,15 @@
             "Rishi Sunak",
             "Keir Starmer",
             "Conservatives",
-            "Labour"
+            "Labour",
+            "Race",
+            "Frank Hester",
+            "Party funding",
+            "Council tax",
+            "Tax",
+            "Scotland",
+            "Scottish politics",
+            "General elections"
         ],
         "countries": [],
         "other_countries": [
@@ -4947,11 +4944,45 @@
         ]
     },
     {
+        "id": "https://www.theguardian.com/business/article/2024/jun/06/rachel-reeves-under-pressure-from-shadow-ministers-to-raise-capital-gains-tax-to-revive-public-services",
+        "title": "Rachel Reeves under pressure from shadow ministers to raise capital gains tax to revive public services",
+        "link": "https://www.theguardian.com/business/article/2024/jun/06/rachel-reeves-under-pressure-from-shadow-ministers-to-raise-capital-gains-tax-to-revive-public-services",
+        "published": "2024-06-06T10:30:01.000Z",
+        "description": "Exclusive: After ruling out rises in VAT, income tax or NICs, shadow chancellor said to be weighing other options to raise cash in an autumn budgetStarmer says Sunak broke ministerial code with tax claimReality check: the truth behind the Tories\u2019...",
+        "author": [],
+        "keywords": [
+            "Labour",
+            "Government borrowing",
+            "Public finance",
+            "Capital gains tax",
+            "Rachel Reeves",
+            "General election 2024",
+            "Budget deficit",
+            "General elections",
+            "Tax and spending",
+            "Tax",
+            "Politics",
+            "Money",
+            "UK news",
+            "Public services policy",
+            "Economic policy",
+            "Economics",
+            "Income tax",
+            "Inheritance tax",
+            "Austerity",
+            "Business"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "https://www.theguardian.com/politics/article/2024/jun/06/scottish-tory-leader-douglas-ross-says-he-plans-to-stand-in-key-snp-target-seat",
         "title": "Scottish Tory leader says he plans to stand in key SNP target seat",
         "link": "https://www.theguardian.com/politics/article/2024/jun/06/scottish-tory-leader-douglas-ross-says-he-plans-to-stand-in-key-snp-target-seat",
-        "published": "2024-06-06T09:49:39.000Z",
-        "description": "Douglas Ross says he has decided to \u2018lead from the front\u2019 after David Duguid not selected in Aberdeenshire North and Moray EastUK general election live \u2013 latest updatesThe Scottish Conservative leader, Douglas Ross, has announced he plans to stand...",
+        "published": "2024-06-06T10:21:36.000Z",
+        "description": "Douglas Ross says he will \u2018lead from the front\u2019 after David Duguid not selected in Aberdeenshire North and Moray EastUK general election live \u2013 latest updatesThe Scottish Conservative leader, Douglas Ross, has announced he plans to stand again for...",
         "author": [],
         "keywords": [
             "Conservatives",
@@ -5000,7 +5031,8 @@
         "keywords": [
             "Kent",
             "UK news",
-            "England"
+            "England",
+            "Immigration and asylum"
         ],
         "countries": [],
         "other_countries": [],
@@ -5061,30 +5093,57 @@
         "geometry": []
     },
     {
-        "id": "https://www.theguardian.com/business/article/2024/jun/06/frank-hester-donated-further-5m-to-tories-in-january-figures-show",
-        "title": "Frank Hester donated further \u00a35m to Tories in January, figures show",
-        "link": "https://www.theguardian.com/business/article/2024/jun/06/frank-hester-donated-further-5m-to-tories-in-january-figures-show",
-        "published": "2024-06-06T08:16:01.000Z",
-        "description": "Data also shows party accepted \u00a3150,000 from Hester days after comments about Diane Abbott condemned as racist were revealedFrank Hester, the businessman at the centre of a row about comments condemned as racist and misogynistic, gave the...",
+        "id": "https://www.theguardian.com/business/article/2024/jun/06/microsoft-openai-and-nvidia-investigated-over-possible-breach-of-antitrust-laws",
+        "title": "Microsoft, OpenAI and Nvidia investigated over possible breach of antitrust laws",
+        "link": "https://www.theguardian.com/business/article/2024/jun/06/microsoft-openai-and-nvidia-investigated-over-possible-breach-of-antitrust-laws",
+        "published": "2024-06-06T10:44:04.000Z",
+        "description": "AI firms scrutinised over regulations that oversee fair competition and aim to prevent monopoliesMicrosoft, OpenAI and Nvidia face increased antitrust scrutiny of their roles in the artificial intelligence industry after a report that US regulators...",
         "author": [],
         "keywords": [
-            "Frank Hester",
-            "Conservatives",
-            "Party funding",
-            "Politics",
-            "UK news",
-            "Business",
-            "Race"
+            "Technology sector",
+            "Artificial intelligence (AI)",
+            "OpenAI",
+            "Microsoft",
+            "Technology",
+            "Computing",
+            "ChatGPT",
+            "US news",
+            "US justice system",
+            "World news",
+            "Business"
         ],
         "countries": [],
         "other_countries": [
-            "United States"
+            "France"
         ],
         "regions": [],
         "geometry": [
             {
-                "x": -100.445882,
-                "y": 39.7837304
+                "x": 1.8883335,
+                "y": 46.603354
+            }
+        ]
+    },
+    {
+        "id": "https://www.theguardian.com/us-news/article/2024/jun/06/first-thing-dozens-killed-in-israeli-strike-on-unrwa-school-as-idf-launches-operation-in-central-gaza",
+        "title": "First Thing: Dozens killed in Israeli strike on UN school as IDF launches central Gaza operation",
+        "link": "https://www.theguardian.com/us-news/article/2024/jun/06/first-thing-dozens-killed-in-israeli-strike-on-unrwa-school-as-idf-launches-operation-in-central-gaza",
+        "published": "2024-06-06T10:19:39.000Z",
+        "description": "Israel claimed the targeted school contained a militant compound, an allegation rejected by Hamas. Plus, UN urges global ban on fossil fuel adsGood morning.At least 30 people, including five children, were killed by an Israeli strike on a UN school...",
+        "author": [],
+        "keywords": [
+            "US news",
+            "World news"
+        ],
+        "countries": [
+            "Israel"
+        ],
+        "other_countries": [],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 34.8594762,
+                "y": 30.8124247
             }
         ]
     },
@@ -5187,53 +5246,6 @@
                 "y": 39.7837304
             }
         ]
-    },
-    {
-        "id": "https://www.theguardian.com/us-news/article/2024/jun/05/legal-right-contraception-senate-vote",
-        "title": "Senate Republicans block bill to recognize legal right to contraception",
-        "link": "https://www.theguardian.com/us-news/article/2024/jun/05/legal-right-contraception-senate-vote",
-        "published": "2024-06-05T21:10:27.000Z",
-        "description": "As expected, Right to Contraception act falls short of garnering the 60 votes Senate Democrats needed to advance the billSenate Republicans on Wednesday blocked a bill that would have recognized a legal right to contraception, weeks after Donald...",
-        "author": [],
-        "keywords": [
-            "US Senate",
-            "US news",
-            "Abortion",
-            "Roe v Wade",
-            "Reproductive rights"
-        ],
-        "countries": [],
-        "other_countries": [
-            "United States"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": -100.445882,
-                "y": 39.7837304
-            }
-        ]
-    },
-    {
-        "id": "https://www.theguardian.com/technology/article/2024/jun/05/nvidia-stock-tech-market-price-value-3-trillion",
-        "title": "Nvidia hits $3tn and surpasses Apple as world\u2019s second most valuable company",
-        "link": "https://www.theguardian.com/technology/article/2024/jun/05/nvidia-stock-tech-market-price-value-3-trillion",
-        "published": "2024-06-05T20:46:57.000Z",
-        "description": "AI chipmaker\u2019s stock has surged 147% so far in 2024, underscoring shift in tech world as demand for its processors far outstrip supplyShares of Nvidia rallied to record highs on Wednesday, with the artificial-intelligence chipmaker\u2019s stock market...",
-        "author": [],
-        "keywords": [
-            "Artificial intelligence (AI)",
-            "Technology",
-            "Apple",
-            "Computing",
-            "US news",
-            "Microsoft",
-            "Google"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
     },
     {
         "id": "0000018f-e9c8-d6d1-a9bf-efea3e790000",
@@ -5396,9 +5408,9 @@
         "author": [],
         "keywords": [],
         "countries": [
-            "Ireland",
-            "Spain",
             "Israel",
+            "Spain",
+            "Ireland",
             "Norway"
         ],
         "other_countries": [
@@ -5407,16 +5419,16 @@
         "regions": [],
         "geometry": [
             {
-                "x": -7.9794599,
-                "y": 52.865196
+                "x": 34.8594762,
+                "y": 30.8124247
             },
             {
                 "x": -4.8379791,
                 "y": 39.3260685
             },
             {
-                "x": 34.8594762,
-                "y": 30.8124247
+                "x": -7.9794599,
+                "y": 52.865196
             },
             {
                 "x": 11.52803643954819,
@@ -6286,6 +6298,118 @@
         "geometry": []
     },
     {
+        "id": "WP-WSJ-0001821121",
+        "title": "Will Cloud Software Be Ready for Its AI Moment?",
+        "link": "https://www.wsj.com/articles/will-cloud-software-be-ready-for-its-ai-moment-8439bbc7",
+        "published": "2024-06-06T11:00:00.000Z",
+        "description": "It is too early to determine winners of the artificial intelligence boom, but so far those companies haven\u2019t been cloud software vendors like Salesforce and Workday.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "WP-WSJ-0001822096",
+        "title": "Robinhood Doubles Down on Crypto With Deal for Bitstamp",
+        "link": "https://www.wsj.com/articles/robinhood-doubles-down-on-crypto-with-deal-for-bitstamp-eade3276",
+        "published": "2024-06-06T11:00:00.000Z",
+        "description": "The move comes a month after an SEC notice of a potential lawsuit over Robinhood\u2019s crypto offerings.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [
+            "Czechia"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 15.3381061,
+                "y": 49.7439047
+            }
+        ]
+    },
+    {
+        "id": "WP-WSJ-0001818306",
+        "title": "As Hospitals Grow, So Does Your Bill",
+        "link": "https://www.wsj.com/articles/as-hospitals-grow-so-does-your-bill-1147add2",
+        "published": "2024-06-06T11:00:00.000Z",
+        "description": "Consolidation across the hospital industry has contributed to the higher cost of healthcare.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "WP-WSJ-0001821853",
+        "title": "Oil Demand Is Still Resilient, OPEC Secretary-General Says",
+        "link": "https://www.wsj.com/articles/oil-rises-in-likely-bargain-hunting-2aa777a3",
+        "published": "2024-06-06T10:58:00.000Z",
+        "description": "Oil demand remains resilient, OPEC\u2019s Secretary-General said at the St. Petersburg International Economic Forum, adding the cartel looks at economic growth, supply and demand to drive its decisions.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "WP-WSJ-0001821847",
+        "title": "Euro Could Rise if ECB Meeting Lacks Signals on Future Rate-Cut Prospects",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-slightly-on-fed-rate-cut-hopes-34d182fb",
+        "published": "2024-06-06T10:55:00.000Z",
+        "description": "The euro could edge higher if the European Central Bank cuts interest rates as expected but remains reticent on prospects for further reductions, ING said.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "WP-WSJ-0001822644",
+        "title": "NIO's First-Quarter Loss Widened on Lower EV Sales",
+        "link": "https://www.wsj.com/articles/nios-first-quarter-loss-widened-on-lower-ev-sales-b5f351a5",
+        "published": "2024-06-06T10:48:00.000Z",
+        "description": "The Chinese EV maker \u2019s net loss widened in the first quarter, with electric-vehicle sales off to a seasonally slow start.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "WP-WSJ-0001822075",
+        "title": "S&P 500 Futures Waver After Record Close",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-follow-u-s-equities-higher-ed544e42",
+        "published": "2024-06-06T10:27:00.000Z",
+        "description": "S&P 500 futures wavered while global markets broadly gains ahead of ECB rate decision and U.S. jobless claims data.",
+        "author": [],
+        "keywords": [
+            "PAID"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "WP-WSJ-0001821743",
         "title": "Biotech Venture Financing Market Remains Tight",
         "link": "https://www.wsj.com/articles/biotech-venture-financing-hasnt-loosened-up-yet-38e001df",
@@ -6320,7 +6444,7 @@
         "title": "Biden Joins Allies to Remember D-Day Landings in a Turbulent World",
         "link": "https://www.wsj.com/articles/biden-joins-allies-to-remember-d-day-landings-in-a-turbulent-world-7296dd13",
         "published": "2024-06-06T09:50:00.000Z",
-        "description": "Western leaders will mark the 80th anniversary of the D-Day landings as anxieties run high over the war in Ukraine and the future of trans-Atlantic relations.",
+        "description": "Western leaders are marking the 80th anniversary of the D-Day landings as anxieties run high over the war in Ukraine and the future of trans-Atlantic relations.",
         "author": [],
         "keywords": [
             "PAID"
@@ -6535,21 +6659,6 @@
         ]
     },
     {
-        "id": "WP-WSJ-0001822075",
-        "title": "Stellantis-Mercedes JV's Pivot to Cheaper Batteries Looks Smart",
-        "link": "https://www.wsj.com/articles/australia-shares-set-to-follow-u-s-equities-higher-ed544e42",
-        "published": "2024-06-06T09:07:00.000Z",
-        "description": "The battery-making JV owned by Stellantis, Mercedes-Benz, and TotalEnergies is refocusing its strategy\u2014and its money\u2014on building cheaper batteries in a move that makes sense given underwhelming EV demand, Citi said.",
-        "author": [],
-        "keywords": [
-            "PAID"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
         "id": "WP-WSJ-0001822478",
         "title": "Israel Strikes U.N. School and Shelter in Gaza, Says Hamas Was Operating There",
         "link": "https://www.wsj.com/articles/israel-strikes-u-n-school-and-shelter-in-gaza-says-hamas-was-operating-there-94ec9a23",
@@ -6572,153 +6681,63 @@
         ]
     },
     {
-        "id": "WP-WSJ-0001822561",
-        "title": "U.K. Businesses See Wage Rises Slowing, BOE Survey Finds",
-        "link": "https://www.wsj.com/articles/u-k-businesses-see-wage-rises-slowing-boe-survey-finds-f5e979f1",
-        "published": "2024-06-06T08:56:00.000Z",
-        "description": "U.K. businesses expect wages to rise at a slower pace over the coming 12 months, a finding that will help reassure policymakers at the Bank of England that inflation has been tamed.",
+        "id": "https://www.ndtv.com/world-news/married-tv-anchor-in-us-resigns-after-sexting-man-posing-as-a-15-year-old-girl-5830836",
+        "title": "Married TV Anchor In US Resigns After Sexting Man Posing As 15-Year-Old",
+        "link": "https://www.ndtv.com/world-news/married-tv-anchor-in-us-resigns-after-sexting-man-posing-as-a-15-year-old-girl-5830836",
+        "published": "2024-06-06T09:48:54.000Z",
+        "description": "The case came to light after 59-year-old Bill Lunn arranged a meetup with the suspected underage girl at his home.",
         "author": [],
-        "keywords": [
-            "PAID"
-        ],
-        "countries": [],
-        "other_countries": [
-            "United Kingdom",
-            "Germany",
-            "United States",
-            "Hungary"
-        ],
-        "regions": [
-            "England"
-        ],
-        "geometry": [
-            {
-                "x": -3.2765753,
-                "y": 54.7023545
-            },
-            {
-                "x": 10.4478313,
-                "y": 51.1638175
-            },
-            {
-                "x": -100.445882,
-                "y": 39.7837304
-            },
-            {
-                "x": 19.5060937,
-                "y": 47.1817585
-            }
-        ]
-    },
-    {
-        "id": "WP-WSJ-0001822451",
-        "title": "Remy Martin Sees Tough Year Ahead as U.S. Slowdown Drags on",
-        "link": "https://www.wsj.com/articles/maker-of-remy-martin-focuses-on-growth-recovery-in-u-s-after-a-challenging-year-df064005",
-        "published": "2024-06-06T08:46:00.000Z",
-        "description": "Remy Cointreau expects efforts to clear out excess inventory in the U.S. to stretch into its new fiscal year amid a market slowdown, as the company seeks to pave the way for a return to sales growth.",
-        "author": [],
-        "keywords": [
-            "PAID"
-        ],
+        "keywords": [],
         "countries": [],
         "other_countries": [],
         "regions": [],
         "geometry": []
     },
     {
-        "id": "WP-WSJ-0001821853",
-        "title": "Oil Rebounds From Four-Month Lows Despite Demand Concerns",
-        "link": "https://www.wsj.com/articles/oil-rises-in-likely-bargain-hunting-2aa777a3",
-        "published": "2024-06-06T08:00:00.000Z",
-        "description": "Oil prices rebounded from four-month lows as market watchers viewed the recent sell-off as overdone, despite an unexpected build in U.S. crude and gasoline inventories.",
+        "id": "https://www.ndtv.com/world-news/spain-to-join-south-africas-case-against-gaza-genocide-in-un-top-court-5830734",
+        "title": "Spain To Join South Africa's Case Against Gaza \"Genocide\" In UN Top Court",
+        "link": "https://www.ndtv.com/world-news/spain-to-join-south-africas-case-against-gaza-genocide-in-un-top-court-5830734",
+        "published": "2024-06-06T09:32:59.000Z",
+        "description": "Spain said on Thursday that it will join South Africa's case at the UN's top court in which Pretoria has accused Israel of \"genocide\" in the Gaza Strip.",
         "author": [],
-        "keywords": [
-            "PAID"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "WP-WSJ-0001822533",
-        "title": "Antofagasta Secures Water Supply for Key Mine",
-        "link": "https://www.wsj.com/articles/antofagasta-shares-jump-after-water-supply-secured-for-key-mine-6690ec98",
-        "published": "2024-06-06T08:00:00.000Z",
-        "description": "Antofagasta shares opened higher on London\u2019s FTSE 100, on news the copper miner had signed a water-supply pact at its flagship Centinela site in Chile.",
-        "author": [],
-        "keywords": [
-            "PAID"
-        ],
+        "keywords": [],
         "countries": [
-            "Chile"
+            "Israel",
+            "Spain",
+            "South Africa"
         ],
         "other_countries": [
-            "Chile"
-        ],
-        "regions": [
-            "Antofagasta"
-        ],
-        "geometry": [
-            {
-                "x": -71.3187697,
-                "y": -31.7613365
-            }
-        ]
-    },
-    {
-        "id": "WP-WSJ-0001821847",
-        "title": "Sterling Traders Await BOE Survey",
-        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-slightly-on-fed-rate-cut-hopes-34d182fb",
-        "published": "2024-06-06T07:58:00.000Z",
-        "description": "Sterling traded steady as markets awaited the Bank of England\u2019s decision maker panel\u2019s survey at 0830 GMT with information on inflation expectations, Brown Brothers Harriman said.",
-        "author": [],
-        "keywords": [
-            "PAID"
-        ],
-        "countries": [],
-        "other_countries": [
-            "United States",
-            "Germany",
-            "Hungary"
+            "South Africa",
+            "United States"
         ],
         "regions": [],
         "geometry": [
             {
-                "x": -100.445882,
-                "y": 39.7837304
+                "x": 34.8594762,
+                "y": 30.8124247
             },
             {
-                "x": 10.4478313,
-                "y": 51.1638175
+                "x": -4.8379791,
+                "y": 39.3260685
             },
             {
-                "x": 19.5060937,
-                "y": 47.1817585
+                "x": 24.991639,
+                "y": -28.8166236
             }
         ]
     },
     {
-        "id": "WP-WSJ-0001821851",
-        "title": "Gold Futures Rise, Reclaiming Losses From Selloff in Late May",
-        "link": "https://www.wsj.com/articles/gold-steady-underpinned-by-fed-rate-cut-prospects-c4a9168f",
-        "published": "2024-06-06T07:45:00.000Z",
-        "description": "Gold futures rose, further reclaiming ground lost in late May, and MUFG reiterated gold is its favorite buy this year on a trifecta of eventual Fed cuts, supportive central bank demand and its role as a geopolitical safe haven.",
+        "id": "https://www.ndtv.com/world-news/sudanese-paramilitary-forces-attack-village-kill-100-people-report-5830513",
+        "title": "Sudanese Paramilitary Forces Attack Village, Kill 100 People: Report",
+        "link": "https://www.ndtv.com/world-news/sudanese-paramilitary-forces-attack-village-kill-100-people-report-5830513",
+        "published": "2024-06-06T09:03:41.000Z",
+        "description": "The Sudanese paramilitary Rapid Support Forces attacked a village in Gezira State on Wednesday, killing at least 100 people, according to local activists.",
         "author": [],
-        "keywords": [
-            "PAID"
-        ],
+        "keywords": [],
         "countries": [],
-        "other_countries": [
-            "India"
-        ],
+        "other_countries": [],
         "regions": [],
-        "geometry": [
-            {
-                "x": 78.6677428,
-                "y": 22.3511148
-            }
-        ]
+        "geometry": []
     },
     {
         "id": "https://www.ndtv.com/world-news/on-camera-woman-struck-dead-by-train-in-mexico-while-taking-selfie-5830443",
@@ -7011,103 +7030,27 @@
         "geometry": []
     },
     {
-        "id": "https://www.ndtv.com/world-news/czech-train-crash-4-dead-dozens-injured-as-trains-collide-in-czech-republic-5828272",
-        "title": "4 Dead, Dozens Injured As Trains Collide In Czech Republic",
-        "link": "https://www.ndtv.com/world-news/czech-train-crash-4-dead-dozens-injured-as-trains-collide-in-czech-republic-5828272",
-        "published": "2024-06-06T01:48:52.000Z",
-        "description": "Four people died and dozens were injured when an express train crashed head-on with a freight train in the Czech city of Pardubice late Wednesday, an emergency services spokesperson said.",
+        "id": "CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS93b3JsZC1sZWFkZXJzLXZldGVyYW5zLWNvbW1lbW9yYXRlLWQtZGF5cy04MHRoLWFubml2ZXJzYXJ5LW5vcm1hbmR5LTIwMjQtMDYtMDYv0gEA",
+        "title": "D-Day anniversary 2024: World leaders, veterans, commemorate Normandy landings - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS93b3JsZC1sZWFkZXJzLXZldGVyYW5zLWNvbW1lbW9yYXRlLWQtZGF5cy04MHRoLWFubml2ZXJzYXJ5LW5vcm1hbmR5LTIwMjQtMDYtMDYv0gEA?oc=5",
+        "published": "2024-06-06T10:09:12.000Z",
+        "description": "D-Day anniversary 2024: World leaders, veterans, commemorate Normandy landings&nbsp;&nbsp;ReutersLive updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend&nbsp;&nbsp;CNNHow D-Day veterans described the...",
         "author": [],
         "keywords": [],
         "countries": [],
         "other_countries": [
-            "Czechia",
-            "France"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 15.3381061,
-                "y": 49.7439047
-            },
-            {
-                "x": 1.8883335,
-                "y": 46.603354
-            }
-        ]
-    },
-    {
-        "id": "https://www.ndtv.com/world-news/georgia-court-halts-donald-trumps-2020-election-interference-case-5828089",
-        "title": "US Court Halts Trump's 2020 Election Interference Case",
-        "link": "https://www.ndtv.com/world-news/georgia-court-halts-donald-trumps-2020-election-interference-case-5828089",
-        "published": "2024-06-06T00:46:34.000Z",
-        "description": "A Georgia appeals court on Wednesday froze all proceedings in the election interference case against former US president Donald Trump and his co-defendants in the southern state.",
-        "author": [],
-        "keywords": [],
-        "countries": [
-            "Georgia"
-        ],
-        "other_countries": [
-            "United States",
-            "France"
-        ],
-        "regions": [
-            "Georgia"
-        ],
-        "geometry": [
-            {
-                "x": -83.1137366,
-                "y": 32.3293809
-            }
-        ]
-    },
-    {
-        "id": "https://www.ndtv.com/world-news/russia-president-vladimir-putin-warns-of-nuclear-attack-amid-ukraine-war-5827879",
-        "title": "Russia Could Use Nuclear Weapons If...: Putin Warns West",
-        "link": "https://www.ndtv.com/world-news/russia-president-vladimir-putin-warns-of-nuclear-attack-amid-ukraine-war-5827879",
-        "published": "2024-06-05T23:38:26.000Z",
-        "description": "President Vladimir Putin, asked about the risks of nuclear war over Ukraine, cautioned the West on Wednesday that Russia could use all available means to defend itself if its sovereignty or territorial integrity were threatened.",
-        "author": [],
-        "keywords": [],
-        "countries": [
-            "Ukraine"
-        ],
-        "other_countries": [
-            "Cameroon",
-            "Iceland",
+            "United Kingdom",
             "United States"
         ],
-        "regions": [
-            "West"
-        ],
-        "geometry": [
-            {
-                "x": 31.2718321,
-                "y": 49.4871968
-            }
-        ]
-    },
-    {
-        "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzQ0MHk0OHAwam_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c0NDB5NDhwMGpvLmFtcA",
-        "title": "In pictures: 80th anniversary of D-Day - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzQ0MHk0OHAwam_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c0NDB5NDhwMGpvLmFtcA?oc=5",
-        "published": "2024-06-06T04:50:50.000Z",
-        "description": "In pictures: 80th anniversary of D-Day&nbsp;&nbsp;BBC.comLive updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend&nbsp;&nbsp;CNN\u2018Back in time\u2019: House lawmakers parachuting from WWII-era plane in Normandy to...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [
-            "United States",
-            "United Kingdom"
-        ],
         "regions": [],
         "geometry": [
-            {
-                "x": -100.445882,
-                "y": 39.7837304
-            },
             {
                 "x": -3.2765753,
                 "y": 54.7023545
+            },
+            {
+                "x": -100.445882,
+                "y": 39.7837304
             }
         ]
     },
@@ -7116,7 +7059,7 @@
         "title": "Israel-Hamas war: Israeli strike on Gaza school kills more than 30 - The Associated Press",
         "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1wYWxlc3RpbmlhbnMtaGFtYXMtd2FyLW5ld3MtNi02LTIwMjQtM2QwN2U3MTJmOGFiYzFlMDgzMzkxNjMxODA4MjNmYjjSAQA?oc=5",
         "published": "2024-06-06T09:36:00.000Z",
-        "description": "Israel-Hamas war: Israeli strike on Gaza school kills more than 30&nbsp;&nbsp;The Associated PressIDF strikes school in central Gaza where it says dozens of terrorists were gathered&nbsp;&nbsp;The Times of IsraelDevastation in Gaza as Israel wages...",
+        "description": "Israel-Hamas war: Israeli strike on Gaza school kills more than 30&nbsp;&nbsp;The Associated PressDevastation in Gaza as Israel wages war on Hamas: Live updates&nbsp;&nbsp;CNNThe 7 things you need to know for Thursday, July 6&nbsp;&nbsp;The...",
         "author": [],
         "keywords": [],
         "countries": [
@@ -7130,26 +7073,6 @@
             {
                 "x": 34.8594762,
                 "y": 30.8124247
-            }
-        ]
-    },
-    {
-        "id": "CBMiTmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plc3NlLXdhdHRlcnMtd3NqLWJvbWJzaGVsbC1yZXBvcnQtcmV2ZWFscy1iaWRlbtIBUmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plc3NlLXdhdHRlcnMtd3NqLWJvbWJzaGVsbC1yZXBvcnQtcmV2ZWFscy1iaWRlbi5hbXA",
-        "title": "JESSE WATTERS: WSJ's 'bombshell' report reveals it's even worse than it looks for Biden - Fox News",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plc3NlLXdhdHRlcnMtd3NqLWJvbWJzaGVsbC1yZXBvcnQtcmV2ZWFscy1iaWRlbtIBUmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plc3NlLXdhdHRlcnMtd3NqLWJvbWJzaGVsbC1yZXBvcnQtcmV2ZWFscy1iaWRlbi5hbXA?oc=5",
-        "published": "2024-06-06T01:30:04.000Z",
-        "description": "JESSE WATTERS: WSJ's 'bombshell' report reveals it's even worse than it looks for Biden&nbsp;&nbsp;Fox NewsBiden White House urged Democrats to call back Wall Street Journal as it reported on president's mental acuity&nbsp;&nbsp;Fox NewsWhite House...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [
-            "United States"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": -100.445882,
-                "y": 39.7837304
             }
         ]
     },
@@ -7181,43 +7104,22 @@
         ]
     },
     {
-        "id": "CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbi9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbg",
-        "title": "Several Trump running mate contenders have received vetting materials as search heats up - CNN",
-        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbi9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbg?oc=5",
-        "published": "2024-06-06T03:51:00.000Z",
-        "description": "Several Trump running mate contenders have received vetting materials as search heats up&nbsp;&nbsp;CNNTrump campaign accelerates vetting of potential running mates&nbsp;&nbsp;Fox NewsVideo Trump's veepstakes ramp up - ABC News&nbsp;&nbsp;ABC...",
+        "id": "CBMieGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8wNi9ueC1zMS00OTkyMzU1L3RoZS1uZWlnaGJvci1hdC10aGUtY2VudGVyLW9mLXRoZS1qdXN0aWNlLWFsaXRvLWZsYWctY29udHJvdmVyc3ktc3BlYWtzLW91dNIBAA",
+        "title": "The neighbor at the center of the Justice Alito flag controversy speaks out - NPR",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8wNi9ueC1zMS00OTkyMzU1L3RoZS1uZWlnaGJvci1hdC10aGUtY2VudGVyLW9mLXRoZS1qdXN0aWNlLWFsaXRvLWZsYWctY29udHJvdmVyc3ktc3BlYWtzLW91dNIBAA?oc=5",
+        "published": "2024-06-06T09:12:05.000Z",
+        "description": "The neighbor at the center of the Justice Alito flag controversy speaks out&nbsp;&nbsp;NPRAlito\u2019s former neighbor says justice is \u2018at best mistaken\u2019 in flap over upside-down US flag&nbsp;&nbsp;CNNLetters to the Editor: Stop panicking over the...",
         "author": [],
         "keywords": [],
         "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wdXRpbi1zYXlzLXdlc3QtaXMtd3JvbmctYXNzdW1lLXJ1c3NpYS13b3VsZC1uZXZlci11c2UtbnVjbGVhci13ZWFwb25zLTIwMjQtMDYtMDUv0gEA",
-        "title": "Putin says Russia could deploy missiles in striking distance of the West - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wdXRpbi1zYXlzLXdlc3QtaXMtd3JvbmctYXNzdW1lLXJ1c3NpYS13b3VsZC1uZXZlci11c2UtbnVjbGVhci13ZWFwb25zLTIwMjQtMDYtMDUv0gEA?oc=5",
-        "published": "2024-06-06T09:33:00.000Z",
-        "description": "Putin says Russia could deploy missiles in striking distance of the West&nbsp;&nbsp;ReutersMoscow Could Target Countries Supplying Weapons to Ukraine, Putin Says&nbsp;&nbsp;The New York TimesPutin warns West over Ukraine armaments, nuclear arsenal...",
-        "author": [],
-        "keywords": [],
-        "countries": [
-            "Ukraine"
-        ],
         "other_countries": [
-            "United States",
-            "Cameroon",
-            "Iceland",
-            "Jamaica"
+            "France"
         ],
-        "regions": [
-            "New York",
-            "West"
-        ],
+        "regions": [],
         "geometry": [
             {
-                "x": 31.2718321,
-                "y": 49.4871968
+                "x": 1.8883335,
+                "y": 46.603354
             }
         ]
     },
@@ -7226,12 +7128,13 @@
         "title": "Hunter Biden\u2019s ex-girlfriend details his crack cocaine addiction at trial - Al Jazeera English",
         "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzYvNi9odW50ZXItYmlkZW5zLWV4LWdpcmxmcmllbmQtZGV0YWlscy1oaXMtY3JhY2stY29jYWluZS1hZGRpY3Rpb24tYXQtdHJpYWzSAXRodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNi82L2h1bnRlci1iaWRlbnMtZXgtZ2lybGZyaWVuZC1kZXRhaWxzLWhpcy1jcmFjay1jb2NhaW5lLWFkZGljdGlvbi1hdC10cmlhbA?oc=5",
         "published": "2024-06-06T05:26:21.000Z",
-        "description": "Hunter Biden\u2019s ex-girlfriend details his crack cocaine addiction at trial&nbsp;&nbsp;Al Jazeera EnglishHunter Biden trial enters day 4 after wild testimony from exes on rampant drug use, trashed hotel rooms&nbsp;&nbsp;Fox NewsHallie Biden could be...",
+        "description": "Hunter Biden\u2019s ex-girlfriend details his crack cocaine addiction at trial&nbsp;&nbsp;Al Jazeera EnglishHunter Biden's trial reopens wounds as family tries to hold tight&nbsp;&nbsp;USA TODAYHunter Biden trial live updates: Gun seller set to take the...",
         "author": [],
         "keywords": [],
         "countries": [],
         "other_countries": [
             "United States",
+            "Japan",
             "Australia"
         ],
         "regions": [],
@@ -7241,17 +7144,34 @@
                 "y": 39.7837304
             },
             {
+                "x": 139.2394179,
+                "y": 36.5748441
+            },
+            {
                 "x": 134.755,
                 "y": -24.7761086
             }
         ]
     },
     {
-        "id": "CBMiWGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9yZXgtaGV1ZXJtYW5uLWdpbGdvLWJlYWNoLW11cmRlci1jaGFyZ2VzLXJjbmExNTU1MjbSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU1NTI2",
-        "title": "Suspect in Gilgo Beach killings expected to face new charges linked to multiple victims - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9yZXgtaGV1ZXJtYW5uLWdpbGdvLWJlYWNoLW11cmRlci1jaGFyZ2VzLXJjbmExNTU1MjbSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU1NTI2?oc=5",
-        "published": "2024-06-05T23:19:31.000Z",
-        "description": "Suspect in Gilgo Beach killings expected to face new charges linked to multiple victims&nbsp;&nbsp;NBC NewsGilgo Beach suspect Rex Heuermann linked to 2 additional deaths, law enforcement sources say&nbsp;&nbsp;ABC NewsGilgo Beach killings suspect...",
+        "id": "CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbi9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbg",
+        "title": "Several Trump running mate contenders have received vetting materials as search heats up - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbi9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wNS9wb2xpdGljcy92aWNlLXByZXNpZGVudC10cnVtcC1lbGVjdGlvbg?oc=5",
+        "published": "2024-06-06T03:51:00.000Z",
+        "description": "Several Trump running mate contenders have received vetting materials as search heats up&nbsp;&nbsp;CNNTrump campaign accelerates vetting of potential running mates&nbsp;&nbsp;Fox NewsTrump VP short list: Doc requests reveal top...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2dpbGdvLWJlYWNoLWxvbmctaXNsYW5kLXNlcmlhbC1raWxsZXItY2QwMTBkYTUwMGJlZGYyYWFiZGVkMzVkMWI5Mzk2MjnSAQA",
+        "title": "Gilgo Beach killings suspect due in court as prosecutors tout 'significant development' in case - The Associated Press",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2dpbGdvLWJlYWNoLWxvbmctaXNsYW5kLXNlcmlhbC1raWxsZXItY2QwMTBkYTUwMGJlZGYyYWFiZGVkMzVkMWI5Mzk2MjnSAQA?oc=5",
+        "published": "2024-06-06T04:13:00.000Z",
+        "description": "Gilgo Beach killings suspect due in court as prosecutors tout 'significant development' in case&nbsp;&nbsp;The Associated PressGilgo Beach killings suspect Rex Heuermann expected to be indicted today on 2 more murder charges, sources...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7320,21 +7240,78 @@
         ]
     },
     {
-        "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jODk5eXE4ODhqZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzg5OXlxODg4amVvLmFtcA",
-        "title": "Robert Fico: Slovak PM blames opposition's 'hatred' for shooting - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jODk5eXE4ODhqZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzg5OXlxODg4amVvLmFtcA?oc=5",
-        "published": "2024-06-06T04:32:26.000Z",
-        "description": "Robert Fico: Slovak PM blames opposition's 'hatred' for shooting&nbsp;&nbsp;BBC.comSlovakia's Fico says he was targeted for Ukraine views, in first speech since assassination attempt&nbsp;&nbsp;The Associated PressSlovak Prime Minister Speaks...",
+        "id": "CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNS9wb2xpdGljcy9nZW9yZ2lhLXRydW1wLWZhbmktd2lsbGlzLXRyaWFsLWRlbGF5L2luZGV4Lmh0bWzSAQA",
+        "title": "Georgia court of appeals indefinitely pauses the election subversion conspiracy case against Donald Trump - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNS9wb2xpdGljcy9nZW9yZ2lhLXRydW1wLWZhbmktd2lsbGlzLXRyaWFsLWRlbGF5L2luZGV4Lmh0bWzSAQA?oc=5",
+        "published": "2024-06-06T03:56:00.000Z",
+        "description": "Georgia court of appeals indefinitely pauses the election subversion conspiracy case against Donald Trump&nbsp;&nbsp;CNNCourt Delays Trump's Georgia Case, and U.N. Warns of 'Climate Hell'&nbsp;&nbsp;The New York TimesGeorgia court puts pause on...",
+        "author": [],
+        "keywords": [],
+        "countries": [
+            "Georgia"
+        ],
+        "other_countries": [
+            "United States"
+        ],
+        "regions": [
+            "Georgia"
+        ],
+        "geometry": [
+            {
+                "x": -83.1137366,
+                "y": 32.3293809
+            }
+        ]
+    },
+    {
+        "id": "CBMidmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8wNi9ueC1zMS00OTk0ODY5L2ZpY28tc2xvdmFraWEtdWtyYWluZS1haWQtYmVoaW5kLWFzc2Fzc2luYXRpb24tYXR0ZW1wdC1maXJzdC1zcGVlY2gtc2luY2XSAQA",
+        "title": "Slovakia's Fico says his views on Ukraine were behind his assassination attempt - NPR",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8wNi9ueC1zMS00OTk0ODY5L2ZpY28tc2xvdmFraWEtdWtyYWluZS1haWQtYmVoaW5kLWFzc2Fzc2luYXRpb24tYXR0ZW1wdC1maXJzdC1zcGVlY2gtc2luY2XSAQA?oc=5",
+        "published": "2024-06-06T06:59:38.000Z",
+        "description": "Slovakia's Fico says his views on Ukraine were behind his assassination attempt&nbsp;&nbsp;NPRSlovak Prime Minister Speaks Publicly for First Time Since Assassination Attempt&nbsp;&nbsp;The New York TimesSlovak PM blames opposition for attempt on...",
+        "author": [],
+        "keywords": [],
+        "countries": [
+            "Ukraine",
+            "Slovakia"
+        ],
+        "other_countries": [
+            "United States",
+            "Jamaica"
+        ],
+        "regions": [
+            "New York"
+        ],
+        "geometry": [
+            {
+                "x": 31.2718321,
+                "y": 49.4871968
+            },
+            {
+                "x": 19.4528646,
+                "y": 48.7411522
+            }
+        ]
+    },
+    {
+        "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjQ0cjl6am5wam_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY240NHI5empucGpvLmFtcA",
+        "title": "Putin warns Russia could provide weapons for others to strike West - BBC.com",
+        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjQ0cjl6am5wam_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY240NHI5empucGpvLmFtcA?oc=5",
+        "published": "2024-06-06T04:34:47.000Z",
+        "description": "Putin warns Russia could provide weapons for others to strike West&nbsp;&nbsp;BBC.comPutin threatens to provide weapons to attack West over Ukraine strikes inside Russia&nbsp;&nbsp;NBC NewsPutin warns West over Ukraine armaments, nuclear...",
         "author": [],
         "keywords": [],
         "countries": [
             "Ukraine"
         ],
         "other_countries": [
-            "France",
+            "Cameroon",
+            "Iceland",
             "United States"
         ],
-        "regions": [],
+        "regions": [
+            "West"
+        ],
         "geometry": [
             {
                 "x": 31.2718321,
@@ -7343,99 +7320,11 @@
         ]
     },
     {
-        "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5uajU2djAydm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRubmo1NnYwMnZvLmFtcA",
-        "title": "India election results 2024: Allies back Modi for third term after setback - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5uajU2djAydm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRubmo1NnYwMnZvLmFtcA?oc=5",
-        "published": "2024-06-06T02:16:43.000Z",
-        "description": "India election results 2024: Allies back Modi for third term after setback&nbsp;&nbsp;BBC.comNarendra Modi invites THESE world leaders to swearing-in ceremony&nbsp;&nbsp;MintWho will get what in next NDA govt? Here's what BJP's allies...",
-        "author": [],
-        "keywords": [],
-        "countries": [
-            "India"
-        ],
-        "other_countries": [],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 78.6677428,
-                "y": 22.3511148
-            }
-        ]
-    },
-    {
-        "id": "CBMiXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaXNyYWVsLWhhbWFzLXdhci1nYXphLWplcnVzYWxlbS1mbGFnLWRheS1tYXJjaC10ZW5zaW9uLWhlemJvbGxhaC_SAWJodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9pc3JhZWwtaGFtYXMtd2FyLWdhemEtamVydXNhbGVtLWZsYWctZGF5LW1hcmNoLXRlbnNpb24taGV6Ym9sbGFoLw",
-        "title": "Tension soars as Israelis march through east Jerusalem, Gaza bombing intensifies and rockets land from Lebanon - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaXNyYWVsLWhhbWFzLXdhci1nYXphLWplcnVzYWxlbS1mbGFnLWRheS1tYXJjaC10ZW5zaW9uLWhlemJvbGxhaC_SAWJodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9pc3JhZWwtaGFtYXMtd2FyLWdhemEtamVydXNhbGVtLWZsYWctZGF5LW1hcmNoLXRlbnNpb24taGV6Ym9sbGFoLw?oc=5",
-        "published": "2024-06-06T01:20:27.000Z",
-        "description": "Tension soars as Israelis march through east Jerusalem, Gaza bombing intensifies and rockets land from Lebanon&nbsp;&nbsp;CBS NewsIsraeli Nationalists, Marching in Jerusalem, Balk at U.S. Cease-Fire Push&nbsp;&nbsp;The Wall Street...",
-        "author": [],
-        "keywords": [],
-        "countries": [
-            "Lebanon"
-        ],
-        "other_countries": [
-            "Israel",
-            "Palestine, State of",
-            "United States",
-            "Netherlands"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": -76.4626118,
-                "y": 40.375713
-            }
-        ]
-    },
-    {
-        "id": "CBMic2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVuLzA2L21leGljby1tYW4tZGllcy1mcm9tLWZpcnN0LWh1bWFuLWNhc2Utb2YtYmlyZC1mbHUtc3RyYWluLWg1bjLSAQA",
-        "title": "Mexico man dies from first human case of bird flu strain H5N2 - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVuLzA2L21leGljby1tYW4tZGllcy1mcm9tLWZpcnN0LWh1bWFuLWNhc2Utb2YtYmlyZC1mbHUtc3RyYWluLWg1bjLSAQA?oc=5",
-        "published": "2024-06-06T02:10:00.000Z",
-        "description": "Mexico man dies from first human case of bird flu strain H5N2&nbsp;&nbsp;The GuardianPerson with bird flu died in Mexico, WHO says&nbsp;&nbsp;Reuters CanadaVideo 1st fatal human case of bird flu subtype confirmed in Mexico: WHO&nbsp;&nbsp;ABC...",
-        "author": [],
-        "keywords": [],
-        "countries": [
-            "Mexico"
-        ],
-        "other_countries": [
-            "United States",
-            "Mexico"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": -99.1331785,
-                "y": 19.4326296
-            }
-        ]
-    },
-    {
-        "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnBwcWQzajYyMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZwcHFkM2o2MjFvLmFtcA",
-        "title": "Nvidia value hits $3tn, overtaking Apple - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnBwcWQzajYyMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZwcHFkM2o2MjFvLmFtcA?oc=5",
-        "published": "2024-06-06T06:51:12.000Z",
-        "description": "Nvidia value hits $3tn, overtaking Apple&nbsp;&nbsp;BBC.comNvidia surpasses Apple to become the second-largest public company in the US&nbsp;&nbsp;CNNNvidia Stock Gains After Passing Apple. Now It's Chasing Microsoft.&nbsp;&nbsp;Barron'sJim Cramer...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [
-            "France"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 1.8883335,
-                "y": 46.603354
-            }
-        ]
-    },
-    {
-        "id": "CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMDYvZXVyb3BlYW4tY2VudHJhbC1iYW5rLWhlYWRzLWZvci1maXJzdC1yYXRlLWN1dC1zaW5jZS0yMDE5LWxpdmUtdXBkYXRlcy5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDYvMDYvZXVyb3BlYW4tY2VudHJhbC1iYW5rLWhlYWRzLWZvci1maXJzdC1yYXRlLWN1dC1zaW5jZS0yMDE5LWxpdmUtdXBkYXRlcy5odG1s",
-        "title": "European Central Bank heads for first rate cut since 2019: Live updates - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMDYvZXVyb3BlYW4tY2VudHJhbC1iYW5rLWhlYWRzLWZvci1maXJzdC1yYXRlLWN1dC1zaW5jZS0yMDE5LWxpdmUtdXBkYXRlcy5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDYvMDYvZXVyb3BlYW4tY2VudHJhbC1iYW5rLWhlYWRzLWZvci1maXJzdC1yYXRlLWN1dC1zaW5jZS0yMDE5LWxpdmUtdXBkYXRlcy5odG1s?oc=5",
-        "published": "2024-06-06T08:30:00.000Z",
-        "description": "European Central Bank heads for first rate cut since 2019: Live updates&nbsp;&nbsp;CNBCECB to start cutting rates even as inflation fight continues&nbsp;&nbsp;ReutersECB to Begin Cuts But Path Beyond Gets Murkier&nbsp;&nbsp;BloombergEurope's Fed...",
+        "id": "CBMiWmh0dHBzOi8vd3d3LmdyZWF0YW5kaHJhLmNvbS9wb2xpdGljcy9hbmRocmEtbmV3cy9jaGFuZHJhYmFidXMtc3VwZXJiLWRlbWFuZHMtdG8tbmRhLTEzODQwMNIBUmh0dHBzOi8vbW9iaS5ncmVhdGFuZGhyYS5jb20vYXJ0aWNsZS9jaGFuZHJhYmFidXMtc3VwZXJiLWRlbWFuZHMtdG8tbmRhLzEzODQwMC9hbXA",
+        "title": "Chandrababu's Superb Demands To NDA.. - Greatandhra",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmdyZWF0YW5kaHJhLmNvbS9wb2xpdGljcy9hbmRocmEtbmV3cy9jaGFuZHJhYmFidXMtc3VwZXJiLWRlbWFuZHMtdG8tbmRhLTEzODQwMNIBUmh0dHBzOi8vbW9iaS5ncmVhdGFuZGhyYS5jb20vYXJ0aWNsZS9jaGFuZHJhYmFidXMtc3VwZXJiLWRlbWFuZHMtdG8tbmRhLzEzODQwMC9hbXA?oc=5",
+        "published": "2024-06-06T08:59:58.000Z",
+        "description": "Chandrababu's Superb Demands To NDA..&nbsp;&nbsp;GreatandhraSpecial Category Status for Andhra Pradesh: Chandrababu Naidu's big demand and the BJP's compulsions&nbsp;&nbsp;The Indian Express\"Why You Got That Doubt\": Chandrababu Naidu Asserts He's...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7444,11 +7333,41 @@
         "geometry": []
     },
     {
-        "id": "CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9vaWwtcmlzZXMtc3RyZW5ndGhlbmluZy1mZWQtcmF0ZS1jdXQtZXhwZWN0YXRpb25zLTIwMjQtMDYtMDYv0gEA",
-        "title": "Oil gains with September US rate cut in sights - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9vaWwtcmlzZXMtc3RyZW5ndGhlbmluZy1mZWQtcmF0ZS1jdXQtZXhwZWN0YXRpb25zLTIwMjQtMDYtMDYv0gEA?oc=5",
-        "published": "2024-06-06T08:52:00.000Z",
-        "description": "Oil gains with September US rate cut in sights&nbsp;&nbsp;ReutersLatest Oil Market News and Analysis for June 6&nbsp;&nbsp;BloombergOil prices rebound from four-month lows after OPEC+ decision triggered selloff&nbsp;&nbsp;CNBCOil Climbs as Traders...",
+        "id": "CBMieGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vcHJvZ3JhbS9uZXdzZmVlZC8yMDI0LzYvNS9wYWxlc3Rpbmlhbi1qb3VybmFsaXN0LWF0dGFja2VkLWJ5LXJpZ2h0LXdpbmctamVydXNhbGVtLWRheS1tYXJjaGVyc9IBfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL3Byb2dyYW0vbmV3c2ZlZWQvMjAyNC82LzUvcGFsZXN0aW5pYW4tam91cm5hbGlzdC1hdHRhY2tlZC1ieS1yaWdodC13aW5nLWplcnVzYWxlbS1kYXktbWFyY2hlcnM",
+        "title": "Nationalist Israelis attack Palestinian journalist on \u2018Jerusalem Day\u2019 - Al Jazeera English",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vcHJvZ3JhbS9uZXdzZmVlZC8yMDI0LzYvNS9wYWxlc3Rpbmlhbi1qb3VybmFsaXN0LWF0dGFja2VkLWJ5LXJpZ2h0LXdpbmctamVydXNhbGVtLWRheS1tYXJjaGVyc9IBfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL3Byb2dyYW0vbmV3c2ZlZWQvMjAyNC82LzUvcGFsZXN0aW5pYW4tam91cm5hbGlzdC1hdHRhY2tlZC1ieS1yaWdodC13aW5nLWplcnVzYWxlbS1kYXktbWFyY2hlcnM?oc=5",
+        "published": "2024-06-05T20:35:57.000Z",
+        "description": "Nationalist Israelis attack Palestinian journalist on \u2018Jerusalem Day\u2019&nbsp;&nbsp;Al Jazeera EnglishIsraeli Nationalists, Marching in Jerusalem, Balk at U.S. Cease-Fire Push&nbsp;&nbsp;The Wall Street JournalIsrael-Gaza live updates: Dozens killed...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [
+            "Israel",
+            "United States",
+            "Netherlands"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 34.8594762,
+                "y": 30.8124247
+            },
+            {
+                "x": -100.445882,
+                "y": 39.7837304
+            },
+            {
+                "x": 5.6343227,
+                "y": 52.2434979
+            }
+        ]
+    },
+    {
+        "id": "CBMiYmh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9udmlkaWEtbHVsdWxlbW9uLWZldmVyLXRyZWUtZ29sZC10cmVuZGluZy10aWNrZXJzLTA4NTgyOTE5MS5odG1s0gEA",
+        "title": "Trending tickers: Nvidia, Lululemon, Fever-Tree and gold - Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9udmlkaWEtbHVsdWxlbW9uLWZldmVyLXRyZWUtZ29sZC10cmVuZGluZy10aWNrZXJzLTA4NTgyOTE5MS5odG1s0gEA?oc=5",
+        "published": "2024-06-06T08:58:29.000Z",
+        "description": "Trending tickers: Nvidia, Lululemon, Fever-Tree and gold&nbsp;&nbsp;Yahoo Finance UKNvidia surpasses Apple to become the second-largest public company in the US&nbsp;&nbsp;CNNNvidia Stock Gains After Passing Apple. Now It's Chasing...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7464,11 +7383,88 @@
         ]
     },
     {
-        "id": "CBMid2h0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy9zdG9jay1tYXJrZXQtbmV3cy9hc2lhbi1zdG9ja3MtYm9vc3RlZC1ieS1yYXRlLWN1dC1iZXRzLXRlY2gtdHJhY2tzLW52aWRpYS1yYWxseS0zNDcyODcz0gEA",
-        "title": "Asian stocks boosted by rate cut bets, tech tracks Nvidia rally By Investing.com - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy9zdG9jay1tYXJrZXQtbmV3cy9hc2lhbi1zdG9ja3MtYm9vc3RlZC1ieS1yYXRlLWN1dC1iZXRzLXRlY2gtdHJhY2tzLW52aWRpYS1yYWxseS0zNDcyODcz0gEA?oc=5",
-        "published": "2024-06-06T02:31:33.000Z",
-        "description": "Asian stocks boosted by rate cut bets, tech tracks Nvidia rally By Investing.com&nbsp;&nbsp;Investing.comView Full Coverage on Google News",
+        "id": "CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2VjYi1iZWdpbi1jdXR0aW5nLXJhdGVzLWV2ZW4taW5mbGF0aW9uLWZpZ2h0LWNvbnRpbnVlcy0yMDI0LTA2LTA1L9IBAA",
+        "title": "ECB to start cutting rates even as inflation fight continues - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2VjYi1iZWdpbi1jdXR0aW5nLXJhdGVzLWV2ZW4taW5mbGF0aW9uLWZpZ2h0LWNvbnRpbnVlcy0yMDI0LTA2LTA1L9IBAA?oc=5",
+        "published": "2024-06-06T06:38:00.000Z",
+        "description": "ECB to start cutting rates even as inflation fight continues&nbsp;&nbsp;ReutersEuropean Central Bank heads for first rate cut since 2019: Live updates&nbsp;&nbsp;CNBCECB to Begin Cuts But Path Beyond Gets Murkier&nbsp;&nbsp;BloombergEurope's Fed...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "CBMia2h0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL3JldGFpbC1jb21wYW55LWluLWNhbGlmb3JuaWEtdXNpbmctYm9keS13b3JuLWNhbWVyYXMtdG8tZGV0ZXItc2hvcGxpZnRlcnMv0gFvaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2NhbGlmb3JuaWEvcmV0YWlsLWNvbXBhbnktaW4tY2FsaWZvcm5pYS11c2luZy1ib2R5LXdvcm4tY2FtZXJhcy10by1kZXRlci1zaG9wbGlmdGVycy9hbXAv",
+        "title": "Retail company in California using body-worn cameras to deter shoplifters - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL3JldGFpbC1jb21wYW55LWluLWNhbGlmb3JuaWEtdXNpbmctYm9keS13b3JuLWNhbWVyYXMtdG8tZGV0ZXItc2hvcGxpZnRlcnMv0gFvaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2NhbGlmb3JuaWEvcmV0YWlsLWNvbXBhbnktaW4tY2FsaWZvcm5pYS11c2luZy1ib2R5LXdvcm4tY2FtZXJhcy10by1kZXRlci1zaG9wbGlmdGVycy9hbXAv?oc=5",
+        "published": "2024-06-06T05:28:09.000Z",
+        "description": "Retail company in California using body-worn cameras to deter shoplifters&nbsp;&nbsp;KTLA Los AngelesTJ Maxx, Marshalls parent equipping employees with body cameras to stop theft&nbsp;&nbsp;Fox BusinessRetailers turn to body cameras to stop...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [
+            "United States",
+            "Trinidad and Tobago",
+            "Brazil",
+            "Mexico"
+        ],
+        "regions": [
+            "California"
+        ],
+        "geometry": [
+            {
+                "x": -100.445882,
+                "y": 39.7837304
+            },
+            {
+                "x": -61.0840075,
+                "y": 10.7466905
+            },
+            {
+                "x": -53.2,
+                "y": -10.3333333
+            },
+            {
+                "x": -99.1331785,
+                "y": 19.4326296
+            }
+        ]
+    },
+    {
+        "id": "CBMicGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS8yMDI0LzA2LzA1L3RydW1wLW1lZGlhLXNlZWtzLWludmVzdGlnYXRpb24tbmFrZWQtc2hvcnQtc2VsbGluZy83Mzk5MTc1MzAwNy_SAQA",
+        "title": "Trump Media wants investigation into alleged 'naked' short selling - USA TODAY",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS8yMDI0LzA2LzA1L3RydW1wLW1lZGlhLXNlZWtzLWludmVzdGlnYXRpb24tbmFrZWQtc2hvcnQtc2VsbGluZy83Mzk5MTc1MzAwNy_SAQA?oc=5",
+        "published": "2024-06-06T00:40:53.000Z",
+        "description": "Trump Media wants investigation into alleged 'naked' short selling&nbsp;&nbsp;USA TODAYTrump Stock Down Amid 'Serious Anomalies'&nbsp;&nbsp;NewsweekTrump Media asks Louisiana to investigate trading of its shares By...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [
+            "United States",
+            "Japan"
+        ],
+        "regions": [
+            "Louisiana"
+        ],
+        "geometry": [
+            {
+                "x": -100.445882,
+                "y": 39.7837304
+            },
+            {
+                "x": 139.2394179,
+                "y": 36.5748441
+            }
+        ]
+    },
+    {
+        "id": "CBMie2h0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9hZnRlci1pdHMtcmVwdXRhdGlvbi13ZW50LXVwLWluLWZsYW1lcy1odW1hbmUtd2FybnMtdXNlcnMtaXRzLWNoYXJnaW5nLWNhc2UtbWF5LXRvby0yMTUxMTkxOTMuaHRtbNIBAA",
+        "title": "After its reputation went up in flames, Humane warns users its charging case may too - Engadget",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9hZnRlci1pdHMtcmVwdXRhdGlvbi13ZW50LXVwLWluLWZsYW1lcy1odW1hbmUtd2FybnMtdXNlcnMtaXRzLWNoYXJnaW5nLWNhc2UtbWF5LXRvby0yMTUxMTkxOTMuaHRtbNIBAA?oc=5",
+        "published": "2024-06-05T21:51:19.000Z",
+        "description": "After its reputation went up in flames, Humane warns users its charging case may too&nbsp;&nbsp;EngadgetHumane warns AI Pin owners to \u201cimmediately\u201d stop using its charging case&nbsp;&nbsp;The VergeHumane urges customers to stop using charging case,...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7490,83 +7486,57 @@
         "geometry": []
     },
     {
-        "id": "CBMiXGh0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNi8wNS93b3JyaWVkLWFib3V0LXByaXZhY3ktd2l0aC1pb3MtMThzLWFpLWZlYXR1cmVzLWFwcGxlLWdldHMtaXQv0gEA",
-        "title": "Worried about privacy with iOS 18\u2019s AI features? Apple gets it and has a plan - 9to5Mac",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNi8wNS93b3JyaWVkLWFib3V0LXByaXZhY3ktd2l0aC1pb3MtMThzLWFpLWZlYXR1cmVzLWFwcGxlLWdldHMtaXQv0gEA?oc=5",
-        "published": "2024-06-05T19:11:00.000Z",
-        "description": "Worried about privacy with iOS 18\u2019s AI features? Apple gets it and has a plan&nbsp;&nbsp;9to5MacWhy Is Apple (AAPL) Teaming Up With OpenAI? Both Companies Need Each Other&nbsp;&nbsp;BloombergHow to Use ChatGPT With Siri on Your...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "CBMiX2h0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL21vYmlsZS90YWJsZXRzLXlvdS1zaG91bGQtYnV5LWluc3RlYWQtb2YtdGhlLWFwcGxlLWlwYWQtcHJvLTIwMjQv0gFjaHR0cHM6Ly93d3cuZGlnaXRhbHRyZW5kcy5jb20vbW9iaWxlL3RhYmxldHMteW91LXNob3VsZC1idXktaW5zdGVhZC1vZi10aGUtYXBwbGUtaXBhZC1wcm8tMjAyNC8_YW1w",
-        "title": "5 tablets you should buy instead of the iPad Pro (2024) - Digital Trends",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL21vYmlsZS90YWJsZXRzLXlvdS1zaG91bGQtYnV5LWluc3RlYWQtb2YtdGhlLWFwcGxlLWlwYWQtcHJvLTIwMjQv0gFjaHR0cHM6Ly93d3cuZGlnaXRhbHRyZW5kcy5jb20vbW9iaWxlL3RhYmxldHMteW91LXNob3VsZC1idXktaW5zdGVhZC1vZi10aGUtYXBwbGUtaXBhZC1wcm8tMjAyNC8_YW1w?oc=5",
-        "published": "2024-06-05T15:00:23.000Z",
-        "description": "5 tablets you should buy instead of the iPad Pro (2024)&nbsp;&nbsp;Digital TrendsApple says M2 iPad Air performance claims are accurate despite GPU mix-up&nbsp;&nbsp;9to5MacApple just corrected the M2 iPad Air's core count&nbsp;&nbsp;The VergeApple...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "CBMiQ2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzYvNS8yNDE3MjEyNi9ub3RoaW5nLXBob25lLTMtYWktZGVtb3PSAQA",
-        "title": "Nothing\u2019s Phone 3 will be all about AI apps - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzYvNS8yNDE3MjEyNi9ub3RoaW5nLXBob25lLTMtYWktZGVtb3PSAQA?oc=5",
-        "published": "2024-06-05T16:26:54.000Z",
-        "description": "Nothing\u2019s Phone 3 will be all about AI apps&nbsp;&nbsp;The VergeNothing Phone (3) won't launch until 2025, but it'll have AI&nbsp;&nbsp;9to5GoogleNothing says it's the Nintendo of phones \u2014 Nothing Phone (3) could be your AI 'best...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "CBMiXWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2FkYW0tbGV2aW5lLWtlbHNlYS1iYWxsZXJpbmktdGhlLXZvaWNlLXNlYXNvbi0yNy0xMjM2MDI2MjIyL9IBYWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2FkYW0tbGV2aW5lLWtlbHNlYS1iYWxsZXJpbmktdGhlLXZvaWNlLXNlYXNvbi0yNy0xMjM2MDI2MjIyL2FtcC8",
-        "title": "Adam Levine, Kelsea Ballerini Join \u2018The Voice\u2019 As Season 27 Coaches - Variety",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2FkYW0tbGV2aW5lLWtlbHNlYS1iYWxsZXJpbmktdGhlLXZvaWNlLXNlYXNvbi0yNy0xMjM2MDI2MjIyL9IBYWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2FkYW0tbGV2aW5lLWtlbHNlYS1iYWxsZXJpbmktdGhlLXZvaWNlLXNlYXNvbi0yNy0xMjM2MDI2MjIyL2FtcC8?oc=5",
-        "published": "2024-06-05T19:00:00.000Z",
-        "description": "Adam Levine, Kelsea Ballerini Join \u2018The Voice\u2019 As Season 27 Coaches&nbsp;&nbsp;VarietyAdam Levine Returning to 'The Voice', Kelsea Ballerini to Make Coaching Debut in Season 27&nbsp;&nbsp;Entertainment TonightAdam Levine is returning to 'The Voice'...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "CBMidWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL25pY29sZS1raWRtYW4tcmVlc2Utd2l0aGVyc3Bvb24tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi10aHJlZS0xMjM1OTE1ODI0L9IBeWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL25pY29sZS1raWRtYW4tcmVlc2Utd2l0aGVyc3Bvb24tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi10aHJlZS0xMjM1OTE1ODI0L2FtcC8",
-        "title": "Nicole Kidman, Reese Witherspoon Say They\u2019re \u201cMoving Fast and Furious\u201d on \u2018Big Little Lies\u2019 Season 3 - Hollywood Reporter",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL25pY29sZS1raWRtYW4tcmVlc2Utd2l0aGVyc3Bvb24tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi10aHJlZS0xMjM1OTE1ODI0L9IBeWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL25pY29sZS1raWRtYW4tcmVlc2Utd2l0aGVyc3Bvb24tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi10aHJlZS0xMjM1OTE1ODI0L2FtcC8?oc=5",
-        "published": "2024-06-05T18:36:38.000Z",
-        "description": "Nicole Kidman, Reese Witherspoon Say They\u2019re \u201cMoving Fast and Furious\u201d on \u2018Big Little Lies\u2019 Season 3&nbsp;&nbsp;Hollywood ReporterNicole Kidman and Reese Witherspoon on 'Big Little Lies' Season 3, Their Hot New Projects, and Their \u201cLifetime\u201d of...",
+        "id": "CBMiU2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzYvNS8yNDE3MjI2Mi9zYW1zdW5nLW1pY3JvbGVkLXR2LTg5LTEwMS0xMTQtaW5jaC0yMDI00gEA",
+        "title": "Samsung's new MicroLED TVs cost up to $150K for a 114-inch - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzYvNS8yNDE3MjI2Mi9zYW1zdW5nLW1pY3JvbGVkLXR2LTg5LTEwMS0xMTQtaW5jaC0yMDI00gEA?oc=5",
+        "published": "2024-06-05T21:17:44.000Z",
+        "description": "Samsung's new MicroLED TVs cost up to $150K for a 114-inch&nbsp;&nbsp;The VergeSamsung Adds Smaller but Still Pricey microLED TV Offerings Starting at $110000&nbsp;&nbsp;CNETA $110,000 MicroLED TV? In this economy?&nbsp;&nbsp;EngadgetSamsung Adds...",
         "author": [],
         "keywords": [],
         "countries": [],
         "other_countries": [
-            "United States"
+            "Korea, Republic of"
         ],
         "regions": [],
         "geometry": [
             {
-                "x": -100.445882,
-                "y": 39.7837304
+                "x": 127.0252053780385,
+                "y": 38.22835925
             }
         ]
+    },
+    {
+        "id": "CBMiOmh0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyNC8wNi8wNS9ub3RoaW5nLXBob25lLTMtMjAyNS1haS_SAQA",
+        "title": "Nothing Phone (3) won't launch until 2025, but it'll have AI - 9to5Google",
+        "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyNC8wNi8wNS9ub3RoaW5nLXBob25lLTMtMjAyNS1haS_SAQA?oc=5",
+        "published": "2024-06-05T16:14:00.000Z",
+        "description": "Nothing Phone (3) won't launch until 2025, but it'll have AI&nbsp;&nbsp;9to5GoogleNothing\u2019s Phone 3 will be all about AI apps&nbsp;&nbsp;The VergeNothing Phone (3) confirmed to arrive next year featuring unique AI...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "CBMicmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL25pY29sZS1raWRtYW4tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi0zLWdvb2Qtc2hhcGUtbGlhbmUtbW9yaWFydHktYm9vay0xMjM2MDI2MjczL9IBdmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL25pY29sZS1raWRtYW4tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi0zLWdvb2Qtc2hhcGUtbGlhbmUtbW9yaWFydHktYm9vay0xMjM2MDI2MjczL2FtcC8",
+        "title": "Nicole Kidman Says \u2018Big Little Lies\u2019 Season 3 Is in \u2018Good Shape\u2019 and Moving Ahead \u2018Fast and Furious\u2019: Author Liane Moriarty \u2018Is Delivering the Book\u2019 - Variety",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL25pY29sZS1raWRtYW4tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi0zLWdvb2Qtc2hhcGUtbGlhbmUtbW9yaWFydHktYm9vay0xMjM2MDI2MjczL9IBdmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL25pY29sZS1raWRtYW4tYmlnLWxpdHRsZS1saWVzLXNlYXNvbi0zLWdvb2Qtc2hhcGUtbGlhbmUtbW9yaWFydHktYm9vay0xMjM2MDI2MjczL2FtcC8?oc=5",
+        "published": "2024-06-05T22:18:00.000Z",
+        "description": "Nicole Kidman Says \u2018Big Little Lies\u2019 Season 3 Is in \u2018Good Shape\u2019 and Moving Ahead \u2018Fast and Furious\u2019: Author Liane Moriarty \u2018Is Delivering the Book\u2019&nbsp;&nbsp;VarietyNicole Kidman and Reese Witherspoon on 'Big Little Lies' Season 3, Their Hot New...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
     },
     {
         "id": "CBMiXGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW5pbWFsLW5ld3MvZ2lyYWZmZS1saWZ0cy10b2RkbGVyLXBpY2t1cC10cnVjay10ZXhhcy1yY25hMTU1Nzc30gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE1NTc3Nw",
         "title": "Giraffe lifts toddler out of a pickup truck at Texas wildlife center - NBC News",
         "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW5pbWFsLW5ld3MvZ2lyYWZmZS1saWZ0cy10b2RkbGVyLXBpY2t1cC10cnVjay10ZXhhcy1yY25hMTU1Nzc30gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE1NTc3Nw?oc=5",
         "published": "2024-06-06T03:12:00.000Z",
-        "description": "Giraffe lifts toddler out of a pickup truck at Texas wildlife center&nbsp;&nbsp;NBC News\u2018My heart stopped\u2019: Fossil Rim giraffe accidentally picks up toddler during drive-thru safari&nbsp;&nbsp;KWTXVideo: Giraffe picks toddler up from truck at Texas...",
+        "description": "Giraffe lifts toddler out of a pickup truck at Texas wildlife center&nbsp;&nbsp;NBC News\u2018My heart stopped\u2019: Fossil Rim giraffe accidentally picks up toddler during drive-thru safari&nbsp;&nbsp;KWTXHungry giraffe lifts toddler out of truck at...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7584,11 +7554,49 @@
         ]
     },
     {
+        "id": "CBMicWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNi8wNS9lbnRlcnRhaW5tZW50L2pheC10YXlsb3ItY2xhaW1zLWhlLWFuZC1icml0dGFueS1jYXJ0d3JpZ2h0LWFyZS13b3JraW5nLXRoaW5ncy1vdXQv0gF1aHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDI0LzA2LzA1L2VudGVydGFpbm1lbnQvamF4LXRheWxvci1jbGFpbXMtaGUtYW5kLWJyaXR0YW55LWNhcnR3cmlnaHQtYXJlLXdvcmtpbmctdGhpbmdzLW91dC9hbXAv",
+        "title": "Jax Taylor claims he and Brittany Cartwright are 'working things out' hours after saying she's moved on - Page Six",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNi8wNS9lbnRlcnRhaW5tZW50L2pheC10YXlsb3ItY2xhaW1zLWhlLWFuZC1icml0dGFueS1jYXJ0d3JpZ2h0LWFyZS13b3JraW5nLXRoaW5ncy1vdXQv0gF1aHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDI0LzA2LzA1L2VudGVydGFpbm1lbnQvamF4LXRheWxvci1jbGFpbXMtaGUtYW5kLWJyaXR0YW55LWNhcnR3cmlnaHQtYXJlLXdvcmtpbmctdGhpbmdzLW91dC9hbXAv?oc=5",
+        "published": "2024-06-06T03:13:00.000Z",
+        "description": "Jax Taylor claims he and Brittany Cartwright are 'working things out' hours after saying she's moved on&nbsp;&nbsp;Page SixBrittany Cartwright Details \"Horrible\" Insults Jax Taylor Called Her Before Breakup&nbsp;&nbsp;E! NEWSThe Valley Season 1...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [
+            "United States",
+            "Canada"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": -100.445882,
+                "y": 39.7837304
+            },
+            {
+                "x": -107.991707,
+                "y": 61.0666922
+            }
+        ]
+    },
+    {
         "id": "CBMiV2h0dHBzOi8vd3d3LmVhdGVyLmNvbS8yNDE3MTY3MS93b3JsZHMtNTAtYmVzdC1yZXN0YXVyYW50cy0yMDI0LXRoZS1mdWxsLWxpc3Qtb2Ytd2lubmVyc9IBAA",
         "title": "The World\u2019s 50 Best Restaurants 2024: The Full List of Winners - Eater",
         "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmVhdGVyLmNvbS8yNDE3MTY3MS93b3JsZHMtNTAtYmVzdC1yZXN0YXVyYW50cy0yMDI0LXRoZS1mdWxsLWxpc3Qtb2Ytd2lubmVyc9IBAA?oc=5",
         "published": "2024-06-06T05:28:10.000Z",
-        "description": "The World\u2019s 50 Best Restaurants 2024: The Full List of Winners&nbsp;&nbsp;EaterWorld\u2019s best restaurant for 2024 revealed&nbsp;&nbsp;CNNThe World's 50 Best Restaurants 2024: the list revealed&nbsp;&nbsp;The World's 50 Best RestaurantsRanked: 'The...",
+        "description": "The World\u2019s 50 Best Restaurants 2024: The Full List of Winners&nbsp;&nbsp;EaterWorld\u2019s best restaurant for 2024 revealed&nbsp;&nbsp;CNNHere Are the 50 Best Restaurants in the World for 2024&nbsp;&nbsp;Robb ReportThe World's 50 Best Restaurants...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "CBMijQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy1maXZlLWJvbGQtcHJlZGljdGlvbnMtZm9yLWNlbHRpY3MtdnMtbWF2ZXJpY2tzLXdpdGgtdGlnaHQtc2VyaWVzLWVuZGluZy1pbi1oaXN0b3JpYy11cHNldC_SAZEBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9uYmEvbmV3cy8yMDI0LW5iYS1maW5hbHMtZml2ZS1ib2xkLXByZWRpY3Rpb25zLWZvci1jZWx0aWNzLXZzLW1hdmVyaWNrcy13aXRoLXRpZ2h0LXNlcmllcy1lbmRpbmctaW4taGlzdG9yaWMtdXBzZXQvYW1wLw",
+        "title": "2024 NBA Finals: Five bold predictions for Celtics vs. Mavericks, with tight series ending in historic upset - CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy1maXZlLWJvbGQtcHJlZGljdGlvbnMtZm9yLWNlbHRpY3MtdnMtbWF2ZXJpY2tzLXdpdGgtdGlnaHQtc2VyaWVzLWVuZGluZy1pbi1oaXN0b3JpYy11cHNldC_SAZEBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9uYmEvbmV3cy8yMDI0LW5iYS1maW5hbHMtZml2ZS1ib2xkLXByZWRpY3Rpb25zLWZvci1jZWx0aWNzLXZzLW1hdmVyaWNrcy13aXRoLXRpZ2h0LXNlcmllcy1lbmRpbmctaW4taGlzdG9yaWMtdXBzZXQvYW1wLw?oc=5",
+        "published": "2024-06-06T06:31:00.000Z",
+        "description": "2024 NBA Finals: Five bold predictions for Celtics vs. Mavericks, with tight series ending in historic upset&nbsp;&nbsp;CBS SportsLowe: The juicy subplots that could tilt this Mavericks-Celtics NBA Finals -- and who should win&nbsp;&nbsp;ESPN5...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7600,8 +7608,8 @@
         "id": "CBMidWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9wYXVsLXNrZW5lcy1ibG93cy1hd2F5LXNob2hlaS1vaHRhbmktd2hvLXJldHVybnMtdGhlLWZhdm9yLWluLWhpcy1uZXh0LWF0LWJhdC0yMzU0MjM2NDguaHRtbNIBAA",
         "title": "Paul Skenes blows away Shohei Ohtani, who returns the favor in his next at-bat - Yahoo Sports",
         "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9wYXVsLXNrZW5lcy1ibG93cy1hd2F5LXNob2hlaS1vaHRhbmktd2hvLXJldHVybnMtdGhlLWZhdm9yLWluLWhpcy1uZXh0LWF0LWJhdC0yMzU0MjM2NDguaHRtbNIBAA?oc=5",
-        "published": "2024-06-06T05:44:00.000Z",
-        "description": "Paul Skenes blows away Shohei Ohtani, who returns the favor in his next at-bat&nbsp;&nbsp;Yahoo SportsSkenes vs. Ohtani duel steals show, but Pirates beat Dodgers&nbsp;&nbsp;ESPNShohei Ohtani vs. Paul Skenes lives up to the hype: 'That's why we...",
+        "published": "2024-06-06T05:44:48.000Z",
+        "description": "Paul Skenes blows away Shohei Ohtani, who returns the favor in his next at-bat&nbsp;&nbsp;Yahoo SportsSkenes vs. Ohtani duel steals show, but Pirates beat Dodgers&nbsp;&nbsp;ESPNBucs Arghticles: Pirates beat Dodgers as Paul Skenes, Shohei Ohtani...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7657,43 +7665,11 @@
         ]
     },
     {
-        "id": "CBMic2h0dHBzOi8vd3d3Lm5iYS5jb20vY2VsdGljcy9uZXdzL3NpZGViYXItcHJhYy0yMDI0MDYwNS1icm93bi10YXR1bS1mZWVsLWEtbG90LWRpZmZlcmVudC1oZWFkaW5nLWludG8tMm5kLW5iYS1maW5hbHPSAQA",
-        "title": "Brown, Tatum 'Feel a Lot Different' Heading into 2nd NBA Finals - NBA.com",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5iYS5jb20vY2VsdGljcy9uZXdzL3NpZGViYXItcHJhYy0yMDI0MDYwNS1icm93bi10YXR1bS1mZWVsLWEtbG90LWRpZmZlcmVudC1oZWFkaW5nLWludG8tMm5kLW5iYS1maW5hbHPSAQA?oc=5",
-        "published": "2024-06-05T21:23:00.000Z",
-        "description": "Brown, Tatum 'Feel a Lot Different' Heading into 2nd NBA Finals&nbsp;&nbsp;NBA.comTatum admits Finals pressure, wants to 'enjoy it'&nbsp;&nbsp;ESPNJayson Tatum and Jaylen Brown relish the opportunity to prove their critics wrong in the NBA...",
-        "author": [],
-        "keywords": [],
-        "countries": [],
-        "other_countries": [
-            "France",
-            "United States",
-            "Belgium"
-        ],
-        "regions": [
-            "Lot"
-        ],
-        "geometry": [
-            {
-                "x": 1.8883335,
-                "y": 46.603354
-            },
-            {
-                "x": -100.445882,
-                "y": 39.7837304
-            },
-            {
-                "x": 4.6667145,
-                "y": 50.6402809
-            }
-        ]
-    },
-    {
-        "id": "CBMieWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vd25iYS9uZXdzL2NoZW5uZWR5LWNhcnRlci1jaGljYWdvLXNreS1wbGF5ZXJzLWhhcmFzc2VkLW91dHNpZGUtb2YtdGVhbS1ob3RlbC1pbi13YXNoaW5ndG9uLWQtYy_SAX1odHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3duYmEvbmV3cy9jaGVubmVkeS1jYXJ0ZXItY2hpY2Fnby1za3ktcGxheWVycy1oYXJhc3NlZC1vdXRzaWRlLW9mLXRlYW0taG90ZWwtaW4td2FzaGluZ3Rvbi1kLWMvYW1wLw",
-        "title": "Chennedy Carter, Chicago Sky players harassed outside of team hotel in Washington, D.C. - CBS Sports",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vd25iYS9uZXdzL2NoZW5uZWR5LWNhcnRlci1jaGljYWdvLXNreS1wbGF5ZXJzLWhhcmFzc2VkLW91dHNpZGUtb2YtdGVhbS1ob3RlbC1pbi13YXNoaW5ndG9uLWQtYy_SAX1odHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3duYmEvbmV3cy9jaGVubmVkeS1jYXJ0ZXItY2hpY2Fnby1za3ktcGxheWVycy1oYXJhc3NlZC1vdXRzaWRlLW9mLXRlYW0taG90ZWwtaW4td2FzaGluZ3Rvbi1kLWMvYW1wLw?oc=5",
-        "published": "2024-06-06T04:26:44.000Z",
-        "description": "Chennedy Carter, Chicago Sky players harassed outside of team hotel in Washington, D.C.&nbsp;&nbsp;CBS SportsSecurity steps in between man, Sky's Chennedy Carter at team hotel&nbsp;&nbsp;ESPNChicago Sky players report harassment at team hotel after...",
+        "id": "CBMiX2h0dHBzOi8vd3d3LmVzcG4uY29tL3duYmEvc3RvcnkvXy9pZC80MDI4ODQwNC9zZWN1cml0eS1zdGVwcy1tYW4tc2t5LWNoZW5uZWR5LWNhcnRlci10ZWFtLWhvdGVs0gEA",
+        "title": "Security steps in between man, Sky's Chennedy Carter at team hotel - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmVzcG4uY29tL3duYmEvc3RvcnkvXy9pZC80MDI4ODQwNC9zZWN1cml0eS1zdGVwcy1tYW4tc2t5LWNoZW5uZWR5LWNhcnRlci10ZWFtLWhvdGVs0gEA?oc=5",
+        "published": "2024-06-06T03:03:00.000Z",
+        "description": "Security steps in between man, Sky's Chennedy Carter at team hotel&nbsp;&nbsp;ESPNSky 'harassed' by man arriving to the team hotel in Washington&nbsp;&nbsp;Chicago Sun-TimesChicago Sky players report harassment at team hotel after Chennedy Carter's...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7720,33 +7696,89 @@
         "title": "What time is SpaceX's Starship Flight 4 launch test today? - Space.com",
         "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnNwYWNlLmNvbS9zcGFjZXgtc3RhcnNoaXAtZmxpZ2h0LTQtbGF1bmNoLXdoYXQtdGltZdIBAA?oc=5",
         "published": "2024-06-06T09:11:33.000Z",
-        "description": "What time is SpaceX's Starship Flight 4 launch test today?&nbsp;&nbsp;Space.comWatch SpaceX launch 4th test flight of Starship megarocket today&nbsp;&nbsp;Space.comElon Musk's SpaceX Launches Fourth Test Of Starship Rocket Today\u2014How To Watch And...",
+        "description": "What time is SpaceX's Starship Flight 4 launch test today?&nbsp;&nbsp;Space.comWatch SpaceX launch 4th test flight of Starship megarocket today&nbsp;&nbsp;Space.comSpaceX Florida rocket launch at night: Best places to watch from...",
         "author": [],
         "keywords": [],
         "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
+        "other_countries": [
+            "United States",
+            "Uruguay",
+            "Puerto Rico",
+            "Argentina",
+            "Jamaica"
+        ],
+        "regions": [
+            "Florida"
+        ],
+        "geometry": [
+            {
+                "x": -100.445882,
+                "y": 39.7837304
+            },
+            {
+                "x": -56.0201525,
+                "y": -32.8755548
+            },
+            {
+                "x": -66.4858295,
+                "y": 18.2247706
+            },
+            {
+                "x": -64.9672817,
+                "y": -34.9964963
+            },
+            {
+                "x": -77.3947693,
+                "y": 18.1850507
+            }
+        ]
     },
     {
         "id": "CBMibmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NwYWNlLzIwMjQvMDYvYWZ0ZXItYS1zdWNjZXNzZnVsLWxhdW5jaC1ib2VpbmdzLXN0YXJsaW5lci1ydW5zLWludG8tbW9yZS1oZWxpdW0tbGVha3Mv0gEA",
         "title": "Boeing's Starliner finally soars, but mission control reports more helium leaks - Ars Technica",
         "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NwYWNlLzIwMjQvMDYvYWZ0ZXItYS1zdWNjZXNzZnVsLWxhdW5jaC1ib2VpbmdzLXN0YXJsaW5lci1ydW5zLWludG8tbW9yZS1oZWxpdW0tbGVha3Mv0gEA?oc=5",
         "published": "2024-06-06T06:39:20.000Z",
-        "description": "Boeing's Starliner finally soars, but mission control reports more helium leaks&nbsp;&nbsp;Ars TechnicaView Full Coverage on Google News",
+        "description": "Boeing's Starliner finally soars, but mission control reports more helium leaks&nbsp;&nbsp;Ars TechnicaBoeing Starliner team detects new helium leaks en route to space station&nbsp;&nbsp;CNNWatch Boeing's Starliner arrive at ISS today on historic...",
         "author": [],
         "keywords": [],
         "countries": [],
-        "other_countries": [],
+        "other_countries": [
+            "France"
+        ],
         "regions": [],
-        "geometry": []
+        "geometry": [
+            {
+                "x": 1.8883335,
+                "y": 46.603354
+            }
+        ]
+    },
+    {
+        "id": "CBMiRWh0dHBzOi8vZnV0dXJpc20uY29tL3RoZS1ieXRlL25hc2EtcmVqZWN0LWJpbGxpb25haXJlLXBsYW4tZml4LWh1YmJsZdIBAA",
+        "title": "NASA Slaps Down Billionaire's Plan to Fly Up and Fix Hubble Space Telescope - Futurism",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZnV0dXJpc20uY29tL3RoZS1ieXRlL25hc2EtcmVqZWN0LWJpbGxpb25haXJlLXBsYW4tZml4LWh1YmJsZdIBAA?oc=5",
+        "published": "2024-06-05T17:34:31.000Z",
+        "description": "NASA Slaps Down Billionaire's Plan to Fly Up and Fix Hubble Space Telescope&nbsp;&nbsp;FuturismNASA Rejects Hubble Space Telescope Rescue Mission and Trims Its Science&nbsp;&nbsp;Scientific AmericanThe Hubble Space Telescope has lost a majority of...",
+        "author": [],
+        "keywords": [],
+        "countries": [],
+        "other_countries": [
+            "Japan"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 139.2394179,
+                "y": 36.5748441
+            }
+        ]
     },
     {
         "id": "CCAiC1ZoUGdPRVJZX28wmAEB",
         "title": "China Leaves Patriotic 'Graffiti' on Lunar Surface - Bloomberg Television",
         "link": "https://news.google.com/rss/articles/CCAiC1ZoUGdPRVJZX28wmAEB?oc=5",
         "published": "2024-06-05T04:31:35.000Z",
-        "description": "China Leaves Patriotic 'Graffiti' on Lunar Surface&nbsp;&nbsp;Bloomberg TelevisionChina's Chang'e-6 transfers moon samples to spacecraft, set for return to Earth&nbsp;&nbsp;Yahoo! VoicesChina's Chang'e-6 selfie from moon's far side taken with...",
+        "description": "China Leaves Patriotic 'Graffiti' on Lunar Surface&nbsp;&nbsp;Bloomberg TelevisionChinese flag unfurled on the far side of the moon as craft lifts off with lunar rocks&nbsp;&nbsp;NBC NewsChina Focus: China's Chang'e-6 completes docking in lunar...",
         "author": [],
         "keywords": [],
         "countries": [
@@ -7766,23 +7798,33 @@
         ]
     },
     {
-        "id": "CBMibmh0dHBzOi8vd3d3LmVzYS5pbnQvRW5hYmxpbmdfU3VwcG9ydC9TcGFjZV9UcmFuc3BvcnRhdGlvbi9BcmlhbmUvQXJpYW5lXzZfaW5hdWd1cmFsX2xhdW5jaF90YXJnZXRlZF9mb3JfOV9KdWx50gEA",
-        "title": "ESA - Ariane 6 inaugural launch targeted for 9 July - European Space Agency",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmVzYS5pbnQvRW5hYmxpbmdfU3VwcG9ydC9TcGFjZV9UcmFuc3BvcnRhdGlvbi9BcmlhbmUvQXJpYW5lXzZfaW5hdWd1cmFsX2xhdW5jaF90YXJnZXRlZF9mb3JfOV9KdWx50gEA?oc=5",
-        "published": "2024-06-06T09:16:37.000Z",
-        "description": "ESA - Ariane 6 inaugural launch targeted for 9 July&nbsp;&nbsp;European Space AgencyFirst Ariane 6 launch set for July 9&nbsp;&nbsp;SpaceNewsAriane 6 launches SIDLOC: opening up tools for safer space&nbsp;&nbsp;European Space AgencyEurope's...",
+        "id": "CBMiYGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSGVhbHRoLzFzdC1mYXRhbC1odW1hbi1jYXNlLWJpcmQtZmx1LXN1YnR5cGUtY29uZmlybWVkL3N0b3J5P2lkPTExMDg3NTM4NNIBZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0hlYWx0aC8xc3QtZmF0YWwtaHVtYW4tY2FzZS1iaXJkLWZsdS1zdWJ0eXBlLWNvbmZpcm1lZC9zdG9yeT9pZD0xMTA4NzUzODQ",
+        "title": "1st fatal human case of bird flu subtype confirmed in Mexico: WHO - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSGVhbHRoLzFzdC1mYXRhbC1odW1hbi1jYXNlLWJpcmQtZmx1LXN1YnR5cGUtY29uZmlybWVkL3N0b3J5P2lkPTExMDg3NTM4NNIBZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0hlYWx0aC8xc3QtZmF0YWwtaHVtYW4tY2FzZS1iaXJkLWZsdS1zdWJ0eXBlLWNvbmZpcm1lZC9zdG9yeT9pZD0xMTA4NzUzODQ?oc=5",
+        "published": "2024-06-06T10:20:09.000Z",
+        "description": "1st fatal human case of bird flu subtype confirmed in Mexico: WHO&nbsp;&nbsp;ABC NewsWHO confirms first death in Mexico from bird flu never seen in humans&nbsp;&nbsp;NBC NewsVideo 1st fatal human case of bird flu subtype confirmed in Mexico:...",
         "author": [],
         "keywords": [],
-        "countries": [],
-        "other_countries": [],
+        "countries": [
+            "Mexico"
+        ],
+        "other_countries": [
+            "United States",
+            "Mexico"
+        ],
         "regions": [],
-        "geometry": []
+        "geometry": [
+            {
+                "x": -99.1331785,
+                "y": 19.4326296
+            }
+        ]
     },
     {
         "id": "CBMiTGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wNi8wNi9jb3ZpZC1jYW5jZXItaW5jcmVhc2UtbGluay_SAQA",
         "title": "'Unusual' cancers emerged after the pandemic. Doctors ask if covid is to blame. - The Washington Post",
         "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wNi8wNi9jb3ZpZC1jYW5jZXItaW5jcmVhc2UtbGluay_SAQA?oc=5",
-        "published": "2024-06-06T09:28:55.000Z",
+        "published": "2024-06-06T10:59:27.000Z",
         "description": "'Unusual' cancers emerged after the pandemic. Doctors ask if covid is to blame.&nbsp;&nbsp;The Washington Post",
         "author": [],
         "keywords": [],
@@ -7809,7 +7851,7 @@
         "title": "First case of rare, sexually transmitted form of ringworm reported in the U.S. - Yahoo! Voices",
         "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL2ZpcnN0LWNhc2UtcmFyZS1zZXh1YWxseS10cmFuc21pdHRlZC0xOTUxMzUwNzUuaHRtbNIBAA?oc=5",
         "published": "2024-06-05T19:51:35.000Z",
-        "description": "First case of rare, sexually transmitted form of ringworm reported in the U.S.&nbsp;&nbsp;Yahoo! VoicesNew sexually transmitted fungal infection detected in NYC \u2014 the first case in the US&nbsp;&nbsp;New York Post Experts alert doctors and the...",
+        "description": "First case of rare, sexually transmitted form of ringworm reported in the U.S.&nbsp;&nbsp;Yahoo! VoicesNew sexually transmitted fungal infection detected in NYC \u2014 the first case in the US&nbsp;&nbsp;New York Post First case of 'highly contagious'...",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7837,11 +7879,59 @@
         ]
     },
     {
-        "id": "CBMigQFodHRwczovL3d3dy55YWhvby5jb20vbGlmZXN0eWxlL2h1bWFucy1jYW4tY2F0Y2gtYmlyZC1mbHUtYnV0LW5vdC1lYXNpbHktd2hhdC1leHBlcnRzLXNheS1hYm91dC1zeW1wdG9tcy1hbmQtcmlza3MtMjE1NjMzNDc2Lmh0bWzSAQA",
-        "title": "Humans can catch bird flu, but not easily. What experts say about symptoms and risks - Yahoo Life",
-        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy55YWhvby5jb20vbGlmZXN0eWxlL2h1bWFucy1jYW4tY2F0Y2gtYmlyZC1mbHUtYnV0LW5vdC1lYXNpbHktd2hhdC1leHBlcnRzLXNheS1hYm91dC1zeW1wdG9tcy1hbmQtcmlza3MtMjE1NjMzNDc2Lmh0bWzSAQA?oc=5",
-        "published": "2024-06-05T22:03:13.000Z",
-        "description": "Humans can catch bird flu, but not easily. What experts say about symptoms and risks&nbsp;&nbsp;Yahoo LifeCDC says third person infected with bird flu \u2014 with a new symptom&nbsp;&nbsp;NBC NewsStudy Finds First Known Case Of Bird Flu Mammal-To-Mammal...",
+        "id": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
+        "title": "D-Day at 80",
+        "link": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
+        "published": "2024-06-06T07:33:37.000Z",
+        "description": "Veterans of the pivotal battle of World War II are disappearing. Europe, facing new conflict, recalls what their comrades died for.",
+        "author": [],
+        "keywords": [
+            "vis-photo",
+            "World War II (1939-45)",
+            "Veterans",
+            "Normandy (France)",
+            "France",
+            "Europe",
+            "Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "United States Army"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/06/world/europe/biden-dday-ukraine-russia.html",
+        "title": "Biden Will Link Fight for Ukraine With Allied Effort on D-Day",
+        "link": "https://www.nytimes.com/2024/06/06/world/europe/biden-dday-ukraine-russia.html",
+        "published": "2024-06-06T10:57:54.000Z",
+        "description": "President Biden sees similar principles at stake in both conflicts: the defense of freedom and a rules-based international order.",
+        "author": [],
+        "keywords": [
+            "Biden, Joseph R Jr",
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "France",
+            "Europe",
+            "Normandy (France)",
+            "United States International Relations",
+            "World War II (1939-45)",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
+        "title": "Middle East Crisis: Israeli Airstrike on School Kills Dozens in Gaza",
+        "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
+        "published": "2024-06-06T10:39:38.000Z",
+        "description": "The country\u2019s military said it had targeted Hamas operatives.  Palestinian media said dozens of displaced civilians who had been sheltering there died.",
         "author": [],
         "keywords": [],
         "countries": [],
@@ -7850,17 +7940,31 @@
         "geometry": []
     },
     {
-        "id": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
-        "title": "Middle East Crisis: Israel Starts New Offensive in Central Gaza; Dozens Reported Dead",
-        "link": "https://www.nytimes.com/live/2024/06/05/world/israel-gaza-war-hamas",
-        "published": "2024-06-06T07:04:32.000Z",
-        "description": "Israel said it launched operations \u201cabove and below ground\u201d against Hamas militants. The only hospital in the area is overwhelmed with wounded, medics say.",
+        "id": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-detention-base.html",
+        "title": "Inside Sde Teiman, the Base Where Israel Detains Gazans",
+        "link": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-detention-base.html",
+        "published": "2024-06-06T04:01:30.000Z",
+        "description": "Since Israel invaded Gaza, the Sde Teiman military base has filled with blindfolded, handcuffed detainees, held without charge or legal representation.",
         "author": [],
-        "keywords": [],
+        "keywords": [
+            "Israel-Gaza War (2023- )",
+            "Palestinians",
+            "Defense and Military Forces",
+            "Civilian Casualties",
+            "Military Bases and Installations",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Detainees",
+            "Hamas",
+            "Israel",
+            "Gaza Strip",
+            "Sde Teiman (Israeli military base)"
+        ],
         "countries": [
             "Israel"
         ],
-        "other_countries": [],
+        "other_countries": [
+            "Palestine, State of"
+        ],
         "regions": [],
         "geometry": [
             {
@@ -7868,6 +7972,112 @@
                 "y": 30.8124247
             }
         ]
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/06/world/europe/ukraine-war-russia-sumy.html",
+        "title": "A Ukrainian City Becomes a Target of a New Russian Offensive",
+        "link": "https://www.nytimes.com/2024/06/06/world/europe/ukraine-war-russia-sumy.html",
+        "published": "2024-06-06T09:01:04.000Z",
+        "description": "Residents of Sumy, in northeastern Ukraine, repelled Moscow\u2019s forces in 2022. Now, after months of punishing airstrikes, Ukrainian officials say the Kremlin is preparing a new offensive.",
+        "author": [],
+        "keywords": [
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Russian Invasion of Ukraine (2022)",
+            "Sumy (Ukraine)"
+        ],
+        "countries": [
+            "Ukraine"
+        ],
+        "other_countries": [
+            "Ukraine",
+            "United States"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 31.2718321,
+                "y": 49.4871968
+            }
+        ]
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/06/world/global-elections-india-turkey-democracy.html",
+        "title": "In Global Elections, Strongmen Are Taken Down a Notch",
+        "link": "https://www.nytimes.com/2024/06/06/world/global-elections-india-turkey-democracy.html",
+        "published": "2024-06-06T05:29:14.000Z",
+        "description": "In Turkey, India and elsewhere, where some feared authoritarian leaders would consolidate power, democracy has proved surprisingly resilient.",
+        "author": [],
+        "keywords": [
+            "Politics and Government",
+            "Democracy (Theory and Philosophy)",
+            "Elections",
+            "Right-Wing Extremism and Alt-Right",
+            "Hinduism",
+            "African National Congress",
+            "Bharatiya Janata Party",
+            "Conservative Party (Great Britain)",
+            "European Parliament",
+            "Indian National Congress",
+            "Erdogan, Recep Tayyip",
+            "Farage, Nigel (1964- )",
+            "Lopez Obrador, Andres Manuel",
+            "Modi, Narendra",
+            "Sheinbaum, Claudia",
+            "India",
+            "Turkey",
+            "South Africa",
+            "Poland"
+        ],
+        "countries": [
+            "India"
+        ],
+        "other_countries": [
+            "United States"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 78.6677428,
+                "y": 22.3511148
+            }
+        ]
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/06/world/europe/czech-train-crash.html",
+        "title": "Train Crash in Czech Republic Kills 4, Injures More Than 20",
+        "link": "https://www.nytimes.com/2024/06/06/world/europe/czech-train-crash.html",
+        "published": "2024-06-06T10:56:44.000Z",
+        "description": "The passenger train was traveling overnight when it hit a freight train.",
+        "author": [],
+        "keywords": [
+            "Czech Republic",
+            "Railroad Accidents and Safety",
+            "Deaths (Fatalities)",
+            "Freight (Cargo)"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/06/world/asia/papua-new-guinea-landslide-victims-search.html",
+        "title": "Papua New Guinea to End Search for Landslide Victims",
+        "link": "https://www.nytimes.com/2024/06/06/world/asia/papua-new-guinea-landslide-victims-search.html",
+        "published": "2024-06-06T11:02:42.000Z",
+        "description": "The death toll remained unclear weeks after the tragedy, but there are signs the number of victims may have been much lower than previously thought.",
+        "author": [],
+        "keywords": [
+            "Papua New Guinea",
+            "Landslides and Mudslides"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
     },
     {
         "id": "https://www.nytimes.com/2024/06/05/world/africa/sudan-khartoum-darfur-war.html",
@@ -7900,36 +8110,6 @@
             {
                 "x": 6.5,
                 "y": 10.9
-            }
-        ]
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/05/world/europe/israel-gaza-cease-fire-negotiations.html",
-        "title": "Getting a Cease-Fire in Gaza Has Been Hard. Fulfilling One Will Be Harder.",
-        "link": "https://www.nytimes.com/2024/06/05/world/europe/israel-gaza-cease-fire-negotiations.html",
-        "published": "2024-06-05T23:18:35.000Z",
-        "description": "The proposal backed by President Biden is deeply political and aims at stopping the war at least for now. But Israel rejects a permanent cease-fire and Hamas has its own reasons for reluctance.",
-        "author": [],
-        "keywords": [
-            "Israel-Gaza War (2023- )",
-            "Palestinians",
-            "Hamas",
-            "Biden, Joseph R Jr",
-            "Hamdan, Osama",
-            "Netanyahu, Benjamin",
-            "Sinwar, Yehya",
-            "Gaza Strip",
-            "Israel"
-        ],
-        "countries": [
-            "Israel"
-        ],
-        "other_countries": [],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 34.8594762,
-                "y": 30.8124247
             }
         ]
     },
@@ -7967,75 +8147,6 @@
         ]
     },
     {
-        "id": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
-        "title": "Narendra Modi Fell to Earth After Making It All About Himself",
-        "link": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
-        "published": "2024-06-05T16:00:52.000Z",
-        "description": "The Indian leader used his singular persona to lift his party to new heights. Then the opposition found a way to use his cult of personality against him.",
-        "author": [],
-        "keywords": [
-            "Politics and Government",
-            "Elections",
-            "Democracy (Theory and Philosophy)",
-            "Bharatiya Janata Party",
-            "Indian National Congress",
-            "Rashtriya Swayamsevak Sangh (India)",
-            "Modi, Narendra",
-            "India"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/05/world/asia/india-congress-rahul-gandhi.html",
-        "title": "Rahul Gandhi, Long on the Ropes, Looks Set for an Unexpected Comeback",
-        "link": "https://www.nytimes.com/2024/06/05/world/asia/india-congress-rahul-gandhi.html",
-        "published": "2024-06-05T15:39:09.000Z",
-        "description": "The Indian National Congress and its leader registered a far stronger showing in India\u2019s elections than many expected.",
-        "author": [],
-        "keywords": [
-            "Politics and Government",
-            "Elections",
-            "Bharatiya Janata Party",
-            "Indian National Congress",
-            "Gandhi, Rahul",
-            "Modi, Narendra",
-            "India"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/05/world/europe/russian-american-sentenced-social-media.html",
-        "title": "A Russian American Is Sentenced in Russia Over Social Media Posts",
-        "link": "https://www.nytimes.com/2024/06/05/world/europe/russian-american-sentenced-social-media.html",
-        "published": "2024-06-05T20:07:43.000Z",
-        "description": "The latest detention of an American national in Russia has renewed fears that the Kremlin is seeking to use U.S. citizens as bargaining chips.",
-        "author": [],
-        "keywords": [
-            "Decisions and Verdicts",
-            "Russian-Americans",
-            "Social Media",
-            "Sentences (Criminal)",
-            "Russia"
-        ],
-        "countries": [],
-        "other_countries": [
-            "United States"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": -100.445882,
-                "y": 39.7837304
-            }
-        ]
-    },
-    {
         "id": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
         "title": "U.N. Nuclear Watchdog Censures Iran and Demands Access for Inspectors",
         "link": "https://www.nytimes.com/2024/06/05/world/middleeast/iran-nuclear-iaea.html",
@@ -8047,38 +8158,6 @@
             "International Relations",
             "International Atomic Energy Agency",
             "Iran"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html",
-        "title": "Israel Secretly Targets U.S. Lawmakers With Influence Campaign on Gaza War",
-        "link": "https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html",
-        "published": "2024-06-05T09:04:22.000Z",
-        "description": "Israel\u2019s Ministry of Diaspora Affairs ordered the operation, which used fake social media accounts urging U.S. lawmakers to fund Israel\u2019s military, according to officials and documents about the effort.",
-        "author": [],
-        "keywords": [
-            "Israel-Gaza War (2023- )",
-            "Rumors and Misinformation",
-            "International Relations",
-            "Politics and Government",
-            "Social Media",
-            "Palestinians",
-            "Artificial Intelligence",
-            "United States Politics and Government",
-            "FakeReporter (Nonprofit)",
-            "Facebook Inc",
-            "Instagram Inc",
-            "Meta Platforms Inc",
-            "OpenAI Labs",
-            "X (Formerly Twitter)",
-            "Jeffries, Hakeem",
-            "Torres, Ritchie (1988- )",
-            "Warnock, Raphael G",
-            "Israel"
         ],
         "countries": [],
         "other_countries": [],
@@ -8118,49 +8197,21 @@
         ]
     },
     {
-        "id": "https://www.nytimes.com/2024/06/04/world/asia/india-election-2024-takeaways.html",
-        "title": "India\u2019s 2024 Election Takeaways: Modi Struggles to Stay on Top",
-        "link": "https://www.nytimes.com/2024/06/04/world/asia/india-election-2024-takeaways.html",
-        "published": "2024-06-05T12:46:08.000Z",
-        "description": "The prime minister will keep his job, but his aura has been diminished and his leadership has fundamentally changed as the country\u2019s multiparty democracy springs back to life.",
+        "id": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
+        "title": "Narendra Modi Fell to Earth After Making It All About Himself",
+        "link": "https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html",
+        "published": "2024-06-05T16:00:52.000Z",
+        "description": "The Indian leader used his singular persona to lift his party to new heights. Then the opposition found a way to use his cult of personality against him.",
         "author": [],
         "keywords": [
-            "India",
-            "Modi, Narendra",
+            "Politics and Government",
+            "Elections",
+            "Democracy (Theory and Philosophy)",
             "Bharatiya Janata Party",
             "Indian National Congress",
-            "Politics and Government",
-            "Elections"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/article/sudan-khartoum-military.html",
-        "title": "One Year of Civil War in Sudan: What We Know About the Conflict",
-        "link": "https://www.nytimes.com/article/sudan-khartoum-military.html",
-        "published": "2024-06-05T14:13:48.000Z",
-        "description": "Fighting between the military and a powerful paramilitary group has led to massacres, caused millions to flee their homes and now threatens to cause a famine.",
-        "author": [],
-        "keywords": [
-            "Politics and Government",
-            "Defense and Military Forces",
-            "Coups D'Etat and Attempted Coups D'Etat",
-            "Civilian Casualties",
-            "African Union",
-            "Arab League",
-            "Janjaweed",
-            "United Nations",
-            "al-Burhan, Abdel Fattah",
-            "Hamdan, Mohamed (Hemeti)",
-            "Bashir, Omar Hassan Al-",
-            "Blinken, Antony J",
-            "Khartoum (Sudan)",
-            "Darfur (Sudan)",
-            "Africa",
-            "Sudan"
+            "Rashtriya Swayamsevak Sangh (India)",
+            "Modi, Narendra",
+            "India"
         ],
         "countries": [],
         "other_countries": [],
@@ -8215,36 +8266,6 @@
         "geometry": []
     },
     {
-        "id": "https://www.nytimes.com/2024/06/06/world/europe/ukraine-war-russia-sumy.html",
-        "title": "A Ukrainian City Becomes a Target of a New Russian Offensive",
-        "link": "https://www.nytimes.com/2024/06/06/world/europe/ukraine-war-russia-sumy.html",
-        "published": "2024-06-06T09:01:04.000Z",
-        "description": "Residents of Sumy, in northeastern Ukraine, repelled Moscow\u2019s forces in 2022. Now, after months of punishing airstrikes, Ukrainian officials say the Kremlin is preparing a new offensive.",
-        "author": [],
-        "keywords": [
-            "Drones (Pilotless Planes)",
-            "Defense and Military Forces",
-            "Fires and Firefighters",
-            "Deaths (Fatalities)",
-            "Russian Invasion of Ukraine (2022)",
-            "Sumy (Ukraine)"
-        ],
-        "countries": [
-            "Ukraine"
-        ],
-        "other_countries": [
-            "Ukraine",
-            "United States"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 31.2718321,
-                "y": 49.4871968
-            }
-        ]
-    },
-    {
         "id": "https://www.nytimes.com/2024/06/06/climate/forest-logging-oregon.html",
         "title": "An Oregon Forest Is in Trouble. Part of the Response: Logging.",
         "link": "https://www.nytimes.com/2024/06/06/climate/forest-logging-oregon.html",
@@ -8281,22 +8302,6 @@
         ]
     },
     {
-        "id": "https://www.nytimes.com/2024/06/06/world/asia/papua-new-guinea-landslide-victims-search.html",
-        "title": "Papua New Guinea to End Search for Landslide Victims",
-        "link": "https://www.nytimes.com/2024/06/06/world/asia/papua-new-guinea-landslide-victims-search.html",
-        "published": "2024-06-06T06:49:10.000Z",
-        "description": "The death toll remained unclear weeks after the tragedy, but there are signs the number of victims may have been much lower than previously thought.",
-        "author": [],
-        "keywords": [
-            "Papua New Guinea",
-            "Landslides and Mudslides"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
         "id": "https://www.nytimes.com/2024/06/06/world/americas/chile-power-outage.html",
         "title": "Santiago Power Outage Leaves Over 400,000 Without Electricity",
         "link": "https://www.nytimes.com/2024/06/06/world/americas/chile-power-outage.html",
@@ -8309,24 +8314,6 @@
             "Enel SpA",
             "Chile",
             "Santiago (Chile)"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/06/world/europe/czech-train-crash.html",
-        "title": "Train Crash in Czech Republic Kills 4, Injures More Than 20",
-        "link": "https://www.nytimes.com/2024/06/06/world/europe/czech-train-crash.html",
-        "published": "2024-06-06T06:43:40.000Z",
-        "description": "The passenger train was traveling overnight when it hit a freight train.",
-        "author": [],
-        "keywords": [
-            "Czech Republic",
-            "Railroad Accidents and Safety",
-            "Deaths (Fatalities)",
-            "Freight (Cargo)"
         ],
         "countries": [],
         "other_countries": [],
@@ -8352,130 +8339,6 @@
             {
                 "x": 6.5,
                 "y": 10.9
-            }
-        ]
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/06/world/global-elections-india-turkey-democracy.html",
-        "title": "In Global Elections, Strongmen Are Taken Down a Notch",
-        "link": "https://www.nytimes.com/2024/06/06/world/global-elections-india-turkey-democracy.html",
-        "published": "2024-06-06T05:29:14.000Z",
-        "description": "In Turkey, India and elsewhere, where some feared authoritarian leaders would consolidate power, democracy has proved surprisingly resilient.",
-        "author": [],
-        "keywords": [
-            "Politics and Government",
-            "Democracy (Theory and Philosophy)",
-            "Elections",
-            "Right-Wing Extremism and Alt-Right",
-            "Hinduism",
-            "African National Congress",
-            "Bharatiya Janata Party",
-            "Conservative Party (Great Britain)",
-            "European Parliament",
-            "Indian National Congress",
-            "Erdogan, Recep Tayyip",
-            "Farage, Nigel (1964- )",
-            "Lopez Obrador, Andres Manuel",
-            "Modi, Narendra",
-            "Sheinbaum, Claudia",
-            "India",
-            "Turkey",
-            "South Africa",
-            "Poland"
-        ],
-        "countries": [
-            "India"
-        ],
-        "other_countries": [
-            "United States"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 78.6677428,
-                "y": 22.3511148
-            }
-        ]
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/06/world/europe/biden-dday-ukraine-russia.html",
-        "title": "Biden Will Link Fight for Ukraine With Allied Effort on D-Day",
-        "link": "https://www.nytimes.com/2024/06/06/world/europe/biden-dday-ukraine-russia.html",
-        "published": "2024-06-06T08:19:15.000Z",
-        "description": "President Biden sees similar principles at stake in both conflicts: the defense of freedom and a rules-based international order.",
-        "author": [],
-        "keywords": [
-            "Biden, Joseph R Jr",
-            "Macron, Emmanuel (1977- )",
-            "Putin, Vladimir V",
-            "France",
-            "Europe",
-            "Normandy (France)",
-            "United States International Relations",
-            "World War II (1939-45)",
-            "Russian Invasion of Ukraine (2022)",
-            "International Relations"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
-        "title": "D-Day at 80",
-        "link": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
-        "published": "2024-06-06T07:33:37.000Z",
-        "description": "Veterans of the pivotal battle of World War II are disappearing. Europe, facing new conflict, recalls what their comrades died for.",
-        "author": [],
-        "keywords": [
-            "vis-photo",
-            "World War II (1939-45)",
-            "Veterans",
-            "Normandy (France)",
-            "France",
-            "Europe",
-            "Defense and Military Forces",
-            "Russian Invasion of Ukraine (2022)",
-            "International Relations",
-            "United States Army"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-detention-base.html",
-        "title": "Inside Sde Teiman, the Base Where Israel Detains Gazans",
-        "link": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-detention-base.html",
-        "published": "2024-06-06T04:01:30.000Z",
-        "description": "Since Israel invaded Gaza, the Sde Teiman military base has filled with blindfolded, handcuffed detainees, held without charge or legal representation.",
-        "author": [],
-        "keywords": [
-            "Israel-Gaza War (2023- )",
-            "Palestinians",
-            "Defense and Military Forces",
-            "Civilian Casualties",
-            "Military Bases and Installations",
-            "War Crimes, Genocide and Crimes Against Humanity",
-            "Detainees",
-            "Hamas",
-            "Israel",
-            "Gaza Strip",
-            "Sde Teiman (Israeli military base)"
-        ],
-        "countries": [
-            "Israel"
-        ],
-        "other_countries": [
-            "Palestine, State of"
-        ],
-        "regions": [],
-        "geometry": [
-            {
-                "x": 34.8594762,
-                "y": 30.8124247
             }
         ]
     },
@@ -8529,6 +8392,32 @@
         ]
     },
     {
+        "id": "https://www.nytimes.com/2024/06/05/world/europe/russian-american-sentenced-social-media.html",
+        "title": "A Russian American Is Sentenced in Russia Over Social Media Posts",
+        "link": "https://www.nytimes.com/2024/06/05/world/europe/russian-american-sentenced-social-media.html",
+        "published": "2024-06-05T20:07:43.000Z",
+        "description": "The latest detention of an American national in Russia has renewed fears that the Kremlin is seeking to use U.S. citizens as bargaining chips.",
+        "author": [],
+        "keywords": [
+            "Decisions and Verdicts",
+            "Russian-Americans",
+            "Social Media",
+            "Sentences (Criminal)",
+            "Russia"
+        ],
+        "countries": [],
+        "other_countries": [
+            "United States"
+        ],
+        "regions": [],
+        "geometry": [
+            {
+                "x": -100.445882,
+                "y": 39.7837304
+            }
+        ]
+    },
+    {
         "id": "https://www.nytimes.com/2024/06/05/world/middleeast/israeli-palestinian-jerusalem-flag-march.html",
         "title": "18 Arrested at Israeli Nationalist Flag March Through East Jerusalem",
         "link": "https://www.nytimes.com/2024/06/05/world/middleeast/israeli-palestinian-jerusalem-flag-march.html",
@@ -8553,6 +8442,36 @@
         "other_countries": [],
         "regions": [],
         "geometry": []
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/05/world/europe/israel-gaza-cease-fire-negotiations.html",
+        "title": "Getting a Cease-Fire in Gaza Has Been Hard. Fulfilling One Will Be Harder.",
+        "link": "https://www.nytimes.com/2024/06/05/world/europe/israel-gaza-cease-fire-negotiations.html",
+        "published": "2024-06-05T23:18:35.000Z",
+        "description": "The proposal backed by President Biden is deeply political and aims at stopping the war at least for now. But Israel rejects a permanent cease-fire and Hamas has its own reasons for reluctance.",
+        "author": [],
+        "keywords": [
+            "Israel-Gaza War (2023- )",
+            "Palestinians",
+            "Hamas",
+            "Biden, Joseph R Jr",
+            "Hamdan, Osama",
+            "Netanyahu, Benjamin",
+            "Sinwar, Yehya",
+            "Gaza Strip",
+            "Israel"
+        ],
+        "countries": [
+            "Israel"
+        ],
+        "other_countries": [],
+        "regions": [],
+        "geometry": [
+            {
+                "x": 34.8594762,
+                "y": 30.8124247
+            }
+        ]
     },
     {
         "id": "https://www.nytimes.com/2024/06/05/world/europe/london-hospitals-cyberattack.html",
@@ -8622,6 +8541,27 @@
                 "y": 39.7837304
             }
         ]
+    },
+    {
+        "id": "https://www.nytimes.com/2024/06/05/world/asia/india-congress-rahul-gandhi.html",
+        "title": "Rahul Gandhi, Long on the Ropes, Looks Set for an Unexpected Comeback",
+        "link": "https://www.nytimes.com/2024/06/05/world/asia/india-congress-rahul-gandhi.html",
+        "published": "2024-06-05T15:39:09.000Z",
+        "description": "The Indian National Congress and its leader registered a far stronger showing in India\u2019s elections than many expected.",
+        "author": [],
+        "keywords": [
+            "Politics and Government",
+            "Elections",
+            "Bharatiya Janata Party",
+            "Indian National Congress",
+            "Gandhi, Rahul",
+            "Modi, Narendra",
+            "India"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
     },
     {
         "id": "https://www.nytimes.com/2024/06/05/world/middleeast/israel-hamas-cease-fire-negotiations.html",
@@ -8844,6 +8784,38 @@
         "geometry": []
     },
     {
+        "id": "https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html",
+        "title": "Israel Secretly Targets U.S. Lawmakers With Influence Campaign on Gaza War",
+        "link": "https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html",
+        "published": "2024-06-05T09:04:22.000Z",
+        "description": "Israel\u2019s Ministry of Diaspora Affairs ordered the operation, which used fake social media accounts urging U.S. lawmakers to fund Israel\u2019s military, according to officials and documents about the effort.",
+        "author": [],
+        "keywords": [
+            "Israel-Gaza War (2023- )",
+            "Rumors and Misinformation",
+            "International Relations",
+            "Politics and Government",
+            "Social Media",
+            "Palestinians",
+            "Artificial Intelligence",
+            "United States Politics and Government",
+            "FakeReporter (Nonprofit)",
+            "Facebook Inc",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "OpenAI Labs",
+            "X (Formerly Twitter)",
+            "Jeffries, Hakeem",
+            "Torres, Ritchie (1988- )",
+            "Warnock, Raphael G",
+            "Israel"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
         "title": "U.S. Embassy in Beirut Targeted With Gunfire",
         "link": "https://www.nytimes.com/2024/06/05/world/middleeast/us-embassy-lebanon-gun-attack.html",
@@ -9052,6 +9024,26 @@
         "geometry": []
     },
     {
+        "id": "https://www.nytimes.com/2024/06/04/world/asia/india-election-2024-takeaways.html",
+        "title": "India\u2019s 2024 Election Takeaways: Modi Struggles to Stay on Top",
+        "link": "https://www.nytimes.com/2024/06/04/world/asia/india-election-2024-takeaways.html",
+        "published": "2024-06-05T12:46:08.000Z",
+        "description": "The prime minister will keep his job, but his aura has been diminished and his leadership has fundamentally changed as the country\u2019s multiparty democracy springs back to life.",
+        "author": [],
+        "keywords": [
+            "India",
+            "Modi, Narendra",
+            "Bharatiya Janata Party",
+            "Indian National Congress",
+            "Politics and Government",
+            "Elections"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "https://www.nytimes.com/2024/06/04/world/europe/ukraine-strikes-russia-western-weapons.html",
         "title": "Ukraine Strikes Into Russia With Western Weapons, Official Says",
         "link": "https://www.nytimes.com/2024/06/04/world/europe/ukraine-strikes-russia-western-weapons.html",
@@ -9100,8 +9092,8 @@
             "Europe"
         ],
         "countries": [
-            "Ukraine",
-            "France"
+            "France",
+            "Ukraine"
         ],
         "other_countries": [
             "Fiji",
@@ -9112,12 +9104,12 @@
         ],
         "geometry": [
             {
-                "x": 31.2718321,
-                "y": 49.4871968
-            },
-            {
                 "x": 1.8883335,
                 "y": 46.603354
+            },
+            {
+                "x": 31.2718321,
+                "y": 49.4871968
             }
         ]
     },
@@ -9417,12 +9409,42 @@
         "geometry": []
     },
     {
+        "id": "t3_1d9e1ea",
+        "title": "Hamas kills IDF combat dog in Gaza and rigs its body to kill troops",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d9e1ea/hamas_kills_idf_combat_dog_in_gaza_and_rigs_its/",
+        "published": "2024-06-06T09:23:56.000Z",
+        "description": "submitted by    /u/a_fadora_trickster   [link]   [comments]",
+        "author": "/u/a_fadora_trickster",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "t3_1d8y36j",
         "title": "Tokyo government to launch dating app to boost birthrate",
         "link": "https://www.reddit.com/r/worldnews/comments/1d8y36j/tokyo_government_to_launch_dating_app_to_boost/",
         "published": "2024-06-05T19:10:02.000Z",
         "description": "submitted by    /u/Ainu_   [link]   [comments]",
         "author": "/u/Ainu_",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "t3_1d8yxnl",
+        "title": "Putin warns that Russia could provide long-range weapons to others to strike Western targets",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d8yxnl/putin_warns_that_russia_could_provide_longrange/",
+        "published": "2024-06-05T19:44:27.000Z",
+        "description": "submitted by    /u/StageFun7648   [link]   [comments]",
+        "author": "/u/StageFun7648",
         "keywords": [
             "worldnews"
         ],
@@ -9447,12 +9469,27 @@
         "geometry": []
     },
     {
-        "id": "t3_1d8yxnl",
-        "title": "Putin warns that Russia could provide long-range weapons to others to strike Western targets",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d8yxnl/putin_warns_that_russia_could_provide_longrange/",
-        "published": "2024-06-05T19:44:27.000Z",
-        "description": "submitted by    /u/StageFun7648   [link]   [comments]",
-        "author": "/u/StageFun7648",
+        "id": "t3_1d9cqxa",
+        "title": "IDF kills 3 terrorists attemtping to infiltrate Israel from Rafah",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d9cqxa/idf_kills_3_terrorists_attemtping_to_infiltrate/",
+        "published": "2024-06-06T07:46:18.000Z",
+        "description": "submitted by    /u/Current-Bridge-9422   [link]   [comments]",
+        "author": "/u/Current-Bridge-9422",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "t3_1d98btt",
+        "title": "Tajikistan Set To Outlaw Islamic Hijab After Years Of Unofficial Ban",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d98btt/tajikistan_set_to_outlaw_islamic_hijab_after/",
+        "published": "2024-06-06T03:03:37.000Z",
+        "description": "submitted by    /u/Cuddlyaxe   [link]   [comments]",
+        "author": "/u/Cuddlyaxe",
         "keywords": [
             "worldnews"
         ],
@@ -9483,21 +9520,6 @@
         "published": "2024-06-05T19:18:06.000Z",
         "description": "submitted by    /u/NinjaDiscoJesus   [link]   [comments]",
         "author": "/u/NinjaDiscoJesus",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d98btt",
-        "title": "Tajikistan Set To Outlaw Islamic Hijab After Years Of Unofficial Ban",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d98btt/tajikistan_set_to_outlaw_islamic_hijab_after/",
-        "published": "2024-06-06T03:03:37.000Z",
-        "description": "submitted by    /u/Cuddlyaxe   [link]   [comments]",
-        "author": "/u/Cuddlyaxe",
         "keywords": [
             "worldnews"
         ],
@@ -9552,12 +9574,12 @@
         "geometry": []
     },
     {
-        "id": "t3_1d8r287",
-        "title": "Russian soldier who killed 7 comrades with grenade given 23-year sentence",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d8r287/russian_soldier_who_killed_7_comrades_with/",
-        "published": "2024-06-05T14:17:39.000Z",
-        "description": "submitted by    /u/duckanroll   [link]   [comments]",
-        "author": "/u/duckanroll",
+        "id": "t3_1d9dsqz",
+        "title": "Photos of released Ukrainian prisoners of war show emaciated bodies in \u2018horrifying\u2019 condition",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d9dsqz/photos_of_released_ukrainian_prisoners_of_war/",
+        "published": "2024-06-06T09:05:54.000Z",
+        "description": "submitted by    /u/new974517   [link]   [comments]",
+        "author": "/u/new974517",
         "keywords": [
             "worldnews"
         ],
@@ -9567,12 +9589,12 @@
         "geometry": []
     },
     {
-        "id": "t3_1d9cqxa",
-        "title": "IDF kills 3 terrorists attemtping to infiltrate Israel from Rafah",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d9cqxa/idf_kills_3_terrorists_attemtping_to_infiltrate/",
-        "published": "2024-06-06T07:46:18.000Z",
-        "description": "submitted by    /u/Current-Bridge-9422   [link]   [comments]",
-        "author": "/u/Current-Bridge-9422",
+        "id": "t3_1d8r287",
+        "title": "Russian soldier who killed 7 comrades with grenade given 23-year sentence",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d8r287/russian_soldier_who_killed_7_comrades_with/",
+        "published": "2024-06-05T14:17:39.000Z",
+        "description": "submitted by    /u/duckanroll   [link]   [comments]",
+        "author": "/u/duckanroll",
         "keywords": [
             "worldnews"
         ],
@@ -9597,42 +9619,12 @@
         "geometry": []
     },
     {
-        "id": "t3_1d8o9fh",
-        "title": "French military instructors in Ukraine would be a 'legitimate target' and may already be active, says Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d8o9fh/french_military_instructors_in_ukraine_would_be_a/",
-        "published": "2024-06-05T12:05:37.000Z",
-        "description": "submitted by    /u/RadiantNautilus   [link]   [comments]",
-        "author": "/u/RadiantNautilus",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d8z46h",
-        "title": "WHO confirms first human case of avian influenza A(H5N2) in Mexico",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d8z46h/who_confirms_first_human_case_of_avian_influenza/",
-        "published": "2024-06-05T19:51:58.000Z",
-        "description": "submitted by    /u/boxingdog   [link]   [comments]",
-        "author": "/u/boxingdog",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d8ydyt",
-        "title": "Glaring Absence at D-Day Events Seals Russia's Pariah Status",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d8ydyt/glaring_absence_at_dday_events_seals_russias/",
-        "published": "2024-06-05T19:22:15.000Z",
-        "description": "submitted by    /u/Ask4MD   [link]   [comments]",
-        "author": "/u/Ask4MD",
+        "id": "t3_1d9ae2q",
+        "title": "IDF strikes Hamas terrorists operating inside UNRWA school in Gaza",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d9ae2q/idf_strikes_hamas_terrorists_operating_inside/",
+        "published": "2024-06-06T05:05:07.000Z",
+        "description": "submitted by    /u/Master-Concept-5260   [link]   [comments]",
+        "author": "/u/Master-Concept-5260",
         "keywords": [
             "worldnews"
         ],
@@ -9657,6 +9649,66 @@
         "geometry": []
     },
     {
+        "id": "t3_1d8o9fh",
+        "title": "French military instructors in Ukraine would be a 'legitimate target' and may already be active, says Russia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d8o9fh/french_military_instructors_in_ukraine_would_be_a/",
+        "published": "2024-06-05T12:05:37.000Z",
+        "description": "submitted by    /u/RadiantNautilus   [link]   [comments]",
+        "author": "/u/RadiantNautilus",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "t3_1d9be71",
+        "title": "Diminished Hamas switches to full insurgent mode in Gaza",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d9be71/diminished_hamas_switches_to_full_insurgent_mode/",
+        "published": "2024-06-06T06:09:56.000Z",
+        "description": "submitted by    /u/shymanwarrior   [link]   [comments]",
+        "author": "/u/shymanwarrior",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "t3_1d8ydyt",
+        "title": "Glaring Absence at D-Day Events Seals Russia's Pariah Status",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d8ydyt/glaring_absence_at_dday_events_seals_russias/",
+        "published": "2024-06-05T19:22:15.000Z",
+        "description": "submitted by    /u/Ask4MD   [link]   [comments]",
+        "author": "/u/Ask4MD",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
+        "id": "t3_1d8z46h",
+        "title": "WHO confirms first human case of avian influenza A(H5N2) in Mexico",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d8z46h/who_confirms_first_human_case_of_avian_influenza/",
+        "published": "2024-06-05T19:51:58.000Z",
+        "description": "submitted by    /u/boxingdog   [link]   [comments]",
+        "author": "/u/boxingdog",
+        "keywords": [
+            "worldnews"
+        ],
+        "countries": [],
+        "other_countries": [],
+        "regions": [],
+        "geometry": []
+    },
+    {
         "id": "t3_1d958bh",
         "title": "Taliban publicly flogs 63 people including women accused of crimes. UN condemns it",
         "link": "https://www.reddit.com/r/worldnews/comments/1d958bh/taliban_publicly_flogs_63_people_including_women/",
@@ -9672,42 +9724,12 @@
         "geometry": []
     },
     {
-        "id": "t3_1d9e1ea",
-        "title": "Hamas kills IDF combat dog in Gaza and rigs its body to kill troops",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d9e1ea/hamas_kills_idf_combat_dog_in_gaza_and_rigs_its/",
-        "published": "2024-06-06T09:23:56.000Z",
-        "description": "submitted by    /u/a_fadora_trickster   [link]   [comments]",
-        "author": "/u/a_fadora_trickster",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d9dcm8",
-        "title": "Up to 2 million will be able to request asylum in Spain as the Government accuses Israel of \"genocide\" in Gaza",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d9dcm8/up_to_2_million_will_be_able_to_request_asylum_in/",
-        "published": "2024-06-06T08:31:31.000Z",
-        "description": "submitted by    /u/Basic-Elderberry-235   [link]   [comments]",
-        "author": "/u/Basic-Elderberry-235",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d9ae2q",
-        "title": "IDF strikes Hamas terrorists operating inside UNRWA school in Gaza",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d9ae2q/idf_strikes_hamas_terrorists_operating_inside/",
-        "published": "2024-06-06T05:05:07.000Z",
-        "description": "submitted by    /u/Master-Concept-5260   [link]   [comments]",
-        "author": "/u/Master-Concept-5260",
+        "id": "t3_1d9ctf3",
+        "title": "ANU student expelled after saying Hamas deserved \u2018unconditional support\u2019 during radio interview | Australia news | The Guardian",
+        "link": "https://www.reddit.com/r/worldnews/comments/1d9ctf3/anu_student_expelled_after_saying_hamas_deserved/",
+        "published": "2024-06-06T07:51:24.000Z",
+        "description": "submitted by    /u/OppositeRock4217   [link]   [comments]",
+        "author": "/u/OppositeRock4217",
         "keywords": [
             "worldnews"
         ],
@@ -9723,36 +9745,6 @@
         "published": "2024-06-05T11:19:51.000Z",
         "description": "submitted by    /u/Ahad_Haam   [link]   [comments]",
         "author": "/u/Ahad_Haam",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d9262r",
-        "title": "Putin warns that Russia could supply arms to other countries to strike west",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d9262r/putin_warns_that_russia_could_supply_arms_to/",
-        "published": "2024-06-05T22:00:33.000Z",
-        "description": "submitted by    /u/RadiantNautilus   [link]   [comments]",
-        "author": "/u/RadiantNautilus",
-        "keywords": [
-            "worldnews"
-        ],
-        "countries": [],
-        "other_countries": [],
-        "regions": [],
-        "geometry": []
-    },
-    {
-        "id": "t3_1d8m6as",
-        "title": "Putin reportedly wears bulletproof vest at public events amid \u2018unprecedented\u2019 security",
-        "link": "https://www.reddit.com/r/worldnews/comments/1d8m6as/putin_reportedly_wears_bulletproof_vest_at_public/",
-        "published": "2024-06-05T09:59:20.000Z",
-        "description": "submitted by    /u/duckanroll   [link]   [comments]",
-        "author": "/u/duckanroll",
         "keywords": [
             "worldnews"
         ],
