@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-06T11:11:35.000Z",
+  "published": "2024-06-06T12:23:03.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
@@ -110,10 +110,10 @@
     },
     {
       "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "title": "Middle East Crisis: Israeli Airstrike on School Kills Dozens in Gaza",
+      "title": "Middle East Crisis: Israeli Airstrike Kills Dozens as Offensive in Central Gaza Escalates",
       "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "published": "2024-06-06T10:39:38.000Z",
-      "description": "The country’s military said it had targeted Hamas operatives.  Palestinian media said dozens of displaced civilians who had been sheltering there died.",
+      "published": "2024-06-06T12:16:58.000Z",
+      "description": "The country’s military said it had targeted Hamas operatives in a U.N. school complex. Palestinian news media said dozens of displaced civilians who had been sheltering there died.",
       "summary": "",
       "author": "",
       "category": ""
@@ -619,6 +619,45 @@
         },
         {
           "#text": "internal-truncator",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2024/06/06/business/european-central-bank-interest-rates.html",
+      "title": "European Central Bank Cuts Interest Rates for First Time Since 2019",
+      "link": "https://www.nytimes.com/2024/06/06/business/european-central-bank-interest-rates.html",
+      "published": "2024-06-06T12:19:12.000Z",
+      "description": "The reduction comes as inflation in the eurozone cools, prompting the E.C.B. to move before the Federal Reserve in the United States, where rates remain high.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Banking and Financial Institutions",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Interest Rates",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Inflation (Economics)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "European Central Bank",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Eurozone",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Lagarde, Christine",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Prices (Fares, Fees and Rates)",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
         }
       ]
