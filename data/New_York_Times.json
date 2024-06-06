@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-06T18:18:30.000Z",
+  "published": "2024-06-06T19:12:31.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
@@ -73,7 +73,7 @@
       "id": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
       "title": "D-Day at 80",
       "link": "https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html",
-      "published": "2024-06-06T17:29:14.000Z",
+      "published": "2024-06-06T18:27:55.000Z",
       "description": "Veterans of the pivotal battle of World War II are disappearing. Europe, facing new conflict, recalls what their comrades died for.",
       "summary": "",
       "author": "",
@@ -175,7 +175,7 @@
       "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
       "title": "Live Updates: Israeli Strike Kills Dozens at School Complex Where Civilians Sought Shelter",
       "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "published": "2024-06-06T18:18:01.000Z",
+      "published": "2024-06-06T19:12:04.000Z",
       "description": "The Israeli military said it had targeted Hamas operatives at a U.N. school complex. Palestinian officials said the dead included women and children.",
       "summary": "",
       "author": "",
@@ -640,10 +640,53 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/06/business/media/td-allman-dead.html",
+      "title": "T.D. Allman, Assertive Globe-Trotting Journalist, Dies at 79",
+      "link": "https://www.nytimes.com/2024/06/06/business/media/td-allman-dead.html",
+      "published": "2024-06-06T18:47:52.000Z",
+      "description": "Reporting from more than 80 countries, he combined close observation with sharp conclusions that pointed the finger at misdeeds or abuse of power. He was an author as well.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Allman, T D",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Deaths (Obituaries)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "News and News Media",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "International Relations",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "New York Times",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "Cambodia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Laos",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/06/world/middleeast/gaza-un-school-strike.html",
       "title": "Gazans Weep and Pray Over Loved Ones Killed in U.N. School Strike",
       "link": "https://www.nytimes.com/2024/06/06/world/middleeast/gaza-un-school-strike.html",
-      "published": "2024-06-06T17:21:47.000Z",
+      "published": "2024-06-06T18:39:41.000Z",
       "description": "The deadly strike on a United Nations school-turned-shelter is a bitter reminder, Gazans say, that each place they flee eventually gets caught up in the bloodshed.",
       "summary": "",
       "author": "",
@@ -2426,37 +2469,6 @@
         {
           "#text": "India",
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/04/world/asia/indian-national-congress-rahul-gandhi-election.html",
-      "title": "Early 2024 Election Results Suggest Turnaround for India’s Main Opposition Party",
-      "link": "https://www.nytimes.com/2024/06/04/world/asia/indian-national-congress-rahul-gandhi-election.html",
-      "published": "2024-06-04T11:21:49.000Z",
-      "description": "India’s beleaguered main opposition party was on track to surpass expectations and nearly double its share of parliamentary seats from 2019.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "Gandhi, Rahul",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Indian National Congress",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
-        },
-        {
-          "#text": "India",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Elections",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Modi, Narendra",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
         }
       ]
     }
