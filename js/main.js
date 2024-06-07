@@ -15,40 +15,70 @@ function convert(epoch) {
     return d
 }
 
+var sources = [];
+function parseUrl(str) {
+    var source = new URL(str).hostname.replace('www.', '').replace('.com', '')
+    //if(!sources.includes(source)){sources.push(source)}
+    var globalMedia = ['washingtonpost', 'politico', 'timesofindia.indiatimes', 'bbc',
+        'slate', 'yahoo', 'theguardian', 'cnn', 'fool',
+        'lendingtree', 'wsj', 'ndtv', 'news.google', 'nytimes']
+    var thinkTanks = ['defence-blog']
+    var socialMedia = ['reddit']
+
+    if (globalMedia.includes(source)) { return "Global Media" };
+    if (thinkTanks.includes(source)) { return "Think Tank" };
+    if (socialMedia.includes(source)) { return "Social Media" };
+    return source
+}
+
+function parseCountries(d) {
+    countryString = "";
+    for (country of d.countries)
+        if (countryString.length == 0) {
+            countryString = country
+        };
+    if (!countryString.includes(country)) { countryString = countryString + ' | ' + country }
+
+    return countryString
+}
+
+function parseTitleDesc(d) {
+    if (d.description.includes("submitted by    /u/") && d.description.includes("   [link]   [comments]")) {
+        d.description = d.title
+    }
+    return d.description
+}
+
+function filterByDate(diff) {
+    currentTime = new Date();
+    var newDateObj = new Date(currentTime.getTime() - diff * 60000);
+    return newDateObj
+}
+
 
 BDS.features.forEach(function (d, i) {
-    d.date_e = convert(d.attributes.pubdate)
-    //d.date_e = dateFormat.parse(d.date_entered);
-    //d.date_i = dateFormat.parse(d.date_issued);
-    d.article_text = d.attributes.article_text ? d.attributes.article_text : "No article information available";
-    d.country = d.attributes.country ? d.attributes.country : "No Country Data";
-    d.description = d.attributes.description ? d.attributes.description : "No Description Data";;
-    d.image_link = d.attributes.image_link ? d.attributes.image_link : "#";
-    d.keywords = d.attributes.keywords ? d.attributes.keywords : "No Keyword Data";
-    d.loc_array = d.attributes.loc_arry ? d.attributes.loc_arry : "No Location Array Data";
-    d.locations = d.attributes.locations ? d.attributes.locations : "No Locations Data";
-    d.y = d.geometry.y;
-    d.x = d.geometry.x;
-    d.media_type = d.attributes.media_type ? d.attributes.media_type : "No Media Type Data";
-    d.source_link = d.attributes.source_link ? d.attributes.source_link : "No Source Link Data";
-    d.primary_category = d.attributes.primary_category ? d.attributes.primary_category : "Unknown";
-    d.second_category = d.attributes.second_category ? d.attributes.second_category : "Unknown";
-    d.third_category = d.attributes.third_category ? d.attributes.third_category : "Unknown";
-    d.trans_title = d.attributes.trans_title ? d.attributes.trans_title : "Unknown";
-    //handle missing values for table variables
-    //d.contact = d.contact ? d.contact : "MISSING";
-    //d.city = d.city ? d.city : "MISSING";
-    //d.permit_type_description = d.permit_type_description ? d.permit_type_description : "MISSING";
-    //d.address = d.address ? d.address : "MISSING";	
-    //d.purpose = d.purpose ? d.purpose: "MISSING";
-    // parse lat lng-data
-    if (d.y != null && d.x != null) {
-        d.geo = d.y + "," + d.geometry.x;
+    d.date_e = new Date(d.published)
+    d.article_text = d.article_text ? d.article_text : "No article information available";
+    d.country = d.countries.length > 0 ? d.countries.toString() : "No Data"
+    d.description = d.description ? parseTitleDesc(d) : "No Data"
+    d.image_link = d.image_link ? d.image_link : "#";
+    d.keywords = d.keywords ? d.keywords : "No Data"
+    d.locations = d.regions ? d.regions : "No Data"
+    d.media_type = d.link ? parseUrl(d.link) : "No Media Type Data";
+    d.source_link = d.link ? d.link : "No Data"
+    d.primary_category = d.keywords[0] ? d.keywords[0] : "No Keyword";
+    d.second_category = d.keywords[1] ? d.keywords[1] : "No Keyword";
+    d.third_category = d.keywords[2] ? d.keywords[2] : "No Keyword";
+    d.trans_title = d.title ? d.title : "Unknown";
+    d.images = d.images;
+    d.filename = d.filename ? d.filename : "#"
+    if (d.geometry.length > 0) {
+        for (obj of d.geometry) { d.geo = obj.y + "," + obj.x; break; }
     }
 });
 
 //toplevel crossfilter & Filters out the entities that have no country data
-var xf = crossfilter(BDS.features.filter(d => d.country !== 'No Country Data'));
+var xf = crossfilter(BDS.features.filter(d => d.countries.length !== 0));
 
 //counter
 var all = xf.groupAll();
@@ -74,8 +104,8 @@ mapChart.dimension(facilities)
 rowChart.height(300)
     .width(330)
     .margins({ top: 10, right: 10, bottom: 20, left: 40 })
-    .dimension(xf.dimension(function (d) { if (d.country) { return d.country }; }).group())
-    .group(xf.dimension(function (d) { if (d.country) { return d.country }; }).group())
+    .dimension(xf.dimension(function (d) { return d.countries.toString() }).group())
+    .group(xf.dimension(function (d) { return d.countries.toString() }).group())
     .ordering(function (p) {
         return -p.value;
     })
@@ -99,12 +129,11 @@ timeChart.width(960)
 //table
 //dimension for table search
 var tableDimension = xf.dimension(function (d) {
-    return d.country.toLowerCase() + ' ' +
+    return d.countries.toString() + ' ' +
         d.primary_category.toLowerCase() + ' ' +
         d.second_category.toLowerCase() + ' ' +
         d.third_category.toLowerCase() + ' ' +
-        d.trans_title.toLowerCase() + ' ' +
-        d.country.toLowerCase();
+        d.trans_title.toLowerCase();
 });
 
 //Media Type
@@ -118,7 +147,7 @@ var topicDimension = xf.dimension(function (d) {
 });
 
 //Country Type
-var countryDimension = xf.dimension(function (d) { return d.country.toLowerCase() });
+var countryDimension = xf.dimension(function (d) { return d.country.toString().toLowerCase() });
 
 
 //set options and columns
@@ -135,7 +164,7 @@ var dataTableOptions = {
         },
         {
             targets: 1, // country column
-            data: function (d) { return d.country; },
+            data: function (d) { return d.country.toString(); },
             defaultContent: '',
             visible: true
         },
@@ -167,31 +196,15 @@ datatable.dataTable(dataTableOptions);
 
 //row details
 function format(d) {
-    // console.log(getExif);
-
-    if (d.image_link != '#') {
-        details = '<p style="text-align:center">Article Image</p><img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src=' + d.image_link + '></img></br><b>Article Text: </b>' + d.article_text
-        // EXIF.getData(d.image_link, function () {
-        //     var allMetaData = EXIF.getAllTags(this);
-        //     console.log(allMetaData)
-        //     // var allMetaDataSpan = document.getElementById("allMetaDataSpan");
-        //     // allMetaDataSpan.innerHTML = JSON.stringify(allMetaData, null, "\t");
-        // });
-        // fetch(d.image_link,
-        //     { mode: 'no-cors' }
-        // ).then(res => res.blob()).then(blob => {
-        //     let url = URL.createObjectURL(blob);
-        //     const a = document.createElement('a');
-        //     a.href = url;
-        //     a.download = 'Image.png';
-        //     a.click();
-        //     URL.revokeObjectURL(url);
-        // });
-    }
-    else {
-        details = '<b>Article Text: </b>' + d.article_text
-    }
-    return details;
+    // main = $('<div></div>')
+    // imgs = $('<div></div>').attr('class', 'imgcontainer').attr('style','text-align:center')
+    // for (img of d.images){
+    //     source = 'data/imgs/'+img
+    //     imgs.append($('<img style="height:25%;width:25%" src="'+source+'" onclick=window.open('+'"'+source+'"'+')></>'))
+    // }
+    // text = $('<p></p>').text(d.bodyText)
+    // main.append(imgs).append(text)  
+    return $('<a></a>').attr('href',d.filename).text("View Site Here")
 }
 
 datatable.DataTable().on('click', 'tr[role="row"]', function () {
@@ -218,7 +231,6 @@ function RefreshTable() {
         if (alldata.length > 0) {
             datatable.fnAddData(alldata);
         }
-
         datatable.fnDraw();
     });
 }
@@ -234,8 +246,6 @@ $(":input").on('keyup', function () {
     if ($(this).attr("class") != "filenameInput") {
         text_filter(tableDimension, this.value);//cities is the dimension for the data table
     }
-
-
     function text_filter(dim, q) {
         if (q != '') {
             dim.filter(function (d) {
@@ -249,37 +259,37 @@ $(":input").on('keyup', function () {
     }
 });
 
-$('#sourceType').on('change', function () {
-    media_filter(mediaDimension, this.value)
-    function media_filter(dim, q) {
-        if (q != '') {
-            dim.filter(function (d) {
-                //debugger;
-                return d.indexOf(q.toLowerCase()) !== -1;
-            });
-        } else {
-            dim.filterAll();
-        }
-        RefreshTable();
-        dc.redrawAll();
-    }
-});
+// $('#sourceType').on('change', function () {
+//     media_filter(mediaDimension, this.value)
+//     function media_filter(dim, q) {
+//         if (q != '') {
+//             dim.filter(function (d) {
+//                 //debugger;
+//                 return d.indexOf(q.toLowerCase()) !== -1;
+//             });
+//         } else {
+//             dim.filterAll();
+//         }
+//         RefreshTable();
+//         dc.redrawAll();
+//     }
+// });
 
-$('#topicType').on('change', function () {
-    topic_filter(topicDimension, this.value)
-    function topic_filter(dim, q) {
-        if (q != '') {
-            dim.filter(function (d) {
-                //debugger;
-                return d.indexOf(q.toLowerCase()) !== -1;
-            });
-        } else {
-            dim.filterAll();
-        }
-        RefreshTable();
-        dc.redrawAll();
-    }
-});
+// $('#topicType').on('change', function () {
+//     topic_filter(topicDimension, this.value)
+//     function topic_filter(dim, q) {
+//         if (q != '') {
+//             dim.filter(function (d) {
+//                 //debugger;
+//                 return d.indexOf(q.toLowerCase()) !== -1;
+//             });
+//         } else {
+//             dim.filterAll();
+//         }
+//         RefreshTable();
+//         dc.redrawAll();
+//     }
+// });
 
 $('#countryType').on('change', function () {
     country_filter(countryDimension, this.value)
@@ -330,12 +340,3 @@ function openDownloadModal() {
         }
     });
 }
-// $('#modeToggle').on('click', function () {
-//     $('#modeToggle').attr('class') == 'light' ? $('#modeToggle').attr('class', 'dark') : $('#modeToggle').attr('class', 'light')
-//     if ($('#modeToggle').attr('class') == 'dark') {
-//         $("body").addClass("dark");
-//     }
-//     else{
-//         $("body").removeClass("dark");
-//     }
-// })
