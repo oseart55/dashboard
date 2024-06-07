@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-06T23:13:25.000Z",
+  "published": "2024-06-07T01:03:42.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html",
@@ -175,7 +175,7 @@
       "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
       "title": "Live Updates: Israeli Strike Kills Dozens at School Complex Where Civilians Sought Shelter",
       "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "published": "2024-06-06T22:59:25.000Z",
+      "published": "2024-06-07T01:01:57.000Z",
       "description": "The Israeli military said it had targeted Hamas operatives at a U.N. school complex. Palestinian officials said the dead included women and children.",
       "summary": "",
       "author": "",
@@ -640,10 +640,49 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/06/world/africa/sudan-wad-al-noura-assault-jazeera-province.html",
+      "title": "Children Among Dozens Killed in Attack on Sudanese Village",
+      "link": "https://www.nytimes.com/2024/06/06/world/africa/sudan-wad-al-noura-assault-jazeera-province.html",
+      "published": "2024-06-07T01:02:59.000Z",
+      "description": "Videos showed paramilitaries opening fire on the village in what had been Sudan’s breadbasket region, causing the latest mass civilian casualties in a brutal yearlong war.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "Sudan",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Rapid Support Forces (Sudan)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        },
+        {
+          "#text": "El Fasher (Sudan)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Darfur (Sudan)",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Civilian Casualties",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Mass Shootings",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "War and Armed Conflicts",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/06/world/europe/zelensky-d-day-veteran.html",
       "title": "Zelensky Shares Emotional Moment With U.S. Veteran at D-Day Ceremony",
       "link": "https://www.nytimes.com/2024/06/06/world/europe/zelensky-d-day-veteran.html",
-      "published": "2024-06-06T23:09:34.000Z",
+      "published": "2024-06-06T23:39:04.000Z",
       "description": "The veteran, Melvin Hurwitz, embraced the Ukrainian president and called him “the savior of the people.” Mr. Zelensky told Mr. Hurwitz that he and his fellow World War II veterans had “saved Europe.”",
       "summary": "",
       "author": "",
@@ -991,7 +1030,7 @@
       "id": "https://www.nytimes.com/2024/06/06/world/europe/michael-mosley-missing-greece-new.html",
       "title": "Search Underway in Greece for British TV Doctor Michael Mosley",
       "link": "https://www.nytimes.com/2024/06/06/world/europe/michael-mosley-missing-greece-new.html",
-      "published": "2024-06-06T20:13:32.000Z",
+      "published": "2024-06-06T23:31:49.000Z",
       "description": "Mr. Mosley, a popular science journalist, disappeared while on a walk on the Greek island of Symi. He was last seen at a bus stop on Wednesday afternoon.",
       "summary": "",
       "author": "",
@@ -1177,7 +1216,7 @@
       "id": "https://www.nytimes.com/2024/06/06/world/americas/chile-power-outage.html",
       "title": "Santiago Power Outage Leaves Over 400,000 Without Electricity",
       "link": "https://www.nytimes.com/2024/06/06/world/americas/chile-power-outage.html",
-      "published": "2024-06-06T07:01:12.000Z",
+      "published": "2024-06-07T00:15:16.000Z",
       "description": "A tree fell on a high-voltage transmission tower early Thursday, knocking out power to parts of the Chilean capital.",
       "summary": "",
       "author": "",
@@ -2376,19 +2415,6 @@
           "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
         }
       ]
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/04/world/asia/modi-election-results-bjp-ukraine-asia.html",
-      "title": "Wednesday Briefing: Modi’s Bruising Path to a Third Term",
-      "link": "https://www.nytimes.com/2024/06/04/world/asia/modi-election-results-bjp-ukraine-asia.html",
-      "published": "2024-06-04T20:59:38.000Z",
-      "description": "Also, a Times analysis of the destruction in Ukraine.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "Far East, South and Southeast Asia and Pacific Areas",
-        "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-      }
     }
   ]
 }
