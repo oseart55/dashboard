@@ -4,8 +4,60 @@
   "description": "World News",
   "language": "en-us",
   "generator": "http://online.wsj.com/page/2_0006.html",
-  "published": "2024-06-07T04:16:02.000Z",
+  "published": "2024-06-07T04:58:55.000Z",
   "entries": [
+    {
+      "id": "WP-WSJ-0001824805",
+      "title": "Hong Kong Shares Fall After Mixed China Trade Data",
+      "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-despite-weak-lead-896dd6e1",
+      "published": "2024-06-07T04:57:00.000Z",
+      "description": "Hong Kong shares reversed course to trade lower midday after mixed trade data from China.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001824726",
+      "title": "India Central Bank Keeps Rate Unchanged After Election Raises Fiscal Policy Uncertainty",
+      "link": "https://www.wsj.com/articles/india-central-bank-keeps-rate-unchanged-after-election-raises-fiscal-policy-uncertainty-290ea2e4",
+      "published": "2024-06-07T04:50:00.000Z",
+      "description": "India’s central bank held its policy rate steady as Prime Minister Narendra Modi’s election setback raised uncertainty over the country’s future economic and fiscal policies.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001825256",
+      "title": "Samsung Workers in South Korea Stage First-Ever Walkout",
+      "link": "https://www.wsj.com/articles/samsung-workers-in-south-korea-stage-first-ever-walkout-d83891ad",
+      "published": "2024-06-07T04:30:00.000Z",
+      "description": "Samsung Electronics unionized workers staged what they called the first-ever walkout at the South Korean technology giant since it was founded more than five decades ago, taking a day of paid leave en masse.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
+    {
+      "id": "WP-WSJ-0001825249",
+      "title": "China's Exports Picked Up Pace in May",
+      "link": "https://www.wsj.com/articles/china-exports-grew-at-faster-rate-in-may-519cbd7d",
+      "published": "2024-06-07T04:29:00.000Z",
+      "description": "Chinese exports grew at a faster rate in May and beat expectations, thanks to resilient global demand, while import growth slowed.",
+      "summary": "",
+      "author": "",
+      "category": {
+        "#text": "PAID",
+        "@_domain": "AccessClassName"
+      }
+    },
     {
       "id": "WP-WSJ-0001820914",
       "title": "Meet the 'Degen' Traders Fueling the Latest Meme-Stock Mania",
@@ -77,19 +129,6 @@
       "link": "https://www.wsj.com/articles/pepperand-salt-3eb51ec7",
       "published": "2024-06-07T04:00:00.000Z",
       "description": "",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "WP-WSJ-0001825249",
-      "title": "China Exports Grew at Faster Rate in May",
-      "link": "https://www.wsj.com/articles/china-exports-grew-at-faster-rate-in-may-519cbd7d",
-      "published": "2024-06-07T03:21:00.000Z",
-      "description": "Chinese exports grew at a faster rate in May, thanks to resilient global demand, while import growth slowed.",
       "summary": "",
       "author": "",
       "category": {
@@ -220,45 +259,6 @@
       "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-06-06-2024-2d83de56",
       "published": "2024-06-07T03:05:00.000Z",
       "description": "The S&P 500 slipped from its latest record Thursday, dropping less than 0.1%. The Dow added 0.2% and the Nasdaq fell 0.1%.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "E6AE6CB4-EFA9-4B54-A2E8-40CD95918AC2",
-      "title": "Meta is planning to allow businesses to use free AI chatbots on WhatsApp, a test of the company's approach to the technology.",
-      "link": "https://www.wsj.com/tech/ai/meta-is-bringing-chatbots-to-whatsapp-in-test-of-ai-strategy-830a1303",
-      "published": "2024-06-07T03:05:00.000Z",
-      "description": "Meta is planning to allow businesses to use free AI chatbots on WhatsApp, a test of the company’s approach to the technology.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "A934834A-7E64-4E01-AC98-68DD1D8514C3",
-      "title": "The FTC is investigating whether Microsoft structured one of its latest deals with an artificial-intelligence startup to avoid a government antitrust review.",
-      "link": "https://www.wsj.com/tech/ai/ftc-opens-antitrust-probe-of-microsoft-ai-deal-29b5169a",
-      "published": "2024-06-07T03:05:00.000Z",
-      "description": "The FTC is investigating whether Microsoft structured one of its latest deals with an artificial-intelligence startup to avoid a government antitrust review.",
-      "summary": "",
-      "author": "",
-      "category": {
-        "#text": "PAID",
-        "@_domain": "AccessClassName"
-      }
-    },
-    {
-      "id": "EA6A0126-13A4-45AE-BFB6-13370A082DB5",
-      "title": "The FDA rescinded its 2022 ban on Juul Labs's e-cigarettes, but the agency hasn't yet reached a final determination on whether they can stay on the U.S. market.",
-      "link": "https://www.wsj.com/business/fda-rescinds-juul-ban-opening-door-for-federal-clearance-acc14955",
-      "published": "2024-06-07T03:05:00.000Z",
-      "description": "The FDA rescinded its 2022 ban on Juul Labs’s e-cigarettes, but the agency hasn’t yet reached a final determination on whether they can stay on the U.S. market.",
       "summary": "",
       "author": "",
       "category": {

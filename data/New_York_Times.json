@@ -4,7 +4,7 @@
   "description": "",
   "language": "en-us",
   "generator": "",
-  "published": "2024-06-07T04:18:15.000Z",
+  "published": "2024-06-07T05:10:13.000Z",
   "entries": [
     {
       "id": "https://www.nytimes.com/2024/06/07/world/middleeast/lebanon-israel-hezbollah.html",
@@ -434,7 +434,7 @@
       "id": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
       "title": "Israeli Strike Kills Dozens at Former School Where Civilians Were Sheltering",
       "link": "https://www.nytimes.com/live/2024/06/06/world/israel-gaza-war-hamas",
-      "published": "2024-06-07T04:17:08.000Z",
+      "published": "2024-06-07T05:01:25.000Z",
       "description": "The Israeli military said it had targeted Hamas operatives at a U.N.-run school complex. Palestinian officials said the dead included women and children.",
       "summary": "",
       "author": "",
@@ -688,6 +688,45 @@
       ]
     },
     {
+      "id": "https://www.nytimes.com/2024/06/07/world/asia/new-caledonia-france-unrest.html",
+      "title": "In New Caledonia, ‘No Confidence’ With France After Violent Protests",
+      "link": "https://www.nytimes.com/2024/06/07/world/asia/new-caledonia-france-unrest.html",
+      "published": "2024-06-07T04:19:15.000Z",
+      "description": "An uneasy stalemate exists in the South Pacific territory as Paris continues to enforce a nightly curfew and a ban on the sale of alcohol.",
+      "summary": "",
+      "author": "",
+      "category": [
+        {
+          "#text": "New Caledonia",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "France",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        },
+        {
+          "#text": "Secession and Independence Movements",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Demonstrations, Protests and Riots",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Macron, Emmanuel (1977- )",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        },
+        {
+          "#text": "Politics and Government",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        },
+        {
+          "#text": "Referendums",
+          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      ]
+    },
+    {
       "id": "https://www.nytimes.com/2024/06/07/briefing/india-modi-election.html",
       "title": "Friday Briefing",
       "link": "https://www.nytimes.com/2024/06/07/briefing/india-modi-election.html",
@@ -701,7 +740,7 @@
       "id": "https://www.nytimes.com/2024/06/06/world/middleeast/netanyahu-is-set-to-address-congress-on-july-24.html",
       "title": "Netanyahu Is Set to Address Congress on July 24",
       "link": "https://www.nytimes.com/2024/06/06/world/middleeast/netanyahu-is-set-to-address-congress-on-july-24.html",
-      "published": "2024-06-07T03:29:30.000Z",
+      "published": "2024-06-07T05:01:13.000Z",
       "description": "The political divide over the Israeli prime minister was evident even in the announcement of when he would appear, with Republican and Democratic leaders issuing separate statements.",
       "summary": "",
       "author": "",
@@ -2442,61 +2481,6 @@
       "summary": "",
       "author": "",
       "category": ""
-    },
-    {
-      "id": "https://www.nytimes.com/2024/06/05/world/europe/france-prisoner-manhunt.html",
-      "title": "No Arrest in Prisoner Manhunt in France, Weeks After Deadly Ambush",
-      "link": "https://www.nytimes.com/2024/06/05/world/europe/france-prisoner-manhunt.html",
-      "published": "2024-06-05T04:01:25.000Z",
-      "description": "The aftermath of a brazen attack on a prison convoy has raised uncomfortable questions for France’s justice system.",
-      "summary": "",
-      "author": "",
-      "category": [
-        {
-          "#text": "France",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Fugitives",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Drug Abuse and Traffic",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Prison Escapes",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Prisons and Prisoners",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Police",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/des"
-        },
-        {
-          "#text": "Dupond-Moretti, Eric",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Faid, Redoine",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Abdeslam, Salah",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
-        },
-        {
-          "#text": "Rouen (France)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        },
-        {
-          "#text": "Marseille (France)",
-          "@_domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
-        }
-      ]
     }
   ]
 }
